@@ -1,0 +1,6072 @@
+[
+  {
+    "systemType": "Building Management",
+    "assetType": "BM/BA Controller",
+    "patterns": [
+      {
+        "equipmentId": "Honeywell_WEB-8000",
+        "pattern": [
+          {
+            "text": "Honeywell",
+            "weight": 0.9
+          },
+          {
+            "text": "WEB-8000",
+            "weight": 1.0
+          },
+          {
+            "text": "BACnet",
+            "weight": 0.8
+          },
+          {
+            "text": "Ethernet",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Honeywell",
+          "model": "WEB-8000",
+          "equipmentDetails": {
+            "productType": "Building Automation Controller",
+            "features": [
+              "BACnet/IP and MS/TP support",
+              "Web-based interface",
+              "Scalable I/O modules"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "24 VAC/DC",
+              "memory": "2 GB RAM",
+              "connectivity": "Ethernet, RS-485",
+              "operatingTemp": "0°C to 50°C"
+            },
+            "application": "Commercial and industrial HVAC control"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Siemens_Desigo_CC",
+        "pattern": [
+          {
+            "text": "Siemens",
+            "weight": 0.9
+          },
+          {
+            "text": "Desigo CC",
+            "weight": 1.0
+          },
+          {
+            "text": "Cloud",
+            "weight": 0.8
+          },
+          {
+            "text": "Analytics",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Siemens",
+          "model": "Desigo CC",
+          "equipmentDetails": {
+            "productType": "Building Management System",
+            "features": [
+              "Integrated HVAC, lighting, and fire control",
+              "Cloud connectivity",
+              "Advanced analytics"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "24 VDC",
+              "processor": "Quad-core CPU",
+              "connectivity": "BACnet, Modbus, OPC",
+              "display": "Web-based dashboard"
+            },
+            "application": "Large-scale building management"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Johnson_Controls_Metasys_ADX",
+        "pattern": [
+          {
+            "text": "Johnson Controls",
+            "weight": 0.9
+          },
+          {
+            "text": "Metasys ADX",
+            "weight": 1.0
+          },
+          {
+            "text": "Energy",
+            "weight": 0.8
+          },
+          {
+            "text": "Server",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Johnson Controls",
+          "model": "Metasys ADX",
+          "equipmentDetails": {
+            "productType": "Extended Application and Data Server",
+            "features": [
+              "Centralized data management",
+              "Customizable UI",
+              "Energy monitoring"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "120/240 VAC",
+              "storage": "1 TB SSD",
+              "connectivity": "Ethernet, BACnet/IP",
+              "operatingSystem": "Windows Server"
+            },
+            "application": "Enterprise-level building automation"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Schneider_Electric_EcoStruxure_BMS",
+        "pattern": [
+          {
+            "text": "Schneider Electric",
+            "weight": 0.9
+          },
+          {
+            "text": "EcoStruxure BMS",
+            "weight": 1.0
+          },
+          {
+            "text": "IoT",
+            "weight": 0.8
+          },
+          {
+            "text": "Mobile",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Schneider Electric",
+          "model": "EcoStruxure BMS",
+          "equipmentDetails": {
+            "productType": "Building Management System",
+            "features": [
+              "IoT-enabled",
+              "Energy optimization",
+              "Mobile app integration"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "24 VDC",
+              "memory": "4 GB RAM",
+              "connectivity": "BACnet, Modbus, MQTT",
+              "certifications": "UL Listed"
+            },
+            "application": "Smart buildings and campuses"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Biometric Reader",
+    "patterns": [
+      {
+        "equipmentId": "HID_Global_Signo_40",
+        "pattern": [
+          {
+            "text": "HID Global",
+            "weight": 0.9
+          },
+          {
+            "text": "Signo 40",
+            "weight": 1.0
+          },
+          {
+            "text": "Mobile",
+            "weight": 0.8
+          },
+          {
+            "text": "IP65",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "HID Global",
+          "model": "Signo 40",
+          "equipmentDetails": {
+            "productType": "Biometric Access Reader",
+            "features": [
+              "Multi-technology support",
+              "Mobile credential compatible",
+              "IP65 rated"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "12/24 VDC",
+              "readRange": "Up to 4 inches",
+              "connectivity": "Wiegand, OSDP",
+              "dimensions": "4.8 x 3.3 x 0.9 inches"
+            },
+            "application": "Secure access control for offices"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Suprema_FaceStation_F2",
+        "pattern": [
+          {
+            "text": "Suprema",
+            "weight": 0.9
+          },
+          {
+            "text": "FaceStation F2",
+            "weight": 1.0
+          },
+          {
+            "text": "Facial",
+            "weight": 0.8
+          },
+          {
+            "text": "Touchless",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Suprema",
+          "model": "FaceStation F2",
+          "equipmentDetails": {
+            "productType": "Facial Recognition Reader",
+            "features": [
+              "Infrared-based face recognition",
+              "Multi-RFID support",
+              "Touchless operation"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "12 VDC",
+              "memory": "16 GB",
+              "connectivity": "TCP/IP, Wiegand, RS-485",
+              "operatingTemp": "-20°C to 50°C"
+            },
+            "application": "High-security facilities"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "ZKTeco_ProFace_X",
+        "pattern": [
+          {
+            "text": "ZKTeco",
+            "weight": 0.9
+          },
+          {
+            "text": "ProFace X",
+            "weight": 1.0
+          },
+          {
+            "text": "Palm",
+            "weight": 0.8
+          },
+          {
+            "text": "IP68",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "ZKTeco",
+          "model": "ProFace X",
+          "equipmentDetails": {
+            "productType": "Biometric Terminal",
+            "features": [
+              "Palm and face recognition",
+              "High-speed verification",
+              "IP68 rated"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "12 VDC",
+              "capacity": "30,000 face templates",
+              "connectivity": "TCP/IP, Wi-Fi",
+              "dimensions": "8.9 x 5.6 x 1.2 inches"
+            },
+            "application": "Industrial and outdoor environments"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Card Reader",
+    "patterns": [
+      {
+        "equipmentId": "HID_Global_iCLASS_SE_R40",
+        "pattern": [
+          {
+            "text": "HID Global",
+            "weight": 0.9
+          },
+          {
+            "text": "iCLASS SE R40",
+            "weight": 1.0
+          },
+          {
+            "text": "Smart Card",
+            "weight": 0.8
+          },
+          {
+            "text": "OSDP",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "HID Global",
+          "model": "iCLASS SE R40",
+          "equipmentDetails": {
+            "productType": "Contactless Smart Card Reader",
+            "features": [
+              "13.56 MHz smart card support",
+              "Secure identity object",
+              "OSDP compatible"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "5-16 VDC",
+              "readRange": "Up to 3.5 inches",
+              "connectivity": "Wiegand, RS-485",
+              "certifications": "IP55"
+            },
+            "application": "Office and institutional access control"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Paxton_Net2_Proximity",
+        "pattern": [
+          {
+            "text": "Paxton",
+            "weight": 0.9
+          },
+          {
+            "text": "Net2 Proximity",
+            "weight": 1.0
+          },
+          {
+            "text": "Proximity",
+            "weight": 0.8
+          },
+          {
+            "text": "Weatherproof",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Paxton",
+          "model": "Net2 Proximity Reader",
+          "equipmentDetails": {
+            "productType": "Proximity Card Reader",
+            "features": [
+              "Hands-free access",
+              "Weatherproof design",
+              "LED indicators"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "12 VDC",
+              "readRange": "Up to 100 mm",
+              "connectivity": "TCP/IP, Wiegand",
+              "operatingTemp": "-20°C to 55°C"
+            },
+            "application": "Small to medium-sized businesses"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Bosch_LECTUS_secure_2000",
+        "pattern": [
+          {
+            "text": "Bosch",
+            "weight": 0.9
+          },
+          {
+            "text": "LECTUS secure 2000",
+            "weight": 1.0
+          },
+          {
+            "text": "MIFARE",
+            "weight": 0.8
+          },
+          {
+            "text": "Encrypted",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Bosch",
+          "model": "LECTUS secure 2000",
+          "equipmentDetails": {
+            "productType": "Smart Card Reader",
+            "features": [
+              "MIFARE card support",
+              "Encrypted communication",
+              "Tamper detection"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "10-30 VDC",
+              "readRange": "Up to 5 cm",
+              "connectivity": "OSDP, Wiegand",
+              "dimensions": "4.7 x 2.8 x 0.7 inches"
+            },
+            "application": "High-security environments"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Door Station",
+    "patterns": [
+      {
+        "equipmentId": "Aiphone_IX-SSA",
+        "pattern": [
+          {
+            "text": "Aiphone",
+            "weight": 0.9
+          },
+          {
+            "text": "IX-SSA",
+            "weight": 1.0
+          },
+          {
+            "text": "SIP",
+            "weight": 0.8
+          },
+          {
+            "text": "IP65",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Aiphone",
+          "model": "IX-SSA",
+          "equipmentDetails": {
+            "productType": "IP Audio Door Station",
+            "features": [
+              "SIP compatible",
+              "Stainless steel construction",
+              "Night vision camera"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "PoE (802.3af)",
+              "audio": "Full-duplex",
+              "connectivity": "Ethernet",
+              "protection": "IP65"
+            },
+            "application": "Commercial and residential entry systems"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Hikvision_DS-KV8113-WME1",
+        "pattern": [
+          {
+            "text": "Hikvision",
+            "weight": 0.9
+          },
+          {
+            "text": "DS-KV8113-WME1",
+            "weight": 1.0
+          },
+          {
+            "text": "1920x1080",
+            "weight": 0.8
+          },
+          {
+            "text": "Wi-Fi",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Hikvision",
+          "model": "DS-KV8113-WME1",
+          "equipmentDetails": {
+            "productType": "IP Video Door Station",
+            "features": [
+              "2MP HD camera",
+              "Two-way audio",
+              "Mobile app integration"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "12 VDC or PoE",
+              "resolution": "1920x1080",
+              "connectivity": "Wi-Fi, Ethernet",
+              "operatingTemp": "-30°C to 60°C"
+            },
+            "application": "Apartment and office buildings"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "2N_IP_Verso",
+        "pattern": [
+          {
+            "text": "2N",
+            "weight": 0.9
+          },
+          {
+            "text": "IP Verso",
+            "weight": 1.0
+          },
+          {
+            "text": "Touchscreen",
+            "weight": 0.8
+          },
+          {
+            "text": "HD",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "2N",
+          "model": "IP Verso",
+          "equipmentDetails": {
+            "productType": "Modular IP Intercom",
+            "features": [
+              "Touchscreen display",
+              "Bluetooth access",
+              "HD camera"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "PoE or 12 VDC",
+              "audio": "HD audio",
+              "connectivity": "SIP, Ethernet",
+              "protection": "IP54, IK08"
+            },
+            "application": "High-end commercial and residential"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Intercom Station",
+    "patterns": [
+      {
+        "equipmentId": "Aiphone_GT-DMB-N",
+        "pattern": [
+          {
+            "text": "Aiphone",
+            "weight": 0.9
+          },
+          {
+            "text": "GT-DMB-N",
+            "weight": 1.0
+          },
+          {
+            "text": "LCD",
+            "weight": 0.8
+          },
+          {
+            "text": "Hands-free",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Aiphone",
+          "model": "GT-DMB-N",
+          "equipmentDetails": {
+            "productType": "Video Intercom Station",
+            "features": [
+              "3.5-inch color LCD",
+              "Hands-free communication",
+              "Zoom and pan camera"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "24 VDC",
+              "resolution": "QVGA",
+              "connectivity": "Wired",
+              "dimensions": "7.5 x 5.5 x 1.2 inches"
+            },
+            "application": "Multi-tenant buildings"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Comelit_Mini_Handsfree",
+        "pattern": [
+          {
+            "text": "Comelit",
+            "weight": 0.9
+          },
+          {
+            "text": "Mini Handsfree",
+            "weight": 1.0
+          },
+          {
+            "text": "Wi-Fi",
+            "weight": 0.8
+          },
+          {
+            "text": "Touch",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Comelit",
+          "model": "Mini Handsfree",
+          "equipmentDetails": {
+            "productType": "Audio/Video Intercom",
+            "features": [
+              "Wi-Fi connectivity",
+              "Wall-mounted",
+              "Touch buttons"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "PoE or 12 VDC",
+              "audio": "Full-duplex",
+              "connectivity": "Wi-Fi, Ethernet",
+              "protection": "IP44"
+            },
+            "application": "Residential apartments"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Hikvision_DS-KH6320-WTE1",
+        "pattern": [
+          {
+            "text": "Hikvision",
+            "weight": 0.9
+          },
+          {
+            "text": "DS-KH6320-WTE1",
+            "weight": 1.0
+          },
+          {
+            "text": "Touchscreen",
+            "weight": 0.8
+          },
+          {
+            "text": "1024x600",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Hikvision",
+          "model": "DS-KH6320-WTE1",
+          "equipmentDetails": {
+            "productType": "Indoor Intercom Monitor",
+            "features": [
+              "7-inch touchscreen",
+              "Two-way video call",
+              "Alarm integration"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "PoE or 12 VDC",
+              "resolution": "1024x600",
+              "connectivity": "Wi-Fi, Ethernet",
+              "memory": "128 MB"
+            },
+            "application": "Office and residential intercom systems"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Video Intercom",
+    "patterns": [
+      {
+        "equipmentId": "Aiphone_IXG-DM7",
+        "pattern": [
+          {
+            "text": "Aiphone",
+            "weight": 0.9
+          },
+          {
+            "text": "IXG-DM7",
+            "weight": 1.0
+          },
+          {
+            "text": "Touchscreen",
+            "weight": 0.8
+          },
+          {
+            "text": "SIP",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Aiphone",
+          "model": "IXG-DM7",
+          "equipmentDetails": {
+            "productType": "IP Video Intercom",
+            "features": [
+              "7-inch touchscreen",
+              "SIP integration",
+              "Mobile app support"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "PoE (802.3af)",
+              "resolution": "800x480",
+              "connectivity": "Ethernet",
+              "protection": "IP65"
+            },
+            "application": "High-rise buildings and campuses"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "2N_IP_Force",
+        "pattern": [
+          {
+            "text": "2N",
+            "weight": 0.9
+          },
+          {
+            "text": "IP Force",
+            "weight": 1.0
+          },
+          {
+            "text": "HD",
+            "weight": 0.8
+          },
+          {
+            "text": "IP69K",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "2N",
+          "model": "IP Force",
+          "equipmentDetails": {
+            "productType": "Rugged IP Video Intercom",
+            "features": [
+              "HD camera",
+              "Anti-vandal design",
+              "RFID access"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "PoE or 12 VDC",
+              "resolution": "1280x960",
+              "connectivity": "SIP, Ethernet",
+              "protection": "IP69K, IK10"
+            },
+            "application": "Industrial and high-security areas"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Hikvision_DS-KV9503-WBE1",
+        "pattern": [
+          {
+            "text": "Hikvision",
+            "weight": 0.9
+          },
+          {
+            "text": "DS-KV9503-WBE1",
+            "weight": 1.0
+          },
+          {
+            "text": "Face",
+            "weight": 0.8
+          },
+          {
+            "text": "IP65",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Hikvision",
+          "model": "DS-KV9503-WBE1",
+          "equipmentDetails": {
+            "productType": "Facial Recognition Intercom",
+            "features": [
+              "Face recognition",
+              "4-inch LCD",
+              "IP65 rated"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "PoE or 12 VDC",
+              "resolution": "1920x1080",
+              "connectivity": "Wi-Fi, Ethernet",
+              "storage": "256 MB"
+            },
+            "application": "Secure residential and commercial entry"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Access Control Panel",
+    "patterns": [
+      {
+        "equipmentId": "Honeywell_NetAXS-123",
+        "pattern": [
+          {
+            "text": "Honeywell",
+            "weight": 0.9
+          },
+          {
+            "text": "NetAXS-123",
+            "weight": 1.0
+          },
+          {
+            "text": "Web",
+            "weight": 0.8
+          },
+          {
+            "text": "PoE",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Honeywell",
+          "model": "NetAXS-123",
+          "equipmentDetails": {
+            "productType": "Access Control Panel",
+            "features": [
+              "Supports 3 doors",
+              "Web-based management",
+              "PoE support"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "12 VDC or PoE",
+              "capacity": "10,000 cardholders",
+              "connectivity": "Ethernet, RS-485",
+              "dimensions": "12 x 12 x 4 inches"
+            },
+            "application": "Small to medium-sized facilities"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Bosch_AMC2-4W",
+        "pattern": [
+          {
+            "text": "Bosch",
+            "weight": 0.9
+          },
+          {
+            "text": "AMC2-4W",
+            "weight": 1.0
+          },
+          {
+            "text": "Wiegand",
+            "weight": 0.8
+          },
+          {
+            "text": "Encrypted",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Bosch",
+          "model": "AMC2-4W",
+          "equipmentDetails": {
+            "productType": "Access Controller",
+            "features": [
+              "4 Wiegand readers",
+              "Encrypted communication",
+              "DIN rail mount"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "10-30 VDC",
+              "capacity": "200,000 cardholders",
+              "connectivity": "Ethernet, RS-485",
+              "operatingTemp": "0°C to 50°C"
+            },
+            "application": "Enterprise access control"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Paxton_Net2_Plus",
+        "pattern": [
+          {
+            "text": "Paxton",
+            "weight": 0.9
+          },
+          {
+            "text": "Net2 Plus",
+            "weight": 1.0
+          },
+          {
+            "text": "TCP/IP",
+            "weight": 0.8
+          },
+          {
+            "text": "Event",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Paxton",
+          "model": "Net2 Plus",
+          "equipmentDetails": {
+            "productType": "Networked Access Controller",
+            "features": [
+              "TCP/IP connectivity",
+              "Supports 50,000 users",
+              "Event logging"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "12 VDC",
+              "readers": "2 per controller",
+              "connectivity": "Ethernet",
+              "dimensions": "9 x 5 x 2 inches"
+            },
+            "application": "Commercial and educational facilities"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Network Video Recorder",
+    "patterns": [
+      {
+        "equipmentId": "Hikvision_DS-7716NI-I4",
+        "pattern": [
+          {
+            "text": "Hikvision",
+            "weight": 0.9
+          },
+          {
+            "text": "DS-7716NI-I4",
+            "weight": 1.0
+          },
+          {
+            "text": "4K",
+            "weight": 0.8
+          },
+          {
+            "text": "H.265",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Hikvision",
+          "model": "DS-7716NI-I4",
+          "equipmentDetails": {
+            "productType": "Network Video Recorder",
+            "features": [
+              "16-channel IP camera support",
+              "4K output",
+              "H.265+ compression"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "100-240 VAC",
+              "storage": "Up to 24 TB",
+              "connectivity": "Ethernet, HDMI",
+              "bandwidth": "160 Mbps incoming"
+            },
+            "application": "Medium to large surveillance systems"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Dahua_NVR5216-16P-I",
+        "pattern": [
+          {
+            "text": "Dahua",
+            "weight": 0.9
+          },
+          {
+            "text": "NVR5216-16P-I",
+            "weight": 1.0
+          },
+          {
+            "text": "PoE",
+            "weight": 0.8
+          },
+          {
+            "text": "AI",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Dahua",
+          "model": "NVR5216-16P-I",
+          "equipmentDetails": {
+            "productType": "Network Video Recorder",
+            "features": [
+              "16 PoE ports",
+              "AI analytics",
+              "4K resolution"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "100-240 VAC",
+              "storage": "Up to 20 TB",
+              "connectivity": "Ethernet, VGA, HDMI",
+              "bandwidth": "320 Mbps"
+            },
+            "application": "Commercial and industrial surveillance"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Axis_S1148",
+        "pattern": [
+          {
+            "text": "Axis",
+            "weight": 0.9
+          },
+          {
+            "text": "S1148",
+            "weight": 1.0
+          },
+          {
+            "text": "RAID",
+            "weight": 0.8
+          },
+          {
+            "text": "48 TB",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Axis",
+          "model": "S1148",
+          "equipmentDetails": {
+            "productType": "Network Video Recorder",
+            "features": [
+              "48 TB preconfigured storage",
+              "RAID support",
+              "Axis Camera Station"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "100-240 VAC",
+              "storage": "48 TB",
+              "connectivity": "Ethernet, USB",
+              "channels": "Up to 48 cameras"
+            },
+            "application": "Enterprise-level video management"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "IP Camera",
+    "patterns": [
+      {
+        "equipmentId": "Hikvision_DS-2CD2143G0-I",
+        "pattern": [
+          {
+            "text": "Hikvision",
+            "weight": 0.9
+          },
+          {
+            "text": "DS-2CD2143G0-I",
+            "weight": 1.0
+          },
+          {
+            "text": "4MP",
+            "weight": 0.8
+          },
+          {
+            "text": "IP67",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Hikvision",
+          "model": "DS-2CD2143G0-I",
+          "equipmentDetails": {
+            "productType": "IP Dome Camera",
+            "features": [
+              "4MP resolution",
+              "IR night vision",
+              "H.265+ compression"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "12 VDC or PoE",
+              "resolution": "2688x1520",
+              "lens": "2.8 mm",
+              "protection": "IP67, IK10"
+            },
+            "application": "Indoor and outdoor surveillance"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Axis_P3265-LVE",
+        "pattern": [
+          {
+            "text": "Axis",
+            "weight": 0.9
+          },
+          {
+            "text": "P3265-LVE",
+            "weight": 1.0
+          },
+          {
+            "text": "2MP",
+            "weight": 0.8
+          },
+          {
+            "text": "IP66",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Axis",
+          "model": "P3265-LVE",
+          "equipmentDetails": {
+            "productType": "IP Dome Camera",
+            "features": [
+              "2MP resolution",
+              "Lightfinder 2.0",
+              "Forensic WDR"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "PoE",
+              "resolution": "1920x1080",
+              "lens": "3.4-8.9 mm varifocal",
+              "protection": "IP66, IK10"
+            },
+            "application": "High-security surveillance"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Dahua_IPC-HDW5442TM-AS",
+        "pattern": [
+          {
+            "text": "Dahua",
+            "weight": 0.9
+          },
+          {
+            "text": "IPC-HDW5442TM-AS",
+            "weight": 1.0
+          },
+          {
+            "text": "Starlight",
+            "weight": 0.8
+          },
+          {
+            "text": "4MP",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Dahua",
+          "model": "IPC-HDW5442TM-AS",
+          "equipmentDetails": {
+            "productType": "IP Turret Camera",
+            "features": [
+              "4MP Starlight",
+              "Built-in mic",
+              "AI analytics"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "12 VDC or PoE",
+              "resolution": "2688x1520",
+              "lens": "2.8 mm",
+              "protection": "IP67"
+            },
+            "application": "Retail and office monitoring"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Light Fixture",
+    "patterns": [
+      {
+        "equipmentId": "Philips_CoreLine_Recessed",
+        "pattern": [
+          {
+            "text": "Philips",
+            "weight": 0.9
+          },
+          {
+            "text": "CoreLine Recessed",
+            "weight": 1.0
+          },
+          {
+            "text": "LED",
+            "weight": 0.8
+          },
+          {
+            "text": "4000 lm",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Philips Lighting",
+          "model": "CoreLine Recessed",
+          "equipmentDetails": {
+            "productType": "LED Recessed Light",
+            "features": [
+              "Dimmable",
+              "High efficacy",
+              "CRI 80"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "100-277 VAC",
+              "lumenOutput": "4000 lm",
+              "colorTemp": "4000K",
+              "lifespan": "50,000 hours"
+            },
+            "application": "Office and commercial lighting"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Cree_CR24_Troffer",
+        "pattern": [
+          {
+            "text": "Cree",
+            "weight": 0.9
+          },
+          {
+            "text": "CR24 Troffer",
+            "weight": 1.0
+          },
+          {
+            "text": "5000 lm",
+            "weight": 0.8
+          },
+          {
+            "text": "CRI 90",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Cree Lighting",
+          "model": "CR24 Troffer",
+          "equipmentDetails": {
+            "productType": "LED Troffer",
+            "features": [
+              "0-10V dimming",
+              "SmartCast technology",
+              "CRI 90"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "120-277 VAC",
+              "lumenOutput": "5000 lm",
+              "colorTemp": "3500K",
+              "dimensions": "2x4 ft"
+            },
+            "application": "Institutional and healthcare facilities"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Acuity_Lithonia_BLT",
+        "pattern": [
+          {
+            "text": "Acuity Brands",
+            "weight": 0.9
+          },
+          {
+            "text": "Lithonia BLT",
+            "weight": 1.0
+          },
+          {
+            "text": "Tunable",
+            "weight": 0.8
+          },
+          {
+            "text": "4400 lm",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Acuity Brands",
+          "model": "Lithonia BLT",
+          "equipmentDetails": {
+            "productType": "LED Volumetric Troffer",
+            "features": [
+              "Tunable white",
+              "nLight compatible",
+              "Low glare"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "120-277 VAC",
+              "lumenOutput": "4400 lm",
+              "colorTemp": "3000K-5000K",
+              "lifespan": "60,000 hours"
+            },
+            "application": "Educational and office environments"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Lighting Controller",
+    "patterns": [
+      {
+        "equipmentId": "Lutron_Vive_Hub",
+        "pattern": [
+          {
+            "text": "Lutron",
+            "weight": 0.9
+          },
+          {
+            "text": "Vive Hub",
+            "weight": 1.0
+          },
+          {
+            "text": "BACnet",
+            "weight": 0.8
+          },
+          {
+            "text": "Wireless",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Lutron",
+          "model": "Vive Hub",
+          "equipmentDetails": {
+            "productType": "Wireless Lighting Controller",
+            "features": [
+              "BACnet integration",
+              "Mobile app control",
+              "Timeclock scheduling"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "24 VDC",
+              "capacity": "Up to 700 devices",
+              "connectivity": "Ethernet, Wi-Fi",
+              "range": "30 ft"
+            },
+            "application": "Commercial lighting management"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Philips_Dynalite_DDBC1200",
+        "pattern": [
+          {
+            "text": "Philips",
+            "weight": 0.9
+          },
+          {
+            "text": "DDBC1200",
+            "weight": 1.0
+          },
+          {
+            "text": "DMX",
+            "weight": 0.8
+          },
+          {
+            "text": "Relay",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Philips",
+          "model": "Dynalite DDBC1200",
+          "equipmentDetails": {
+            "productType": "Lighting Control Relay",
+            "features": [
+              "DMX512 support",
+              "12-channel relay",
+              "Scene programming"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "100-240 VAC",
+              "load": "20A per channel",
+              "connectivity": "DyNet, Ethernet",
+              "dimensions": "17 x 10 x 3 inches"
+            },
+            "application": "Theaters and large facilities"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Acuity_nLight_ECLYPSE",
+        "pattern": [
+          {
+            "text": "Acuity Brands",
+            "weight": 0.9
+          },
+          {
+            "text": "nLight ECLYPSE",
+            "weight": 1.0
+          },
+          {
+            "text": "Cloud",
+            "weight": 0.8
+          },
+          {
+            "text": "BACnet",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Acuity Brands",
+          "model": "nLight ECLYPSE",
+          "equipmentDetails": {
+            "productType": "Networked Lighting Controller",
+            "features": [
+              "BACnet/IP",
+              "Cloud connectivity",
+              "Energy reporting"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "24 VDC",
+              "capacity": "Up to 1000 devices",
+              "connectivity": "Ethernet, Wi-Fi",
+              "certifications": "UL Listed"
+            },
+            "application": "Smart building lighting systems"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Occupancy Sensor",
+    "patterns": [
+      {
+        "equipmentId": "Leviton_OSC20-M0W",
+        "pattern": [
+          {
+            "text": "Leviton",
+            "weight": 0.9
+          },
+          {
+            "text": "OSC20-M0W",
+            "weight": 1.0
+          },
+          {
+            "text": "PIR",
+            "weight": 0.8
+          },
+          {
+            "text": "2000 sq ft",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Leviton",
+          "model": "OSC20-M0W",
+          "equipmentDetails": {
+            "productType": "Ceiling-Mount Occupancy Sensor",
+            "features": [
+              "PIR and ultrasonic detection",
+              "Adjustable sensitivity",
+              "Daylight harvesting"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "24 VDC",
+              "coverage": "2000 sq ft",
+              "connectivity": "Wired",
+              "operatingTemp": "0°C to 40°C"
+            },
+            "application": "Offices and conference rooms"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Lutron_LRF2-OCR2B-P",
+        "pattern": [
+          {
+            "text": "Lutron",
+            "weight": 0.9
+          },
+          {
+            "text": "LRF2-OCR2B-P",
+            "weight": 1.0
+          },
+          {
+            "text": "Wireless",
+            "weight": 0.8
+          },
+          {
+            "text": "1500 sq ft",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Lutron",
+          "model": "LRF2-OCR2B-P",
+          "equipmentDetails": {
+            "productType": "Wireless Occupancy Sensor",
+            "features": [
+              "Radio Powr Savr",
+              "10-year battery life",
+              "Ceiling mount"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "Battery (CR123)",
+              "coverage": "1500 sq ft",
+              "connectivity": "Wireless (434 MHz)",
+              "range": "60 ft"
+            },
+            "application": "Classrooms and small offices"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Wattstopper_LMPC-100",
+        "pattern": [
+          {
+            "text": "Wattstopper",
+            "weight": 0.9
+          },
+          {
+            "text": "LMPC-100",
+            "weight": 1.0
+          },
+          {
+            "text": "BACnet",
+            "weight": 0.8
+          },
+          {
+            "text": "PIR",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Wattstopper",
+          "model": "LMPC-100",
+          "equipmentDetails": {
+            "productType": "Digital PIR Occupancy Sensor",
+            "features": [
+              "BACnet integration",
+              "Dual technology",
+              "Remote programming"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "24 VDC",
+              "coverage": "1000 sq ft",
+              "connectivity": "RJ45, BACnet",
+              "protection": "IP20"
+            },
+            "application": "Commercial and institutional spaces"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Smart Thermostat",
+    "patterns": [
+      {
+        "equipmentId": "Honeywell_T9_Smart",
+        "pattern": [
+          {
+            "text": "Honeywell",
+            "weight": 0.9
+          },
+          {
+            "text": "T9 Smart",
+            "weight": 1.0
+          },
+          {
+            "text": "Wi-Fi",
+            "weight": 0.8
+          },
+          {
+            "text": "Geofencing",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Honeywell",
+          "model": "T9 Smart",
+          "equipmentDetails": {
+            "productType": "Smart Thermostat",
+            "features": [
+              "Wi-Fi connectivity",
+              "Geofencing",
+              "Room sensors"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "24 VAC or battery",
+              "display": "Touchscreen",
+              "connectivity": "Wi-Fi (2.4 GHz)",
+              "compatibility": "Most HVAC systems"
+            },
+            "application": "Residential and small commercial"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Nest_Learning_Thermostat_3rd_Gen",
+        "pattern": [
+          {
+            "text": "Nest",
+            "weight": 0.9
+          },
+          {
+            "text": "Learning Thermostat",
+            "weight": 1.0
+          },
+          {
+            "text": "Auto-schedule",
+            "weight": 0.8
+          },
+          {
+            "text": "Wi-Fi",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Nest",
+          "model": "Learning Thermostat 3rd Gen",
+          "equipmentDetails": {
+            "productType": "Smart Thermostat",
+            "features": [
+              "Auto-schedule",
+              "Home/Away assist",
+              "Voice control"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "Battery or 24 VAC",
+              "display": "480x480 LCD",
+              "connectivity": "Wi-Fi, Bluetooth",
+              "dimensions": "3.3 x 1.2 inches"
+            },
+            "application": "Residential homes"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Ecobee_SmartThermostat",
+        "pattern": [
+          {
+            "text": "Ecobee",
+            "weight": 0.9
+          },
+          {
+            "text": "SmartThermostat",
+            "weight": 1.0
+          },
+          {
+            "text": "Alexa",
+            "weight": 0.8
+          },
+          {
+            "text": "Touchscreen",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Ecobee",
+          "model": "SmartThermostat",
+          "equipmentDetails": {
+            "productType": "Smart Thermostat",
+            "features": [
+              "Built-in Alexa",
+              "SmartSensor",
+              "Energy savings"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "24 VAC",
+              "display": "3.5-inch touchscreen",
+              "connectivity": "Wi-Fi (2.4/5 GHz)",
+              "compatibility": "Up to 32 stages"
+            },
+            "application": "Residential and light commercial"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "VAV Box",
+    "patterns": [
+      {
+        "equipmentId": "Trane_VCCF",
+        "pattern": [
+          {
+            "text": "Trane",
+            "weight": 0.9
+          },
+          {
+            "text": "VCCF",
+            "weight": 1.0
+          },
+          {
+            "text": "BACnet",
+            "weight": 0.8
+          },
+          {
+            "text": "4000 CFM",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Trane",
+          "model": "VCCF",
+          "equipmentDetails": {
+            "productType": "Variable Air Volume Box",
+            "features": [
+              "BACnet control",
+              "Low leakage damper",
+              "Factory-installed controls"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "24 VAC",
+              "size": "6-16 inches",
+              "airflow": "Up to 4000 CFM",
+              "material": "Galvanized steel"
+            },
+            "application": "Commercial HVAC systems"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Titus_DESV",
+        "pattern": [
+          {
+            "text": "Titus",
+            "weight": 0.9
+          },
+          {
+            "text": "DESV",
+            "weight": 1.0
+          },
+          {
+            "text": "Electronic",
+            "weight": 0.8
+          },
+          {
+            "text": "2000 CFM",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Titus",
+          "model": "DESV",
+          "equipmentDetails": {
+            "productType": "Digital VAV Diffuser",
+            "features": [
+              "Electronic control",
+              "Quiet operation",
+              "Energy efficient"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "24 VDC",
+              "airflow": "100-2000 CFM",
+              "control": "DDC compatible",
+              "dimensions": "24 x 24 inches"
+            },
+            "application": "Office and institutional HVAC"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Johnson_Controls_TSS",
+        "pattern": [
+          {
+            "text": "Johnson Controls",
+            "weight": 0.9
+          },
+          {
+            "text": "TSS",
+            "weight": 1.0
+          },
+          {
+            "text": "Reheat",
+            "weight": 0.8
+          },
+          {
+            "text": "3000 CFM",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Johnson Controls",
+          "model": "TSS",
+          "equipmentDetails": {
+            "productType": "Single Duct VAV Terminal",
+            "features": [
+              "Modulating damper",
+              "Hot water reheat",
+              "Low profile"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "24 VAC",
+              "airflow": "Up to 3000 CFM",
+              "control": "BACnet, LON",
+              "material": "22-gauge steel"
+            },
+            "application": "Commercial and educational buildings"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "VFD (Variable Frequency Drive)",
+    "patterns": [
+      {
+        "equipmentId": "ABB_ACH580",
+        "pattern": [
+          {
+            "text": "ABB",
+            "weight": 0.9
+          },
+          {
+            "text": "ACH580",
+            "weight": 1.0
+          },
+          {
+            "text": "BACnet",
+            "weight": 0.8
+          },
+          {
+            "text": "HVAC",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "ABB",
+          "model": "ACH580",
+          "equipmentDetails": {
+            "productType": "Variable Frequency Drive",
+            "features": [
+              "BACnet communication",
+              "Energy optimization",
+              "Harmonic mitigation"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "208-480 VAC",
+              "powerRange": "0.75-500 kW",
+              "connectivity": "BACnet, Modbus",
+              "protection": "IP55"
+            },
+            "application": "HVAC and pump control"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Danfoss_VLT_HVAC_Drive",
+        "pattern": [
+          {
+            "text": "Danfoss",
+            "weight": 0.9
+          },
+          {
+            "text": "VLT HVAC Drive",
+            "weight": 1.0
+          },
+          {
+            "text": "Energy",
+            "weight": 0.8
+          },
+          {
+            "text": "Modbus",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Danfoss",
+          "model": "VLT HVAC Drive",
+          "equipmentDetails": {
+            "productType": "Variable Frequency Drive",
+            "features": [
+              "Automatic energy optimization",
+              "Built-in PID controller",
+              "Low harmonic drive"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "200-690 VAC",
+              "powerRange": "1.1-1400 kW",
+              "connectivity": "Modbus, BACnet",
+              "protection": "IP66"
+            },
+            "application": "Commercial HVAC systems"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Siemens_G120X",
+        "pattern": [
+          {
+            "text": "Siemens",
+            "weight": 0.9
+          },
+          {
+            "text": "G120X",
+            "weight": 1.0
+          },
+          {
+            "text": "Pump",
+            "weight": 0.8
+          },
+          {
+            "text": "PROFINET",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Siemens",
+          "model": "G120X",
+          "equipmentDetails": {
+            "productType": "Variable Frequency Drive",
+            "features": [
+              "Optimized for pumps and fans",
+              "Integrated safety functions",
+              "Cloud connectivity"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "380-690 VAC",
+              "powerRange": "0.75-630 kW",
+              "connectivity": "PROFINET, Modbus",
+              "protection": "IP20"
+            },
+            "application": "Industrial and HVAC applications"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Plumbing",
+    "assetType": "Piping: Domestic Water Piping",
+    "patterns": [
+      {
+        "equipmentId": "Uponor_AquaPEX",
+        "pattern": [
+          {
+            "text": "Uponor",
+            "weight": 0.9
+          },
+          {
+            "text": "AquaPEX",
+            "weight": 1.0
+          },
+          {
+            "text": "PEX",
+            "weight": 0.8
+          },
+          {
+            "text": "Potable",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Uponor",
+          "model": "AquaPEX",
+          "equipmentDetails": {
+            "productType": "PEX Tubing",
+            "features": [
+              "Flexible installation",
+              "Corrosion resistant",
+              "NSF certified"
+            ],
+            "technicalSpecs": {
+              "material": "Cross-linked polyethylene",
+              "diameter": "1/2 to 2 inches",
+              "pressureRating": "160 psi at 73°F",
+              "color": "White"
+            },
+            "application": "Residential and commercial water distribution"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Viega_PureFlow",
+        "pattern": [
+          {
+            "text": "Viega",
+            "weight": 0.9
+          },
+          {
+            "text": "PureFlow",
+            "weight": 1.0
+          },
+          {
+            "text": "PEX",
+            "weight": 0.8
+          },
+          {
+            "text": "Press",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Viega",
+          "model": "PureFlow",
+          "equipmentDetails": {
+            "productType": "PEX Piping System",
+            "features": [
+              "Zero-lead fittings",
+              "Quick press connections",
+              "UV resistant"
+            ],
+            "technicalSpecs": {
+              "material": "PEX-b",
+              "diameter": "3/8 to 1 inch",
+              "pressureRating": "100 psi at 180°F",
+              "certifications": "NSF/ANSI 61"
+            },
+            "application": "Potable water systems"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "SharkBite_PEX-B",
+        "pattern": [
+          {
+            "text": "SharkBite",
+            "weight": 0.9
+          },
+          {
+            "text": "PEX-B",
+            "weight": 1.0
+          },
+          {
+            "text": "Push-to-Connect",
+            "weight": 0.8
+          },
+          {
+            "text": "Flexible",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "SharkBite",
+          "model": "PEX-B",
+          "equipmentDetails": {
+            "productType": "PEX Tubing",
+            "features": [
+              "Push-to-connect fittings",
+              "Freeze resistant",
+              "Chlorine resistant"
+            ],
+            "technicalSpecs": {
+              "material": "PEX-b",
+              "diameter": "1/2 to 1 inch",
+              "pressureRating": "160 psi at 73°F",
+              "color": "Blue, Red, White"
+            },
+            "application": "Residential plumbing"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Plumbing",
+    "assetType": "Piping: Gas Piping",
+    "patterns": [
+      {
+        "equipmentId": "TracPipe_CounterStrike",
+        "pattern": [
+          {
+            "text": "TracPipe",
+            "weight": 0.9
+          },
+          {
+            "text": "CounterStrike",
+            "weight": 1.0
+          },
+          {
+            "text": "CSST",
+            "weight": 0.8
+          },
+          {
+            "text": "Gas",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "TracPipe",
+          "model": "CounterStrike",
+          "equipmentDetails": {
+            "productType": "Corrugated Stainless Steel Tubing",
+            "features": [
+              "Lightning resistant",
+              "Flexible installation",
+              "No welding required"
+            ],
+            "technicalSpecs": {
+              "material": "Stainless steel with PE jacket",
+              "diameter": "3/8 to 2 inches",
+              "pressureRating": "5 psi",
+              "certifications": "CSA, ICC"
+            },
+            "application": "Natural gas and propane distribution"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Wardflex_CSST",
+        "pattern": [
+          {
+            "text": "Wardflex",
+            "weight": 0.9
+          },
+          {
+            "text": "CSST",
+            "weight": 1.0
+          },
+          {
+            "text": "Gas",
+            "weight": 0.8
+          },
+          {
+            "text": "Flexible",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Wardflex",
+          "model": "CSST",
+          "equipmentDetails": {
+            "productType": "Corrugated Stainless Steel Tubing",
+            "features": [
+              "Yellow jacket for visibility",
+              "Quick installation",
+              "Arc-resistant"
+            ],
+            "technicalSpecs": {
+              "material": "Stainless steel",
+              "diameter": "1/2 to 2 inches",
+              "pressureRating": "5 psi",
+              "certifications": "ANSI LC1"
+            },
+            "application": "Residential and commercial gas piping"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Gastite_FlashShield",
+        "pattern": [
+          {
+            "text": "Gastite",
+            "weight": 0.9
+          },
+          {
+            "text": "FlashShield",
+            "weight": 1.0
+          },
+          {
+            "text": "CSST",
+            "weight": 0.8
+          },
+          {
+            "text": "Lightning",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Gastite",
+          "model": "FlashShield",
+          "equipmentDetails": {
+            "productType": "Corrugated Stainless Steel Tubing",
+            "features": [
+              "Multi-layer jacket",
+              "No bonding required",
+              "High corrosion resistance"
+            ],
+            "technicalSpecs": {
+              "material": "Stainless steel with polymer jacket",
+              "diameter": "3/8 to 2 inches",
+              "pressureRating": "25 psi",
+              "certifications": "CSA, ICC-ES"
+            },
+            "application": "Gas distribution systems"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Plumbing",
+    "assetType": "Piping: Waste & Vent Piping",
+    "patterns": [
+      {
+        "equipmentId": "Charlotte_PVC_Schedule_40",
+        "pattern": [
+          {
+            "text": "Charlotte Pipe",
+            "weight": 0.9
+          },
+          {
+            "text": "PVC Schedule 40",
+            "weight": 1.0
+          },
+          {
+            "text": "PVC",
+            "weight": 0.8
+          },
+          {
+            "text": "DWV",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Charlotte Pipe",
+          "model": "PVC Schedule 40",
+          "equipmentDetails": {
+            "productType": "PVC Piping",
+            "features": [
+              "Corrosion resistant",
+              "Lightweight",
+              "Solvent weld joints"
+            ],
+            "technicalSpecs": {
+              "material": "Polyvinyl chloride",
+              "diameter": "1-1/2 to 6 inches",
+              "pressureRating": "Not for pressure",
+              "color": "White"
+            },
+            "application": "Drain, waste, and vent systems"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "NIBCO_ABS_DWV",
+        "pattern": [
+          {
+            "text": "NIBCO",
+            "weight": 0.9
+          },
+          {
+            "text": "ABS DWV",
+            "weight": 1.0
+          },
+          {
+            "text": "ABS",
+            "weight": 0.8
+          },
+          {
+            "text": "Drain",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "NIBCO",
+          "model": "ABS DWV",
+          "equipmentDetails": {
+            "productType": "ABS Piping",
+            "features": [
+              "Impact resistant",
+              "Solvent cement joints",
+              "Low cost"
+            ],
+            "technicalSpecs": {
+              "material": "Acrylonitrile butadiene styrene",
+              "diameter": "1-1/2 to 4 inches",
+              "pressureRating": "Not for pressure",
+              "color": "Black"
+            },
+            "application": "Residential and commercial DWV systems"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Oatey_PVC_DWV",
+        "pattern": [
+          {
+            "text": "Oatey",
+            "weight": 0.9
+          },
+          {
+            "text": "PVC DWV",
+            "weight": 1.0
+          },
+          {
+            "text": "PVC",
+            "weight": 0.8
+          },
+          {
+            "text": "Vent",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Oatey",
+          "model": "PVC DWV",
+          "equipmentDetails": {
+            "productType": "PVC Piping",
+            "features": [
+              "UV resistant",
+              "Easy to install",
+              "Meets ASTM standards"
+            ],
+            "technicalSpecs": {
+              "material": "PVC",
+              "diameter": "2 to 4 inches",
+              "pressureRating": "Non-pressure",
+              "color": "White"
+            },
+            "application": "Drain and vent systems"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Plumbing",
+    "assetType": "Fixtures: Water Closets",
+    "patterns": [
+      {
+        "equipmentId": "Toto_Eco_Drake",
+        "pattern": [
+          {
+            "text": "Toto",
+            "weight": 0.9
+          },
+          {
+            "text": "Eco Drake",
+            "weight": 1.0
+          },
+          {
+            "text": "1.28 GPF",
+            "weight": 0.8
+          },
+          {
+            "text": "Elongated",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Toto",
+          "model": "Eco Drake",
+          "equipmentDetails": {
+            "productType": "Toilet",
+            "features": [
+              "Dual flush technology",
+              "WaterSense certified",
+              "CeFiONtect glaze"
+            ],
+            "technicalSpecs": {
+              "flushValve": "3-inch",
+              "waterConsumption": "1.28 GPF",
+              "material": "Vitreous china",
+              "dimensions": "28 x 14.5 x 30 inches"
+            },
+            "application": "Residential and commercial restrooms"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Kohler_Cimarron",
+        "pattern": [
+          {
+            "text": "Kohler",
+            "weight": 0.9
+          },
+          {
+            "text": "Cimarron",
+            "weight": 1.0
+          },
+          {
+            "text": "1.6 GPF",
+            "weight": 0.8
+          },
+          {
+            "text": "Comfort Height",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Kohler",
+          "model": "Cimarron",
+          "equipmentDetails": {
+            "productType": "Toilet",
+            "features": [
+              "AquaPiston flush",
+              "Comfort Height seating",
+              "Easy to clean"
+            ],
+            "technicalSpecs": {
+              "flushValve": "3.25-inch",
+              "waterConsumption": "1.6 GPF",
+              "material": "Vitreous china",
+              "dimensions": "29.5 x 17.6 x 30.5 inches"
+            },
+            "application": "Residential bathrooms"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "American_Standard_Cadet_3",
+        "pattern": [
+          {
+            "text": "American Standard",
+            "weight": 0.9
+          },
+          {
+            "text": "Cadet 3",
+            "weight": 1.0
+          },
+          {
+            "text": "1.28 GPF",
+            "weight": 0.8
+          },
+          {
+            "text": "EverClean",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "American Standard",
+          "model": "Cadet 3",
+          "equipmentDetails": {
+            "productType": "Toilet",
+            "features": [
+              "EverClean surface",
+              "PowerWash rim",
+              "WaterSense certified"
+            ],
+            "technicalSpecs": {
+              "flushValve": "3-inch",
+              "waterConsumption": "1.28 GPF",
+              "material": "Vitreous china",
+              "dimensions": "28.8 x 15.8 x 30.8 inches"
+            },
+            "application": "Commercial and residential restrooms"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Plumbing",
+    "assetType": "Fixtures: Faucets",
+    "patterns": [
+      {
+        "equipmentId": "Moen_Align",
+        "pattern": [
+          {
+            "text": "Moen",
+            "weight": 0.9
+          },
+          {
+            "text": "Align",
+            "weight": 1.0
+          },
+          {
+            "text": "1.5 GPM",
+            "weight": 0.8
+          },
+          {
+            "text": "Single Handle",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Moen",
+          "model": "Align",
+          "equipmentDetails": {
+            "productType": "Bathroom Faucet",
+            "features": [
+              "WaterSense certified",
+              "Spot Resist finish",
+              "Single-hole installation"
+            ],
+            "technicalSpecs": {
+              "flowRate": "1.5 GPM",
+              "material": "Brass",
+              "finish": "Chrome",
+              "valveType": "Ceramic cartridge"
+            },
+            "application": "Residential and commercial bathrooms"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Kohler_Purist",
+        "pattern": [
+          {
+            "text": "Kohler",
+            "weight": 0.9
+          },
+          {
+            "text": "Purist",
+            "weight": 1.0
+          },
+          {
+            "text": "1.2 GPM",
+            "weight": 0.8
+          },
+          {
+            "text": "Widespread",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Kohler",
+          "model": "Purist",
+          "equipmentDetails": {
+            "productType": "Bathroom Faucet",
+            "features": [
+              "Low-flow aerator",
+              "Corrosion resistant",
+              "Widespread design"
+            ],
+            "technicalSpecs": {
+              "flowRate": "1.2 GPM",
+              "material": "Brass",
+              "finish": "Vibrant Stainless",
+              "valveType": "Ceramic disc"
+            },
+            "application": "Luxury residential bathrooms"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Delta_Trinsic",
+        "pattern": [
+          {
+            "text": "Delta",
+            "weight": 0.9
+          },
+          {
+            "text": "Trinsic",
+            "weight": 1.0
+          },
+          {
+            "text": "1.2 GPM",
+            "weight": 0.8
+          },
+          {
+            "text": "Touch2O",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Delta",
+          "model": "Trinsic",
+          "equipmentDetails": {
+            "productType": "Kitchen Faucet",
+            "features": [
+              "Touch2O technology",
+              "Diamond Seal valve",
+              "MagnaTite docking"
+            ],
+            "technicalSpecs": {
+              "flowRate": "1.2 GPM",
+              "material": "Brass",
+              "finish": "Chrome",
+              "valveType": "Ceramic"
+            },
+            "application": "Residential kitchens"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Plumbing",
+    "assetType": "Fixtures: Sinks",
+    "patterns": [
+      {
+        "equipmentId": "Kohler_Caxton",
+        "pattern": [
+          {
+            "text": "Kohler",
+            "weight": 0.9
+          },
+          {
+            "text": "Caxton",
+            "weight": 1.0
+          },
+          {
+            "text": "Undermount",
+            "weight": 0.8
+          },
+          {
+            "text": "Vitreous",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Kohler",
+          "model": "Caxton",
+          "equipmentDetails": {
+            "productType": "Bathroom Sink",
+            "features": [
+              "Undermount installation",
+              "Overflow drain",
+              "Easy to clean"
+            ],
+            "technicalSpecs": {
+              "material": "Vitreous china",
+              "dimensions": "19.25 x 16.25 inches",
+              "basinDepth": "7.5 inches",
+              "color": "White"
+            },
+            "application": "Residential and commercial bathrooms"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "American_Standard_Studio",
+        "pattern": [
+          {
+            "text": "American Standard",
+            "weight": 0.9
+          },
+          {
+            "text": "Studio",
+            "weight": 1.0
+          },
+          {
+            "text": "Rectangular",
+            "weight": 0.8
+          },
+          {
+            "text": "Undermount",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "American Standard",
+          "model": "Studio",
+          "equipmentDetails": {
+            "productType": "Bathroom Sink",
+            "features": [
+              "Rectangular design",
+              "EverClean surface",
+              "Overflow drain"
+            ],
+            "technicalSpecs": {
+              "material": "Vitreous china",
+              "dimensions": "22 x 18 inches",
+              "basinDepth": "6.75 inches",
+              "color": "White"
+            },
+            "application": "Modern residential bathrooms"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Toto_Pacifica",
+        "pattern": [
+          {
+            "text": "Toto",
+            "weight": 0.9
+          },
+          {
+            "text": "Pacifica",
+            "weight": 1.0
+          },
+          {
+            "text": "Drop-in",
+            "weight": 0.8
+          },
+          {
+            "text": "CeFiONtect",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Toto",
+          "model": "Pacifica",
+          "equipmentDetails": {
+            "productType": "Bathroom Sink",
+            "features": [
+              "Drop-in installation",
+              "CeFiONtect glaze",
+              "Wide basin"
+            ],
+            "technicalSpecs": {
+              "material": "Vitreous china",
+              "dimensions": "23.5 x 19 inches",
+              "basinDepth": "7 inches",
+              "color": "Cotton White"
+            },
+            "application": "Residential and hospitality bathrooms"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Plumbing",
+    "assetType": "Fixtures: Showers",
+    "patterns": [
+      {
+        "equipmentId": "Kohler_Purist_Shower",
+        "pattern": [
+          {
+            "text": "Kohler",
+            "weight": 0.9
+          },
+          {
+            "text": "Purist",
+            "weight": 1.0
+          },
+          {
+            "text": "Rainfall",
+            "weight": 0.8
+          },
+          {
+            "text": "2.5 GPM",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Kohler",
+          "model": "Purist",
+          "equipmentDetails": {
+            "productType": "Shower System",
+            "features": [
+              "Rainfall showerhead",
+              "Thermostatic valve",
+              "Vibrant finish"
+            ],
+            "technicalSpecs": {
+              "flowRate": "2.5 GPM",
+              "material": "Brass",
+              "finish": "Polished Chrome",
+              "valveType": "Thermostatic"
+            },
+            "application": "Luxury residential bathrooms"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Moen_U_Shower",
+        "pattern": [
+          {
+            "text": "Moen",
+            "weight": 0.9
+          },
+          {
+            "text": "U by Moen",
+            "weight": 1.0
+          },
+          {
+            "text": "Smart",
+            "weight": 0.8
+          },
+          {
+            "text": "Wi-Fi",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Moen",
+          "model": "U by Moen",
+          "equipmentDetails": {
+            "productType": "Digital Shower System",
+            "features": [
+              "Wi-Fi connectivity",
+              "Voice control",
+              "Customizable presets"
+            ],
+            "technicalSpecs": {
+              "flowRate": "1.75 GPM",
+              "material": "Stainless steel",
+              "control": "Digital interface",
+              "connectivity": "Wi-Fi"
+            },
+            "application": "Smart home bathrooms"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Delta_H2Okinetic",
+        "pattern": [
+          {
+            "text": "Delta",
+            "weight": 0.9
+          },
+          {
+            "text": "H2Okinetic",
+            "weight": 1.0
+          },
+          {
+            "text": "1.75 GPM",
+            "weight": 0.8
+          },
+          {
+            "text": "Multi-setting",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Delta",
+          "model": "H2Okinetic",
+          "equipmentDetails": {
+            "productType": "Showerhead",
+            "features": [
+              "H2Okinetic spray",
+              "WaterSense certified",
+              "Multiple spray settings"
+            ],
+            "technicalSpecs": {
+              "flowRate": "1.75 GPM",
+              "material": "Brass",
+              "finish": "Brilliance Stainless",
+              "installation": "Wall-mount"
+            },
+            "application": "Residential and commercial showers"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Plumbing",
+    "assetType": "Water Heaters: Tankless Water Heaters",
+    "patterns": [
+      {
+        "equipmentId": "Rinnai_RUR199i",
+        "pattern": [
+          {
+            "text": "Rinnai",
+            "weight": 0.9
+          },
+          {
+            "text": "RUR199i",
+            "weight": 1.0
+          },
+          {
+            "text": "Tankless",
+            "weight": 0.8
+          },
+          {
+            "text": "199000 BTU",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Rinnai",
+          "model": "RUR199i",
+          "equipmentDetails": {
+            "productType": "Tankless Water Heater",
+            "features": [
+              "Condensing technology",
+              "Wi-Fi capable",
+              "Ultra-low NOx"
+            ],
+            "technicalSpecs": {
+              "energySource": "Natural Gas",
+              "maxBTU": "199,000",
+              "flowRate": "11 GPM",
+              "efficiency": "0.96 UEF"
+            },
+            "application": "Residential and commercial hot water"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Navien_NPE-240A",
+        "pattern": [
+          {
+            "text": "Navien",
+            "weight": 0.9
+          },
+          {
+            "text": "NPE-240A",
+            "weight": 1.0
+          },
+          {
+            "text": "Condensing",
+            "weight": 0.8
+          },
+          {
+            "text": "11.2 GPM",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Navien",
+          "model": "NPE-240A",
+          "equipmentDetails": {
+            "productType": "Tankless Water Heater",
+            "features": [
+              "Built-in recirculation pump",
+              "Low NOx emissions",
+              "Cascading capable"
+            ],
+            "technicalSpecs": {
+              "energySource": "Natural Gas",
+              "maxBTU": "199,900",
+              "flowRate": "11.2 GPM",
+              "efficiency": "0.97 UEF"
+            },
+            "application": "Large residential homes"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Rheem_RTEX-18",
+        "pattern": [
+          {
+            "text": "Rheem",
+            "weight": 0.9
+          },
+          {
+            "text": "RTEX-18",
+            "weight": 1.0
+          },
+          {
+            "text": "Electric",
+            "weight": 0.8
+          },
+          {
+            "text": "4.4 GPM",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Rheem",
+          "model": "RTEX-18",
+          "equipmentDetails": {
+            "productType": "Electric Tankless Water Heater",
+            "features": [
+              "Self-modulating power",
+              "Compact design",
+              "Digital temperature control"
+            ],
+            "technicalSpecs": {
+              "energySource": "Electric",
+              "power": "18 kW",
+              "flowRate": "4.4 GPM",
+              "voltage": "240V"
+            },
+            "application": "Small to medium residential units"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Plumbing",
+    "assetType": "Water Heaters: Storage Tank Water Heaters",
+    "patterns": [
+      {
+        "equipmentId": "Rheem_ProLine_XE",
+        "pattern": [
+          {
+            "text": "Rheem",
+            "weight": 0.9
+          },
+          {
+            "text": "ProLine XE",
+            "weight": 1.0
+          },
+          {
+            "text": "50 Gallon",
+            "weight": 0.8
+          },
+          {
+            "text": "Gas",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Rheem",
+          "model": "ProLine XE",
+          "equipmentDetails": {
+            "productType": "Storage Tank Water Heater",
+            "features": [
+              "High efficiency burner",
+              "Self-diagnostic system",
+              "Low NOx"
+            ],
+            "technicalSpecs": {
+              "energySource": "Natural Gas",
+              "capacity": "50 Gallons",
+              "efficiency": "0.67 EF",
+              "recoveryRate": "40.4 GPH"
+            },
+            "application": "Residential hot water supply"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Bradford_White_RG240",
+        "pattern": [
+          {
+            "text": "Bradford White",
+            "weight": 0.9
+          },
+          {
+            "text": "RG240",
+            "weight": 1.0
+          },
+          {
+            "text": "40 Gallon",
+            "weight": 0.8
+          },
+          {
+            "text": "Gas",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Bradford White",
+          "model": "RG240",
+          "equipmentDetails": {
+            "productType": "Storage Tank Water Heater",
+            "features": [
+              "Hydrojet sediment reduction",
+              "Vitraglas lining",
+              "Low NOx burner"
+            ],
+            "technicalSpecs": {
+              "energySource": "Natural Gas",
+              "capacity": "40 Gallons",
+              "efficiency": "0.65 EF",
+              "recoveryRate": "38 GPH"
+            },
+            "application": "Residential and small commercial"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "AO_Smith_Signature_100",
+        "pattern": [
+          {
+            "text": "AO Smith",
+            "weight": 0.9
+          },
+          {
+            "text": "Signature 100",
+            "weight": 1.0
+          },
+          {
+            "text": "50 Gallon",
+            "weight": 0.8
+          },
+          {
+            "text": "Electric",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "AO Smith",
+          "model": "Signature 100",
+          "equipmentDetails": {
+            "productType": "Electric Storage Tank Water Heater",
+            "features": [
+              "Dual heating elements",
+              "DynaClean diffuser",
+              "CoreGard anode"
+            ],
+            "technicalSpecs": {
+              "energySource": "Electric",
+              "capacity": "50 Gallons",
+              "power": "4500W",
+              "voltage": "240V"
+            },
+            "application": "Residential hot water systems"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Plumbing",
+    "assetType": "Pumps: Circulator Pumps",
+    "patterns": [
+      {
+        "equipmentId": "Grundfos_UPS_26-99",
+        "pattern": [
+          {
+            "text": "Grundfos",
+            "weight": 0.9
+          },
+          {
+            "text": "UPS 26-99",
+            "weight": 1.0
+          },
+          {
+            "text": "Circulator",
+            "weight": 0.8
+          },
+          {
+            "text": "3-Speed",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Grundfos",
+          "model": "UPS 26-99",
+          "equipmentDetails": {
+            "productType": "Circulator Pump",
+            "features": [
+              "3-speed motor",
+              "Maintenance-free",
+              "Quiet operation"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "115V",
+              "maxFlow": "33 GPM",
+              "maxHead": "29 ft",
+              "material": "Cast iron"
+            },
+            "application": "Hydronic heating and cooling"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Taco_007e",
+        "pattern": [
+          {
+            "text": "Taco",
+            "weight": 0.9
+          },
+          {
+            "text": "007e",
+            "weight": 1.0
+          },
+          {
+            "text": "ECM",
+            "weight": 0.8
+          },
+          {
+            "text": "High-Efficiency",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Taco",
+          "model": "007e",
+          "equipmentDetails": {
+            "productType": "Circulator Pump",
+            "features": [
+              "ECM technology",
+              "Variable speed",
+              "Compact design"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "120V",
+              "maxFlow": "16 GPM",
+              "maxHead": "10 ft",
+              "material": "Cast iron"
+            },
+            "application": "Residential hydronic systems"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Bell_Gossett_ecocirc",
+        "pattern": [
+          {
+            "text": "Bell & Gossett",
+            "weight": 0.9
+          },
+          {
+            "text": "ecocirc",
+            "weight": 1.0
+          },
+          {
+            "text": "Variable Speed",
+            "weight": 0.8
+          },
+          {
+            "text": "ECM",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Bell & Gossett",
+          "model": "ecocirc",
+          "equipmentDetails": {
+            "productType": "Circulator Pump",
+            "features": [
+              "Magnetically driven",
+              "Energy efficient",
+              "Automatic air purge"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "115V",
+              "maxFlow": "14 GPM",
+              "maxHead": "12 ft",
+              "material": "Stainless steel"
+            },
+            "application": "Domestic hot water recirculation"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Fire Protection",
+    "assetType": "Sprinkler Systems: Wet Sprinkler Systems",
+    "patterns": [
+      {
+        "equipmentId": "Viking_VK302",
+        "pattern": [
+          {
+            "text": "Viking",
+            "weight": 0.9
+          },
+          {
+            "text": "VK302",
+            "weight": 1.0
+          },
+          {
+            "text": "Wet",
+            "weight": 0.8
+          },
+          {
+            "text": "Quick Response",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Viking",
+          "model": "VK302",
+          "equipmentDetails": {
+            "productType": "Wet Sprinkler Head",
+            "features": [
+              "Quick response",
+              "Pendent design",
+              "Low profile"
+            ],
+            "technicalSpecs": {
+              "kFactor": "5.6",
+              "temperatureRating": "155°F",
+              "material": "Brass",
+              "threadSize": "1/2 inch NPT"
+            },
+            "application": "Commercial buildings and offices"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Tyco_TY-FRB",
+        "pattern": [
+          {
+            "text": "Tyco",
+            "weight": 0.9
+          },
+          {
+            "text": "TY-FRB",
+            "weight": 1.0
+          },
+          {
+            "text": "Sprinkler",
+            "weight": 0.8
+          },
+          {
+            "text": "Fast Response",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Tyco",
+          "model": "TY-FRB",
+          "equipmentDetails": {
+            "productType": "Wet Sprinkler Head",
+            "features": [
+              "Fast response",
+              "Recessed pendent",
+              "UL listed"
+            ],
+            "technicalSpecs": {
+              "kFactor": "5.6",
+              "temperatureRating": "165°F",
+              "material": "Bronze",
+              "threadSize": "1/2 inch"
+            },
+            "application": "Hospitals and schools"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Reliable_Model_G",
+        "pattern": [
+          {
+            "text": "Reliable",
+            "weight": 0.9
+          },
+          {
+            "text": "Model G",
+            "weight": 1.0
+          },
+          {
+            "text": "Wet",
+            "weight": 0.8
+          },
+          {
+            "text": "Standard Coverage",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Reliable",
+          "model": "Model G",
+          "equipmentDetails": {
+            "productType": "Wet Sprinkler Head",
+            "features": [
+              "Standard coverage",
+              "Upright design",
+              "FM approved"
+            ],
+            "technicalSpecs": {
+              "kFactor": "8.0",
+              "temperatureRating": "135°F",
+              "material": "Brass",
+              "threadSize": "3/4 inch"
+            },
+            "application": "Warehouses and industrial facilities"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Fire Protection",
+    "assetType": "Sprinkler Systems: Dry Sprinkler Systems",
+    "patterns": [
+      {
+        "equipmentId": "Viking_VK102",
+        "pattern": [
+          {
+            "text": "Viking",
+            "weight": 0.9
+          },
+          {
+            "text": "VK102",
+            "weight": 1.0
+          },
+          {
+            "text": "Dry",
+            "weight": 0.8
+          },
+          {
+            "text": "Pendent",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Viking",
+          "model": "VK102",
+          "equipmentDetails": {
+            "productType": "Dry Sprinkler Head",
+            "features": [
+              "Dry pipe compatible",
+              "Extended coverage",
+              "Corrosion resistant"
+            ],
+            "technicalSpecs": {
+              "kFactor": "5.6",
+              "temperatureRating": "165°F",
+              "material": "Stainless steel",
+              "length": "Up to 48 inches"
+            },
+            "application": "Cold storage and unheated buildings"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Tyco_DS-1",
+        "pattern": [
+          {
+            "text": "Tyco",
+            "weight": 0.9
+          },
+          {
+            "text": "DS-1",
+            "weight": 1.0
+          },
+          {
+            "text": "Dry",
+            "weight": 0.8
+          },
+          {
+            "text": "Standard Response",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Tyco",
+          "model": "DS-1",
+          "equipmentDetails": {
+            "productType": "Dry Sprinkler Head",
+            "features": [
+              "Standard response",
+              "Pendent or upright",
+              "UL listed"
+            ],
+            "technicalSpecs": {
+              "kFactor": "5.6",
+              "temperatureRating": "155°F",
+              "material": "Bronze",
+              "length": "Up to 36 inches"
+            },
+            "application": "Parking garages and freezers"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Reliable_Model_DDX",
+        "pattern": [
+          {
+            "text": "Reliable",
+            "weight": 0.9
+          },
+          {
+            "text": "Model DDX",
+            "weight": 1.0
+          },
+          {
+            "text": "Dry",
+            "weight": 0.8
+          },
+          {
+            "text": "Preaction",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Reliable",
+          "model": "Model DDX",
+          "equipmentDetails": {
+            "productType": "Dry Pipe Valve",
+            "features": [
+              "Preaction system",
+              "Rapid response",
+              "Corrosion resistant"
+            ],
+            "technicalSpecs": {
+              "size": "4-8 inches",
+              "pressureRating": "250 psi",
+              "material": "Ductile iron",
+              "control": "Pneumatic/electric"
+            },
+            "application": "Data centers and museums"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Fire Protection",
+    "assetType": "Fire Pumps",
+    "patterns": [
+      {
+        "equipmentId": "Aurora_481",
+        "pattern": [
+          {
+            "text": "Aurora",
+            "weight": 0.9
+          },
+          {
+            "text": "481",
+            "weight": 1.0
+          },
+          {
+            "text": "Fire Pump",
+            "weight": 0.8
+          },
+          {
+            "text": "Electric",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Aurora",
+          "model": "481",
+          "equipmentDetails": {
+            "productType": "Electric Fire Pump",
+            "features": [
+              "Horizontal split case",
+              "High efficiency",
+              "UL listed"
+            ],
+            "technicalSpecs": {
+              "flowRate": "Up to 5000 GPM",
+              "pressure": "Up to 250 psi",
+              "power": "Electric motor",
+              "material": "Cast iron"
+            },
+            "application": "Commercial and industrial fire protection"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Patterson_End_Suction",
+        "pattern": [
+          {
+            "text": "Patterson",
+            "weight": 0.9
+          },
+          {
+            "text": "End Suction",
+            "weight": 1.0
+          },
+          {
+            "text": "Fire Pump",
+            "weight": 0.8
+          },
+          {
+            "text": "Diesel",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Patterson",
+          "model": "End Suction",
+          "equipmentDetails": {
+            "productType": "Diesel Fire Pump",
+            "features": [
+              "Compact design",
+              "FM approved",
+              "Reliable startup"
+            ],
+            "technicalSpecs": {
+              "flowRate": "Up to 2500 GPM",
+              "pressure": "Up to 200 psi",
+              "power": "Diesel engine",
+              "material": "Bronze fitted"
+            },
+            "application": "High-rise buildings"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Peerless_Vertical_Turbine",
+        "pattern": [
+          {
+            "text": "Peerless",
+            "weight": 0.9
+          },
+          {
+            "text": "Vertical Turbine",
+            "weight": 1.0
+          },
+          {
+            "text": "Fire Pump",
+            "weight": 0.8
+          },
+          {
+            "text": "Submersible",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Peerless",
+          "model": "Vertical Turbine",
+          "equipmentDetails": {
+            "productType": "Vertical Turbine Fire Pump",
+            "features": [
+              "Submersible design",
+              "High capacity",
+              "UL/FM approved"
+            ],
+            "technicalSpecs": {
+              "flowRate": "Up to 7500 GPM",
+              "pressure": "Up to 300 psi",
+              "power": "Electric or diesel",
+              "material": "Stainless steel"
+            },
+            "application": "Industrial and municipal fire systems"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Fire Protection",
+    "assetType": "Fire Extinguishers",
+    "patterns": [
+      {
+        "equipmentId": "Amerex_B500",
+        "pattern": [
+          {
+            "text": "Amerex",
+            "weight": 0.9
+          },
+          {
+            "text": "B500",
+            "weight": 1.0
+          },
+          {
+            "text": "ABC",
+            "weight": 0.8
+          },
+          {
+            "text": "Dry Chemical",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Amerex",
+          "model": "B500",
+          "equipmentDetails": {
+            "productType": "Fire Extinguisher",
+            "features": [
+              "ABC dry chemical",
+              "Wall-mountable",
+              "UL rated"
+            ],
+            "technicalSpecs": {
+              "capacity": "5 lb",
+              "agent": "Monoammonium phosphate",
+              "dischargeTime": "14 seconds",
+              "range": "12-18 ft"
+            },
+            "application": "Offices and commercial spaces"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Kidde_Pro_210",
+        "pattern": [
+          {
+            "text": "Kidde",
+            "weight": 0.9
+          },
+          {
+            "text": "Pro 210",
+            "weight": 1.0
+          },
+          {
+            "text": "ABC",
+            "weight": 0.8
+          },
+          {
+            "text": "2.5 lb",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Kidde",
+          "model": "Pro 210",
+          "equipmentDetails": {
+            "productType": "Fire Extinguisher",
+            "features": [
+              "Multipurpose ABC",
+              "Easy-to-use nozzle",
+              "Corrosion resistant"
+            ],
+            "technicalSpecs": {
+              "capacity": "2.5 lb",
+              "agent": "Dry chemical",
+              "dischargeTime": "8-12 seconds",
+              "range": "10-15 ft"
+            },
+            "application": "Residential and small commercial"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Buckeye_10_CO2",
+        "pattern": [
+          {
+            "text": "Buckeye",
+            "weight": 0.9
+          },
+          {
+            "text": "10 CO2",
+            "weight": 1.0
+          },
+          {
+            "text": "CO2",
+            "weight": 0.8
+          },
+          {
+            "text": "10 lb",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Buckeye",
+          "model": "10 CO2",
+          "equipmentDetails": {
+            "productType": "Fire Extinguisher",
+            "features": [
+              "CO2 for Class B/C fires",
+              "Non-conductive",
+              "Heavy-duty cylinder"
+            ],
+            "technicalSpecs": {
+              "capacity": "10 lb",
+              "agent": "Carbon dioxide",
+              "dischargeTime": "10 seconds",
+              "range": "4-8 ft"
+            },
+            "application": "Electrical and flammable liquid fires"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Fire Protection",
+    "assetType": "Fire Alarm Control Panel",
+    "patterns": [
+      {
+        "equipmentId": "Honeywell_NFS2-3030",
+        "pattern": [
+          {
+            "text": "Honeywell",
+            "weight": 0.9
+          },
+          {
+            "text": "NFS2-3030",
+            "weight": 1.0
+          },
+          {
+            "text": "Fire Alarm",
+            "weight": 0.8
+          },
+          {
+            "text": "Networkable",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Honeywell",
+          "model": "NFS2-3030",
+          "equipmentDetails": {
+            "productType": "Fire Alarm Control Panel",
+            "features": [
+              "Networkable up to 103 nodes",
+              "Large LCD display",
+              "BACnet compatible"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "120/240 VAC",
+              "capacity": "1590 points",
+              "connectivity": "Ethernet, RS-485",
+              "certifications": "UL listed"
+            },
+            "application": "Large commercial and industrial facilities"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Simplex_4100ES",
+        "pattern": [
+          {
+            "text": "Simplex",
+            "weight": 0.9
+          },
+          {
+            "text": "4100ES",
+            "weight": 1.0
+          },
+          {
+            "text": "Addressable",
+            "weight": 0.8
+          },
+          {
+            "text": "Fire Panel",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Simplex",
+          "model": "4100ES",
+          "equipmentDetails": {
+            "productType": "Fire Alarm Control Panel",
+            "features": [
+              "Addressable system",
+              "Voice evacuation",
+              "Expandable"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "120/240 VAC",
+              "capacity": "2500 points",
+              "connectivity": "TCP/IP, RS-232",
+              "display": "Touchscreen"
+            },
+            "application": "Hospitals and campuses"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Bosch_FPA-1000",
+        "pattern": [
+          {
+            "text": "Bosch",
+            "weight": 0.9
+          },
+          {
+            "text": "FPA-1000",
+            "weight": 1.0
+          },
+          {
+            "text": "Analog",
+            "weight": 0.8
+          },
+          {
+            "text": "Fire Alarm",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Bosch",
+          "model": "FPA-1000",
+          "equipmentDetails": {
+            "productType": "Fire Alarm Control Panel",
+            "features": [
+              "Analog addressable",
+              "Built-in NACs",
+              "Ethernet connectivity"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "120/230 VAC",
+              "capacity": "508 points",
+              "connectivity": "Ethernet, CAN",
+              "certifications": "UL, FM"
+            },
+            "application": "Medium-sized commercial buildings"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Motion Detector",
+    "patterns": [
+      {
+        "equipmentId": "Bosch_ISC-BDL2-WP12",
+        "pattern": [
+          {
+            "text": "Bosch",
+            "weight": 0.9
+          },
+          {
+            "text": "ISC-BDL2-WP12",
+            "weight": 1.0
+          },
+          {
+            "text": "Motion Detector",
+            "weight": 0.8
+          },
+          {
+            "text": "PIR",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Bosch",
+          "model": "ISC-BDL2-WP12",
+          "equipmentDetails": {
+            "productType": "Motion Detector",
+            "features": [
+              "Pet immunity up to 100 lb",
+              "TriTech PIR/Microwave",
+              "Wall-mount"
+            ],
+            "technicalSpecs": {
+              "range": "40 ft",
+              "powerSupply": "9-15 VDC",
+              "detectionType": "PIR and Microwave",
+              "certifications": "UL, EN50131"
+            },
+            "application": "Commercial and residential spaces"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Honeywell_DT8035",
+        "pattern": [
+          {
+            "text": "Honeywell",
+            "weight": 0.9
+          },
+          {
+            "text": "DT8035",
+            "weight": 1.0
+          },
+          {
+            "text": "Motion Sensor",
+            "weight": 0.8
+          },
+          {
+            "text": "Dual Tec",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Honeywell",
+          "model": "DT8035",
+          "equipmentDetails": {
+            "productType": "Motion Detector",
+            "features": [
+              "Dual Technology",
+              "Pet immunity",
+              "Tamper switch"
+            ],
+            "technicalSpecs": {
+              "range": "35 ft",
+              "powerSupply": "9-16 VDC",
+              "detectionType": "PIR and Microwave",
+              "certifications": "UL listed"
+            },
+            "application": "Small to medium commercial buildings"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Smoke Detector",
+    "patterns": [
+      {
+        "equipmentId": "Kidde_i12060",
+        "pattern": [
+          {
+            "text": "Kidde",
+            "weight": 0.9
+          },
+          {
+            "text": "i12060",
+            "weight": 1.0
+          },
+          {
+            "text": "Smoke Detector",
+            "weight": 0.8
+          },
+          {
+            "text": "Ionization",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Kidde",
+          "model": "i12060",
+          "equipmentDetails": {
+            "productType": "Smoke Detector",
+            "features": [
+              "Ionization sensing",
+              "Battery backup",
+              "Hush button"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "120 VAC, 9V battery",
+              "sensorType": "Ionization",
+              "soundLevel": "85 dB",
+              "certifications": "UL 217"
+            },
+            "application": "Residential and small commercial"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "First_Alert_BRK_9120B",
+        "pattern": [
+          {
+            "text": "First Alert",
+            "weight": 0.9
+          },
+          {
+            "text": "BRK 9120B",
+            "weight": 1.0
+          },
+          {
+            "text": "Smoke Alarm",
+            "weight": 0.8
+          },
+          {
+            "text": "Hardwired",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "First Alert",
+          "model": "BRK 9120B",
+          "equipmentDetails": {
+            "productType": "Smoke Detector",
+            "features": [
+              "Hardwired with battery backup",
+              "Interconnectable",
+              "Tamper resistant"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "120 VAC, 9V battery",
+              "sensorType": "Ionization",
+              "soundLevel": "85 dB",
+              "certifications": "UL listed"
+            },
+            "application": "Residential buildings"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Carbon Monoxide Detector",
+    "patterns": [
+      {
+        "equipmentId": "Kidde_KN-COB-DP2",
+        "pattern": [
+          {
+            "text": "Kidde",
+            "weight": 0.9
+          },
+          {
+            "text": "KN-COB-DP2",
+            "weight": 1.0
+          },
+          {
+            "text": "CO Detector",
+            "weight": 0.8
+          },
+          {
+            "text": "Plug-in",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Kidde",
+          "model": "KN-COB-DP2",
+          "equipmentDetails": {
+            "productType": "Carbon Monoxide Detector",
+            "features": [
+              "Plug-in with battery backup",
+              "Digital display",
+              "Tamper resistant"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "120 VAC, 2 AA batteries",
+              "sensorType": "Electrochemical",
+              "soundLevel": "85 dB",
+              "certifications": "UL 2034"
+            },
+            "application": "Residential and small offices"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "First_Alert_CO615",
+        "pattern": [
+          {
+            "text": "First Alert",
+            "weight": 0.9
+          },
+          {
+            "text": "CO615",
+            "weight": 1.0
+          },
+          {
+            "text": "Carbon Monoxide",
+            "weight": 0.8
+          },
+          {
+            "text": "Digital",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "First Alert",
+          "model": "CO615",
+          "equipmentDetails": {
+            "productType": "Carbon Monoxide Detector",
+            "features": [
+              "Digital CO level display",
+              "Plug-in",
+              "Battery backup"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "120 VAC, 2 AA batteries",
+              "sensorType": "Electrochemical",
+              "soundLevel": "85 dB",
+              "certifications": "UL listed"
+            },
+            "application": "Residential spaces"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "VoIP Phone",
+    "patterns": [
+      {
+        "equipmentId": "Cisco_CP-8841",
+        "pattern": [
+          {
+            "text": "Cisco",
+            "weight": 0.9
+          },
+          {
+            "text": "CP-8841",
+            "weight": 1.0
+          },
+          {
+            "text": "VoIP Phone",
+            "weight": 0.8
+          },
+          {
+            "text": "IP Phone",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Cisco",
+          "model": "CP-8841",
+          "equipmentDetails": {
+            "productType": "VoIP Phone",
+            "features": [
+              "Color display",
+              "HD audio",
+              "5 programmable line keys"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "PoE or AC adapter",
+              "display": "5-inch color",
+              "connectivity": "Ethernet 10/100/1000",
+              "protocols": "SIP, SCCP"
+            },
+            "application": "Enterprise and office environments"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Poly_VVX_411",
+        "pattern": [
+          {
+            "text": "Poly",
+            "weight": 0.9
+          },
+          {
+            "text": "VVX 411",
+            "weight": 1.0
+          },
+          {
+            "text": "VoIP",
+            "weight": 0.8
+          },
+          {
+            "text": "Desk Phone",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Poly",
+          "model": "VVX 411",
+          "equipmentDetails": {
+            "productType": "VoIP Phone",
+            "features": [
+              "HD voice",
+              "12-line keys",
+              "Color LCD"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "PoE or AC adapter",
+              "display": "3.5-inch color",
+              "connectivity": "Gigabit Ethernet",
+              "protocols": "SIP"
+            },
+            "application": "Small to medium businesses"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Paging System Controller",
+    "patterns": [
+      {
+        "equipmentId": "Bogen_TAMB2",
+        "pattern": [
+          {
+            "text": "Bogen",
+            "weight": 0.9
+          },
+          {
+            "text": "TAMB2",
+            "weight": 1.0
+          },
+          {
+            "text": "Paging Controller",
+            "weight": 0.8
+          },
+          {
+            "text": "Telephone Access",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Bogen",
+          "model": "TAMB2",
+          "equipmentDetails": {
+            "productType": "Paging System Controller",
+            "features": [
+              "Telephone interface",
+              "Multiple zone support",
+              "Wall-mountable"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "24 VDC",
+              "inputs": "PBX, CO line",
+              "outputs": "Audio to amplifiers",
+              "certifications": "FCC compliant"
+            },
+            "application": "Schools and commercial facilities"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Valcom_V-2001A",
+        "pattern": [
+          {
+            "text": "Valcom",
+            "weight": 0.9
+          },
+          {
+            "text": "V-2001A",
+            "weight": 1.0
+          },
+          {
+            "text": "Paging System",
+            "weight": 0.8
+          },
+          {
+            "text": "Single Zone",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Valcom",
+          "model": "V-2001A",
+          "equipmentDetails": {
+            "productType": "Paging System Controller",
+            "features": [
+              "Single zone paging",
+              "Override capability",
+              "Background music input"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "24 VDC",
+              "inputs": "Telephone, microphone",
+              "outputs": "8 ohm, 25V, 70V",
+              "certifications": "UL listed"
+            },
+            "application": "Small to medium facilities"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Door Prop Alarm",
+    "patterns": [
+      {
+        "equipmentId": "Detex_EAX-500",
+        "pattern": [
+          {
+            "text": "Detex",
+            "weight": 0.9
+          },
+          {
+            "text": "EAX-500",
+            "weight": 1.0
+          },
+          {
+            "text": "Door Prop Alarm",
+            "weight": 0.8
+          },
+          {
+            "text": "Exit Alarm",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Detex",
+          "model": "EAX-500",
+          "equipmentDetails": {
+            "productType": "Door Prop Alarm",
+            "features": [
+              "Battery-powered",
+              "Surface mount",
+              "100 dB siren"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "9V battery",
+              "soundLevel": "100 dB",
+              "mounting": "Surface",
+              "certifications": "UL listed"
+            },
+            "application": "Emergency exits and restricted doors"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Alarm_Controls_TS-2",
+        "pattern": [
+          {
+            "text": "Alarm Controls",
+            "weight": 0.9
+          },
+          {
+            "text": "TS-2",
+            "weight": 1.0
+          },
+          {
+            "text": "Prop Alarm",
+            "weight": 0.8
+          },
+          {
+            "text": "Request to Exit",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Alarm Controls",
+          "model": "TS-2",
+          "equipmentDetails": {
+            "productType": "Door Prop Alarm",
+            "features": [
+              "Push button release",
+              "Audible alarm",
+              "LED indicator"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "12/24 VDC",
+              "soundLevel": "85 dB",
+              "mounting": "Flush or surface",
+              "certifications": "UL compliant"
+            },
+            "application": "Commercial building exits"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "Fire Alarm Test Station",
+    "patterns": [
+      {
+        "equipmentId": "Simplex_2975-9178",
+        "pattern": [
+          {
+            "text": "Simplex",
+            "weight": 0.9
+          },
+          {
+            "text": "2975-9178",
+            "weight": 1.0
+          },
+          {
+            "text": "Test Station",
+            "weight": 0.8
+          },
+          {
+            "text": "Fire Alarm",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Simplex",
+          "model": "2975-9178",
+          "equipmentDetails": {
+            "productType": "Fire Alarm Test Station",
+            "features": [
+              "Manual test activation",
+              "Wall-mount",
+              "Keyed access"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "From FACP",
+              "mounting": "Surface",
+              "material": "Steel",
+              "certifications": "UL listed"
+            },
+            "application": "Commercial and industrial fire systems"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Notifier_NBG-12LX",
+        "pattern": [
+          {
+            "text": "Notifier",
+            "weight": 0.9
+          },
+          {
+            "text": "NBG-12LX",
+            "weight": 1.0
+          },
+          {
+            "text": "Test Station",
+            "weight": 0.8
+          },
+          {
+            "text": "Addressable",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Notifier",
+          "model": "NBG-12LX",
+          "equipmentDetails": {
+            "productType": "Fire Alarm Test Station",
+            "features": [
+              "Addressable pull station",
+              "Test mode",
+              "Dual-action"
+            ],
+            "technicalSpecs": {
+              "powerSupply": "24 VDC from FACP",
+              "mounting": "Surface or flush",
+              "material": "Polycarbonate",
+              "certifications": "UL, FM"
+            },
+            "application": "Large-scale fire alarm systems"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "Fire Alarm Battery",
+    "patterns": [
+      {
+        "equipmentId": "PowerSonic_PS-12180",
+        "pattern": [
+          {
+            "text": "PowerSonic",
+            "weight": 0.9
+          },
+          {
+            "text": "PS-12180",
+            "weight": 1.0
+          },
+          {
+            "text": "Fire Alarm Battery",
+            "weight": 0.8
+          },
+          {
+            "text": "12V",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "PowerSonic",
+          "model": "PS-12180",
+          "equipmentDetails": {
+            "productType": "Fire Alarm Battery",
+            "features": [
+              "Sealed lead-acid",
+              "Maintenance-free",
+              "High discharge rate"
+            ],
+            "technicalSpecs": {
+              "voltage": "12 V",
+              "capacity": "18 Ah",
+              "dimensions": "7.13 x 3.03 x 6.57 in",
+              "certifications": "UL recognized"
+            },
+            "application": "Fire alarm control panels"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Altronix_BP12-7",
+        "pattern": [
+          {
+            "text": "Altronix",
+            "weight": 0.9
+          },
+          {
+            "text": "BP12-7",
+            "weight": 1.0
+          },
+          {
+            "text": "Battery",
+            "weight": 0.8
+          },
+          {
+            "text": "Fire Alarm",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Altronix",
+          "model": "BP12-7",
+          "equipmentDetails": {
+            "productType": "Fire Alarm Battery",
+            "features": [
+              "Rechargeable SLA",
+              "Compact design",
+              "Long service life"
+            ],
+            "technicalSpecs": {
+              "voltage": "12 V",
+              "capacity": "7 Ah",
+              "dimensions": "5.94 x 2.56 x 3.66 in",
+              "certifications": "UL listed"
+            },
+            "application": "Fire alarm backup power"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Mechanical",
+    "assetType": "HVAC Systems: Boilers",
+    "patterns": [
+      {
+        "equipmentId": "Weil-McLain_Eco_110",
+        "pattern": [
+          {
+            "text": "Weil-McLain",
+            "weight": 0.9
+          },
+          {
+            "text": "Eco 110",
+            "weight": 1.0
+          },
+          {
+            "text": "Boiler",
+            "weight": 0.8
+          },
+          {
+            "text": "Gas-Fired",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Weil-McLain",
+          "model": "Eco 110",
+          "equipmentDetails": {
+            "productType": "Boiler",
+            "features": [
+              "High efficiency",
+              "Wall-hung",
+              "Modulating burner"
+            ],
+            "technicalSpecs": {
+              "capacity": "110 MBH",
+              "fuelType": "Natural gas or propane",
+              "efficiency": "95% AFUE",
+              "dimensions": "19 x 35 x 14 in"
+            },
+            "application": "Residential and small commercial heating"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Baxi_Luna_Duo-Tec_40",
+        "pattern": [
+          {
+            "text": "Baxi",
+            "weight": 0.9
+          },
+          {
+            "text": "Luna Duo-Tec 40",
+            "weight": 1.0
+          },
+          {
+            "text": "Combi Boiler",
+            "weight": 0.8
+          },
+          {
+            "text": "Condensing",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Baxi",
+          "model": "Luna Duo-Tec 40",
+          "equipmentDetails": {
+            "productType": "Boiler",
+            "features": [
+              "Combi heating and hot water",
+              "Condensing technology",
+              "Compact"
+            ],
+            "technicalSpecs": {
+              "capacity": "136 MBH",
+              "fuelType": "Natural gas",
+              "efficiency": "96% AFUE",
+              "dimensions": "17.7 x 29.9 x 13.8 in"
+            },
+            "application": "Residential buildings"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Mechanical",
+    "assetType": "Pumps: Sump Pumps",
+    "patterns": [
+      {
+        "equipmentId": "Zoeller_M53",
+        "pattern": [
+          {
+            "text": "Zoeller",
+            "weight": 0.9
+          },
+          {
+            "text": "M53",
+            "weight": 1.0
+          },
+          {
+            "text": "Sump Pump",
+            "weight": 0.8
+          },
+          {
+            "text": "Submersible",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Zoeller",
+          "model": "M53",
+          "equipmentDetails": {
+            "productType": "Sump Pump",
+            "features": [
+              "Submersible",
+              "Cast iron construction",
+              "Automatic float switch"
+            ],
+            "technicalSpecs": {
+              "horsepower": "1/3 HP",
+              "flowRate": "43 GPM at 5 ft",
+              "powerSupply": "115 VAC",
+              "discharge": "1.5 in"
+            },
+            "application": "Basements and crawl spaces"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Liberty_237",
+        "pattern": [
+          {
+            "text": "Liberty",
+            "weight": 0.9
+          },
+          {
+            "text": "237",
+            "weight": 1.0
+          },
+          {
+            "text": "Sump Pump",
+            "weight": 0.8
+          },
+          {
+            "text": "Automatic",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Liberty",
+          "model": "237",
+          "equipmentDetails": {
+            "productType": "Sump Pump",
+            "features": [
+              "Automatic operation",
+              "Thermoplastic body",
+              "Quick-connect cord"
+            ],
+            "technicalSpecs": {
+              "horsepower": "1/3 HP",
+              "flowRate": "40 GPM at 5 ft",
+              "powerSupply": "115 VAC",
+              "discharge": "1.5 in"
+            },
+            "application": "Residential water removal"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Electrical",
+    "assetType": "Power Distribution: Circuit Breakers",
+    "patterns": [
+      {
+        "equipmentId": "Siemens_QP120",
+        "pattern": [
+          {
+            "text": "Siemens",
+            "weight": 0.9
+          },
+          {
+            "text": "QP120",
+            "weight": 1.0
+          },
+          {
+            "text": "Circuit Breaker",
+            "weight": 0.8
+          },
+          {
+            "text": "20 Amp",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Siemens",
+          "model": "QP120",
+          "equipmentDetails": {
+            "productType": "Circuit Breaker",
+            "features": [
+              "Single-pole",
+              "Plug-in",
+              "Thermal-magnetic"
+            ],
+            "technicalSpecs": {
+              "amperage": "20 A",
+              "voltage": "120/240 VAC",
+              "interruptingRating": "10 kA",
+              "mounting": "Plug-in"
+            },
+            "application": "Residential and light commercial panels"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Eaton_CHF230",
+        "pattern": [
+          {
+            "text": "Eaton",
+            "weight": 0.9
+          },
+          {
+            "text": "CHF230",
+            "weight": 1.0
+          },
+          {
+            "text": "Breaker",
+            "weight": 0.8
+          },
+          {
+            "text": "30 Amp",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Eaton",
+          "model": "CHF230",
+          "equipmentDetails": {
+            "productType": "Circuit Breaker",
+            "features": [
+              "Double-pole",
+              "Trip flag",
+              "Thermal-magnetic"
+            ],
+            "technicalSpecs": {
+              "amperage": "30 A",
+              "voltage": "240 VAC",
+              "interruptingRating": "10 kA",
+              "mounting": "Plug-in"
+            },
+            "application": "Residential electrical panels"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Electrical",
+    "assetType": "Lighting Systems: Lighting Control Sensors",
+    "patterns": [
+      {
+        "equipmentId": "Lutron_Maestro_MS-OPS5M",
+        "pattern": [
+          {
+            "text": "Lutron",
+            "weight": 0.9
+          },
+          {
+            "text": "Maestro MS-OPS5M",
+            "weight": 1.0
+          },
+          {
+            "text": "Lighting Sensor",
+            "weight": 0.8
+          },
+          {
+            "text": "Occupancy",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Lutron",
+          "model": "Maestro MS-OPS5M",
+          "equipmentDetails": {
+            "productType": "Lighting Control Sensor",
+            "features": [
+              "Occupancy/vacancy sensor",
+              "Wall-mount",
+              "Adaptive technology"
+            ],
+            "technicalSpecs": {
+              "voltage": "120 VAC",
+              "loadCapacity": "5 A",
+              "coverage": "900 sq ft",
+              "sensorType": "PIR"
+            },
+            "application": "Offices and conference rooms"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Leviton_OSD10-I0W",
+        "pattern": [
+          {
+            "text": "Leviton",
+            "weight": 0.9
+          },
+          {
+            "text": "OSD10-I0W",
+            "weight": 1.0
+          },
+          {
+            "text": "Light Sensor",
+            "weight": 0.8
+          },
+          {
+            "text": "Daylight",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Leviton",
+          "model": "OSD10-I0W",
+          "equipmentDetails": {
+            "productType": "Lighting Control Sensor",
+            "features": [
+              "Daylight harvesting",
+              "Ceiling-mount",
+              "Adjustable sensitivity"
+            ],
+            "technicalSpecs": {
+              "voltage": "24 VDC",
+              "coverage": "1000 sq ft",
+              "sensorType": "Photocell",
+              "certifications": "UL listed"
+            },
+            "application": "Commercial buildings with natural light"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Plumbing",
+    "assetType": "Fixtures: Sinks",
+    "patterns": [
+      {
+        "equipmentId": "Kohler_K-2355",
+        "pattern": [
+          {
+            "text": "Kohler",
+            "weight": 0.9
+          },
+          {
+            "text": "K-2355",
+            "weight": 1.0
+          },
+          {
+            "text": "Sink",
+            "weight": 0.8
+          },
+          {
+            "text": "Undermount",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Kohler",
+          "model": "K-2355",
+          "equipmentDetails": {
+            "productType": "Sink",
+            "features": [
+              "Undermount installation",
+              "Vitreous china",
+              "Single basin"
+            ],
+            "technicalSpecs": {
+              "dimensions": "23.875 x 18.75 in",
+              "material": "Vitreous china",
+              "basinDepth": "7.625 in",
+              "drainSize": "1.75 in"
+            },
+            "application": "Residential and commercial bathrooms"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Moen_GS18190",
+        "pattern": [
+          {
+            "text": "Moen",
+            "weight": 0.9
+          },
+          {
+            "text": "GS18190",
+            "weight": 1.0
+          },
+          {
+            "text": "Sink",
+            "weight": 0.8
+          },
+          {
+            "text": "Stainless Steel",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Moen",
+          "model": "GS18190",
+          "equipmentDetails": {
+            "productType": "Sink",
+            "features": [
+              "Undermount",
+              "Single bowl",
+              "Sound shield"
+            ],
+            "technicalSpecs": {
+              "dimensions": "30 x 18 in",
+              "material": "18-gauge stainless steel",
+              "basinDepth": "9 in",
+              "drainSize": "3.5 in"
+            },
+            "application": "Kitchen applications"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Plumbing",
+    "assetType": "Pumps: Booster Pumps",
+    "patterns": [
+      {
+        "equipmentId": "Grundfos_MQ3-45",
+        "pattern": [
+          {
+            "text": "Grundfos",
+            "weight": 0.9
+          },
+          {
+            "text": "MQ3-45",
+            "weight": 1.0
+          },
+          {
+            "text": "Booster Pump",
+            "weight": 0.8
+          },
+          {
+            "text": "Water Pressure",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Grundfos",
+          "model": "MQ3-45",
+          "equipmentDetails": {
+            "productType": "Booster Pump",
+            "features": [
+              "Self-priming",
+              "Built-in pressure tank",
+              "Quiet operation"
+            ],
+            "technicalSpecs": {
+              "power": "1 HP",
+              "flowRate": "20 GPM",
+              "pressure": "Up to 65 psi",
+              "voltage": "115/230 VAC"
+            },
+            "application": "Residential water pressure boosting"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Goulds_LS10",
+        "pattern": [
+          {
+            "text": "Goulds",
+            "weight": 0.9
+          },
+          {
+            "text": "LS10",
+            "weight": 1.0
+          },
+          {
+            "text": "Booster Pump",
+            "weight": 0.8
+          },
+          {
+            "text": "Centrifugal",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Goulds",
+          "model": "LS10",
+          "equipmentDetails": {
+            "productType": "Booster Pump",
+            "features": [
+              "Stainless steel construction",
+              "High efficiency",
+              "Multi-stage"
+            ],
+            "technicalSpecs": {
+              "power": "1.5 HP",
+              "flowRate": "25 GPM",
+              "pressure": "Up to 80 psi",
+              "voltage": "230 VAC"
+            },
+            "application": "Commercial and light industrial"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Fire Protection",
+    "assetType": "Fire Hydrants",
+    "patterns": [
+      {
+        "equipmentId": "Mueller_Super_Centurion",
+        "pattern": [
+          {
+            "text": "Mueller",
+            "weight": 0.9
+          },
+          {
+            "text": "Super Centurion",
+            "weight": 1.0
+          },
+          {
+            "text": "Fire Hydrant",
+            "weight": 0.8
+          },
+          {
+            "text": "Dry Barrel",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Mueller",
+          "model": "Super Centurion",
+          "equipmentDetails": {
+            "productType": "Fire Hydrant",
+            "features": [
+              "Dry barrel design",
+              "Traffic breakaway",
+              "Corrosion resistant"
+            ],
+            "technicalSpecs": {
+              "barrelSize": "5.25 in",
+              "outlets": "2 hose, 1 pumper",
+              "pressureRating": "250 psi",
+              "material": "Ductile iron"
+            },
+            "application": "Municipal fire protection"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "American_Flow_A-423",
+        "pattern": [
+          {
+            "text": "American Flow",
+            "weight": 0.9
+          },
+          {
+            "text": "A-423",
+            "weight": 1.0
+          },
+          {
+            "text": "Hydrant",
+            "weight": 0.8
+          },
+          {
+            "text": "Fire Protection",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "American Flow",
+          "model": "A-423",
+          "equipmentDetails": {
+            "productType": "Fire Hydrant",
+            "features": [
+              "Dry barrel",
+              "Easy maintenance",
+              "UL/FM approved"
+            ],
+            "technicalSpecs": {
+              "barrelSize": "5.25 in",
+              "outlets": "2 hose, 1 pumper",
+              "pressureRating": "200 psi",
+              "material": "Cast iron"
+            },
+            "application": "Urban and suburban fire protection"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Fire Protection",
+    "assetType": "Fire Hose Cabinets",
+    "patterns": [
+      {
+        "equipmentId": "Potter_Roemer_7001",
+        "pattern": [
+          {
+            "text": "Potter Roemer",
+            "weight": 0.9
+          },
+          {
+            "text": "7001",
+            "weight": 1.0
+          },
+          {
+            "text": "Fire Hose Cabinet",
+            "weight": 0.8
+          },
+          {
+            "text": "Recessed",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Potter Roemer",
+          "model": "7001",
+          "equipmentDetails": {
+            "productType": "Fire Hose Cabinet",
+            "features": [
+              "Recessed mount",
+              "Steel construction",
+              "Break glass door"
+            ],
+            "technicalSpecs": {
+              "dimensions": "30 x 30 x 8 in",
+              "material": "Steel",
+              "hoseCapacity": "100 ft of 1.5 in hose",
+              "certifications": "UL listed"
+            },
+            "application": "Commercial buildings and institutions"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "JL_Industries_Ambassador",
+        "pattern": [
+          {
+            "text": "JL Industries",
+            "weight": 0.9
+          },
+          {
+            "text": "Ambassador",
+            "weight": 1.0
+          },
+          {
+            "text": "Hose Cabinet",
+            "weight": 0.8
+          },
+          {
+            "text": "Surface Mount",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "JL Industries",
+          "model": "Ambassador",
+          "equipmentDetails": {
+            "productType": "Fire Hose Cabinet",
+            "features": [
+              "Surface mount",
+              "Stainless steel door",
+              "Hose valve included"
+            ],
+            "technicalSpecs": {
+              "dimensions": "27 x 27 x 8 in",
+              "material": "Steel with stainless steel",
+              "hoseCapacity": "100 ft of 1.5 in hose",
+              "certifications": "UL compliant"
+            },
+            "application": "Hospitals and schools"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Video Management System",
+    "patterns": [
+      {
+        "equipmentId": "Milestone_XProtect_Pro",
+        "pattern": [
+          {
+            "text": "Milestone",
+            "weight": 0.9
+          },
+          {
+            "text": "XProtect Pro",
+            "weight": 1.0
+          },
+          {
+            "text": "VMS",
+            "weight": 0.8
+          },
+          {
+            "text": "Video Management",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Milestone",
+          "model": "XProtect Pro",
+          "equipmentDetails": {
+            "productType": "Video Management System",
+            "features": [
+              "Scalable architecture",
+              "Multi-site support",
+              "Analytics integration"
+            ],
+            "technicalSpecs": {
+              "osSupport": "Windows Server",
+              "cameraSupport": "Unlimited with license",
+              "storage": "RAID compatible",
+              "connectivity": "IP-based"
+            },
+            "application": "Enterprise and large-scale surveillance"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Genetec_Security_Center",
+        "pattern": [
+          {
+            "text": "Genetec",
+            "weight": 0.9
+          },
+          {
+            "text": "Security Center",
+            "weight": 1.0
+          },
+          {
+            "text": "VMS",
+            "weight": 0.8
+          },
+          {
+            "text": "Surveillance Software",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Genetec",
+          "model": "Security Center",
+          "equipmentDetails": {
+            "productType": "Video Management System",
+            "features": [
+              "Unified security platform",
+              "Cloud-ready",
+              "Access control integration"
+            ],
+            "technicalSpecs": {
+              "osSupport": "Windows, Linux",
+              "cameraSupport": "Scalable",
+              "storage": "Cloud or local",
+              "connectivity": "IP-based"
+            },
+            "application": "Critical infrastructure and campuses"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Network Video Recorder",
+    "patterns": [
+      {
+        "equipmentId": "Hikvision_DS-7616NI",
+        "pattern": [
+          {
+            "text": "Hikvision",
+            "weight": 0.9
+          },
+          {
+            "text": "DS-7616NI",
+            "weight": 1.0
+          },
+          {
+            "text": "NVR",
+            "weight": 0.8
+          },
+          {
+            "text": "Network Video",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Hikvision",
+          "model": "DS-7616NI",
+          "equipmentDetails": {
+            "productType": "Network Video Recorder",
+            "features": [
+              "16-channel",
+              "4K resolution",
+              "H.265+ compression"
+            ],
+            "technicalSpecs": {
+              "channels": "16 IP cameras",
+              "storage": "Up to 12 TB",
+              "resolution": "Up to 8 MP",
+              "connectivity": "Gigabit Ethernet"
+            },
+            "application": "Small to medium surveillance systems"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Dahua_NVR5216",
+        "pattern": [
+          {
+            "text": "Dahua",
+            "weight": 0.9
+          },
+          {
+            "text": "NVR5216",
+            "weight": 1.0
+          },
+          {
+            "text": "NVR",
+            "weight": 0.8
+          },
+          {
+            "text": "Video Recorder",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Dahua",
+          "model": "NVR5216",
+          "equipmentDetails": {
+            "productType": "Network Video Recorder",
+            "features": [
+              "16-channel",
+              "AI analytics",
+              "PoE support"
+            ],
+            "technicalSpecs": {
+              "channels": "16 IP cameras",
+              "storage": "Up to 16 TB",
+              "resolution": "Up to 12 MP",
+              "connectivity": "Gigabit Ethernet"
+            },
+            "application": "Commercial and retail surveillance"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Healthcare",
+    "assetType": "Patient Monitoring System",
+    "patterns": [
+      {
+        "equipmentId": "Philips_IntelliVue_MX800",
+        "pattern": [
+          {
+            "text": "Philips",
+            "weight": 0.9
+          },
+          {
+            "text": "IntelliVue MX800",
+            "weight": 1.0
+          },
+          {
+            "text": "Patient Monitor",
+            "weight": 0.8
+          },
+          {
+            "text": "Bedside",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Philips",
+          "model": "IntelliVue MX800",
+          "equipmentDetails": {
+            "productType": "Patient Monitoring System",
+            "features": [
+              "Multi-parameter monitoring",
+              "Touchscreen",
+              "Central station integration"
+            ],
+            "technicalSpecs": {
+              "parameters": "ECG, SpO2, NIBP, Temp",
+              "display": "15-inch touchscreen",
+              "connectivity": "WLAN, Ethernet",
+              "certifications": "FDA cleared"
+            },
+            "application": "Hospitals and ICUs"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "GE_Carescape_B650",
+        "pattern": [
+          {
+            "text": "GE Healthcare",
+            "weight": 0.9
+          },
+          {
+            "text": "Carescape B650",
+            "weight": 1.0
+          },
+          {
+            "text": "Patient Monitoring",
+            "weight": 0.8
+          },
+          {
+            "text": "Modular",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "GE Healthcare",
+          "model": "Carescape B650",
+          "equipmentDetails": {
+            "productType": "Patient Monitoring System",
+            "features": [
+              "Modular design",
+              "Advanced analytics",
+              "Remote access"
+            ],
+            "technicalSpecs": {
+              "parameters": "ECG, CO2, IBP, SpO2",
+              "display": "15-inch color",
+              "connectivity": "Wi-Fi, LAN",
+              "certifications": "CE, FDA"
+            },
+            "application": "Critical care and OR"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Healthcare",
+    "assetType": "Medical Gas System",
+    "patterns": [
+      {
+        "equipmentId": "BeaconMedaes_Lifeline",
+        "pattern": [
+          {
+            "text": "BeaconMedaes",
+            "weight": 0.9
+          },
+          {
+            "text": "Lifeline",
+            "weight": 1.0
+          },
+          {
+            "text": "Medical Gas",
+            "weight": 0.8
+          },
+          {
+            "text": "Manifold",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "BeaconMedaes",
+          "model": "Lifeline",
+          "equipmentDetails": {
+            "productType": "Medical Gas System",
+            "features": [
+              "Automatic switchover",
+              "Digital pressure display",
+              "NFPA compliant"
+            ],
+            "technicalSpecs": {
+              "gases": "Oxygen, Nitrogen, CO2",
+              "pressure": "50-55 psig",
+              "capacity": "Multiple cylinders",
+              "certifications": "NFPA 99"
+            },
+            "application": "Hospitals and surgical centers"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Amico_Medigas",
+        "pattern": [
+          {
+            "text": "Amico",
+            "weight": 0.9
+          },
+          {
+            "text": "Medigas",
+            "weight": 1.0
+          },
+          {
+            "text": "Medical Gas",
+            "weight": 0.8
+          },
+          {
+            "text": "Pipeline",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Amico",
+          "model": "Medigas",
+          "equipmentDetails": {
+            "productType": "Medical Gas System",
+            "features": [
+              "Zone valve boxes",
+              "Alarms included",
+              "Modular design"
+            ],
+            "technicalSpecs": {
+              "gases": "Oxygen, Air, Vacuum",
+              "pressure": "50 psig",
+              "material": "Brass and copper",
+              "certifications": "NFPA, ISO"
+            },
+            "application": "Healthcare facilities"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Mechanical",
+    "assetType": "Pumps: Centrifugal Pumps",
+    "patterns": [
+      {
+        "equipmentId": "Armstrong_6x4x10_4030",
+        "pattern": [
+          {
+            "text": "Armstrong",
+            "weight": 0.9
+          },
+          {
+            "text": "6x4x10 4030",
+            "weight": 1.0
+          },
+          {
+            "text": "Pump",
+            "weight": 0.8
+          },
+          {
+            "text": "Centrifugal",
+            "weight": 0.8
+          },
+          {
+            "text": "gpm",
+            "weight": 0.7
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Armstrong Pumps Inc.",
+          "model": "6x4x10 4030 BF-STD",
+          "equipmentDetails": {
+            "productType": "Centrifugal Pump",
+            "features": [
+              "Base-mounted",
+              "Single-stage",
+              "High efficiency"
+            ],
+            "technicalSpecs": {
+              "flowRate": "636 US gpm",
+              "head": "85 ft",
+              "motorPower": "20 hp",
+              "motorSpeed": "1800 rpm",
+              "maxPressure": "175 psi",
+              "maxTemp": "250°F"
+            },
+            "application": "HVAC, plumbing, and industrial fluid transfer"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Mechanical",
+    "assetType": "HVAC Systems: Air Handling Units (AHUs)",
+    "patterns": [
+      {
+        "equipmentId": "Carrier_39TH61CA",
+        "pattern": [
+          {
+            "text": "Carrier",
+            "weight": 0.9
+          },
+          {
+            "text": "39 TH61CA",
+            "weight": 1.0
+          },
+          {
+            "text": "Air Handling Unit",
+            "weight": 0.8
+          },
+          {
+            "text": "AHU",
+            "weight": 0.8
+          },
+          {
+            "text": "coil",
+            "weight": 0.7
+          },
+          {
+            "text": "motor",
+            "weight": 0.7
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Carrier",
+          "model": "39 TH61CA-AV-AH0-A",
+          "equipmentDetails": {
+            "productType": "Air Handling Unit",
+            "features": [
+              "Preheat and cooling coils",
+              "Variable air volume",
+              "Certified to ARI Standard 430"
+            ],
+            "technicalSpecs": {
+              "serialNumber": "2398F48764",
+              "preheatCoil": "28NC2830DBA287XR",
+              "upperCoil": "28NC2832DBA287XR",
+              "motorNumber": "99MR1225BA330903",
+              "driveNumber": "39TK16112BJ0454A1",
+              "year": "2011"
+            },
+            "application": "Commercial and industrial HVAC systems"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+      "equipmentId": "Trane_4TWR4036",
+      "pattern": [
+        { "text": "Trane", "weight": 0.9 },
+        { "text": "4TWR4036", "weight": 1.0 },
+        { "text": "HFC-410A", "weight": 0.8 },
+        { "text": "compressor", "weight": 0.7 },
+        { "text": "spine fin", "weight": 0.8 }
+      ],
+      "equipmentDetails": {
+        "manufacturer": "Trane",
+        "model": "4TWR4036Q1000AA",
+        "equipmentDetails": {
+          "productType": "Air Handling Unit",
+          "features": ["Climatuff compressor", "DuraTuff basepan", "Spine Fin coil", "Quick-Sess cabinet"],
+          "technicalSpecs": {
+            "serialNumber": "17103N6M4F",
+            "refrigerant": "HFC-410A",
+            "refrigerantCharge": "7 lbs 1 oz (3.20 kg)",
+            "compressor": {
+              "rla": 14.1,
+              "lra": 72.2,
+              "volts": "208/230 VAC",
+              "phase": 1,
+              "hertz": "60 Hz"
+            },
+            "powerSupply": {
+              "volts": "208/230 VAC",
+              "phase": 1,
+              "hertz": "60 Hz",
+              "minimumCircuitAmpacity": 18.0,
+              "maxFuseBreaker": 30
+            },
+            "designSubcooling": "10 ± 3 °F",
+            "madeIn": "USA",
+            "manufactureDate": "3/2017"
+          },
+          "application": "Residential and light commercial HVAC systems"
+        }
+      },
+      "requireMatchCount": 2
+    }
+    ]
+  },
+  {
+    "systemType": "Facility Equipment",
+    "assetType": "Elevator",
+    "patterns": [
+      {
+        "equipmentId": "Otis_Gen2",
+        "pattern": [
+          {
+            "text": "Otis",
+            "weight": 0.9
+          },
+          {
+            "text": "Gen2",
+            "weight": 1.0
+          },
+          {
+            "text": "Elevator",
+            "weight": 0.8
+          },
+          {
+            "text": "Gearless",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Otis",
+          "model": "Gen2",
+          "equipmentDetails": {
+            "productType": "Elevator",
+            "features": [
+              "Gearless traction",
+              "Energy efficient",
+              "Regenerative drive"
+            ],
+            "technicalSpecs": {
+              "capacity": "Up to 4000 lb",
+              "speed": "Up to 500 fpm",
+              "powerSupply": "480 VAC",
+              "control": "Microprocessor-based"
+            },
+            "application": "Commercial and residential buildings"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Schindler_5500",
+        "pattern": [
+          {
+            "text": "Schindler",
+            "weight": 0.9
+          },
+          {
+            "text": "5500",
+            "weight": 1.0
+          },
+          {
+            "text": "Elevator",
+            "weight": 0.8
+          },
+          {
+            "text": "Passenger",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Schindler",
+          "model": "5500",
+          "equipmentDetails": {
+            "productType": "Elevator",
+            "features": [
+              "Flexible configurations",
+              "Eco-friendly",
+              "Smart controls"
+            ],
+            "technicalSpecs": {
+              "capacity": "Up to 5000 lb",
+              "speed": "Up to 700 fpm",
+              "powerSupply": "400-480 VAC",
+              "control": "PORT technology"
+            },
+            "application": "High-rise buildings"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+    "systemType": "Facility Equipment",
+    "assetType": "Waste Management System",
+    "patterns": [
+      {
+        "equipmentId": "Marathon_RJ-250",
+        "pattern": [
+          {
+            "text": "Marathon",
+            "weight": 0.9
+          },
+          {
+            "text": "RJ-250",
+            "weight": 1.0
+          },
+          {
+            "text": "Trash Compactor",
+            "weight": 0.8
+          },
+          {
+            "text": "Waste Management",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Marathon",
+          "model": "RJ-250",
+          "equipmentDetails": {
+            "productType": "Waste Management System",
+            "features": [
+              "Self-contained compactor",
+              "High compaction force",
+              "Liquid tight"
+            ],
+            "technicalSpecs": {
+              "capacity": "2 cubic yards",
+              "force": "55,000 lb",
+              "powerSupply": "208/230/460 VAC",
+              "cycleTime": "45 seconds"
+            },
+            "application": "Commercial and retail facilities"
+          }
+        },
+        "requireMatchCount": 2
+      },
+      {
+        "equipmentId": "Wastequip_145",
+        "pattern": [
+          {
+            "text": "Wastequip",
+            "weight": 0.9
+          },
+          {
+            "text": "145",
+            "weight": 1.0
+          },
+          {
+            "text": "Compactor",
+            "weight": 0.8
+          },
+          {
+            "text": "Recycling",
+            "weight": 0.8
+          }
+        ],
+        "equipmentDetails": {
+          "manufacturer": "Wastequip",
+          "model": "145",
+          "equipmentDetails": {
+            "productType": "Waste Management System",
+            "features": [
+              "Stationary compactor",
+              "Heavy-duty design",
+              "Easy loading"
+            ],
+            "technicalSpecs": {
+              "capacity": "1.5 cubic yards",
+              "force": "40,000 lb",
+              "powerSupply": "230/460 VAC",
+              "cycleTime": "50 seconds"
+            },
+            "application": "Industrial and commercial waste"
+          }
+        },
+        "requireMatchCount": 2
+      }
+    ]
+  },
+  {
+  "systemType": "Mechanical",
+  "assetType": "HVAC Systems: Air-Cooled Chillers",
+  "patterns": [
+    {
+      "equipmentId": "Carrier_30GXR301",
+      "pattern": [
+        { "text": "Carrier", "weight": 0.9 },
+        { "text": "30GXR301", "weight": 1.0 },
+        { "text": "chiller", "weight": 0.8 },
+        { "text": "R-134A", "weight": 0.8 },
+        { "text": "outdoor", "weight": 0.7 },
+        { "text": "compressor", "weight": 0.7 }
+      ],
+      "equipmentDetails": {
+        "manufacturer": "Carrier",
+        "model": "30GXR301-F-661ZH",
+        "equipmentDetails": {
+          "productType": "Air-Cooled Chiller",
+          "features": ["Factory charged", "Suitable for outdoor use", "High efficiency"],
+          "technicalSpecs": {
+            "serialNumber": "2305F16280",
+            "refrigerant": "R-134A",
+            "refrigerantCharge": ["181.6 kg", "181.6 kg"],
+            "testPressure": {
+              "high": "350 PSI (2413 kPa)",
+              "low": "220 PSI (1517 kPa)"
+            },
+            "compressors": {
+              "quantity": 2,
+              "volts": "460 VAC",
+              "phase": 3,
+              "hertz": "60 Hz",
+              "rla": [151.3, 102.6],
+              "lra": ["1175/371", "820/259"],
+              "weight": ["400 lbs", "400 lbs"]
+            },
+            "fanMotors": {
+              "quantity": [12, 4],
+              "volts": "460 VAC",
+              "phase": 3,
+              "hertz": "60 Hz",
+              "fla": [3.2, 1.9],
+              "hp": [1, 0.5],
+              "kw": "Not specified"
+            },
+            "powerSupply": {
+              "volts": "460 VAC",
+              "phase": 3,
+              "hertz": "60 Hz",
+              "maxVolts": 506,
+              "minVolts": 414,
+              "mca": [596.8, "Not specified"],
+              "mocp": [700, "Not specified"]
+            },
+            "control": {
+              "volts": "115 VAC",
+              "phase": 1,
+              "hertz": "60 Hz",
+              "amps": 30
+            },
+            "madeIn": "USA",
+            "year": "2005"
+          },
+          "application": "Commercial and industrial cooling"
+        }
+      },
+      "requireMatchCount": 2
+    }
+  ]
+}
+]

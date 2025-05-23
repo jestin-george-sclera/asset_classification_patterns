@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Asset Classifier</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body class="bg-gray-100 text-gray-800 min-h-screen flex flex-col items-center justify-center px-4 py-8">
+  <div class="bg-white rounded-2xl shadow-lg p-8 w-full max-w-3xl">
+    <h1 class="text-3xl font-bold mb-6 text-center text-blue-600">Asset Nameplate Classifier</h1>
+
+    <div class="mb-6">
+      <label class="block text-lg font-semibold mb-2" for="imageInput">Upload Nameplate Image:</label>
+      <input type="file" id="imageInput" accept="image/*" class="block w-full text-sm text-gray-700
+        file:mr-4 file:py-2 file:px-4
+        file:rounded-lg file:border-0
+        file:text-sm file:font-semibold
+        file:bg-blue-50 file:text-blue-700
+        hover:file:bg-blue-100" />
+    </div>
+
+    <button onclick="processImage()" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-lg transition duration-300 mb-6">
+      Upload & Classify
+    </button>
+
+    <div id="result" class="bg-gray-50 border border-gray-300 rounded-lg p-4 text-sm overflow-auto max-h-[500px]"></div>
+  </div>
+</body>
+</html>

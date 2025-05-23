@@ -1,0 +1,8578 @@
+[
+  {
+    "systemType": "Building Management",
+    "assetType": "BM/BA Controller",
+    "patterns": [
+      {
+        "text": "controller",
+        "weight": 1.0
+      },
+      {
+        "text": "building management",
+        "weight": 0.9
+      },
+      {
+        "text": "bms",
+        "weight": 0.9
+      },
+      {
+        "text": "bacnet",
+        "weight": 0.8
+      },
+      {
+        "text": "lonworks",
+        "weight": 0.8
+      },
+      {
+        "text": "johnson controls",
+        "weight": 0.9
+      },
+      {
+        "text": "siemens",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Biometric Reader",
+    "patterns": [
+      {
+        "text": "biometric",
+        "weight": 1.0
+      },
+      {
+        "text": "fingerprint",
+        "weight": 0.9
+      },
+      {
+        "text": "facial recognition",
+        "weight": 0.9
+      },
+      {
+        "text": "reader",
+        "weight": 0.8
+      },
+      {
+        "text": "suprema",
+        "weight": 0.9
+      },
+      {
+        "text": "zkteco",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Cellular Communicator",
+    "patterns": [
+      {
+        "text": "cellular",
+        "weight": 1.0
+      },
+      {
+        "text": "communicator",
+        "weight": 0.9
+      },
+      {
+        "text": "4g",
+        "weight": 0.8
+      },
+      {
+        "text": "lte",
+        "weight": 0.8
+      },
+      {
+        "text": "telguard",
+        "weight": 0.9
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Door Contact",
+    "patterns": [
+      {
+        "text": "door contact",
+        "weight": 1.0
+      },
+      {
+        "text": "magnetic contact",
+        "weight": 0.9
+      },
+      {
+        "text": "sensor",
+        "weight": 0.8
+      },
+      {
+        "text": "door",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      },
+      {
+        "text": "dsc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Door Position Switch",
+    "patterns": [
+      {
+        "text": "door position",
+        "weight": 1.0
+      },
+      {
+        "text": "switch",
+        "weight": 0.9
+      },
+      {
+        "text": "door sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "magnetic",
+        "weight": 0.8
+      },
+      {
+        "text": "ge",
+        "weight": 0.9
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Door Station",
+    "patterns": [
+      {
+        "text": "door station",
+        "weight": 1.0
+      },
+      {
+        "text": "intercom",
+        "weight": 0.9
+      },
+      {
+        "text": "entry",
+        "weight": 0.8
+      },
+      {
+        "text": "aiphone",
+        "weight": 0.9
+      },
+      {
+        "text": "commax",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "General Assembly",
+    "patterns": [
+      {
+        "text": "assembly",
+        "weight": 1.0
+      },
+      {
+        "text": "general assembly",
+        "weight": 0.9
+      },
+      {
+        "text": "component",
+        "weight": 0.8
+      },
+      {
+        "text": "module",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "General Component",
+    "patterns": [
+      {
+        "text": "component",
+        "weight": 1.0
+      },
+      {
+        "text": "general component",
+        "weight": 0.9
+      },
+      {
+        "text": "part",
+        "weight": 0.8
+      },
+      {
+        "text": "module",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "General Software",
+    "patterns": [
+      {
+        "text": "software",
+        "weight": 1.0
+      },
+      {
+        "text": "application",
+        "weight": 0.9
+      },
+      {
+        "text": "firmware",
+        "weight": 0.8
+      },
+      {
+        "text": "control software",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Generator",
+    "patterns": [
+      {
+        "text": "generator",
+        "weight": 1.0
+      },
+      {
+        "text": "kw",
+        "weight": 0.9
+      },
+      {
+        "text": "kva",
+        "weight": 0.9
+      },
+      {
+        "text": "diesel",
+        "weight": 0.8
+      },
+      {
+        "text": "standby",
+        "weight": 0.8
+      },
+      {
+        "text": "kohler",
+        "weight": 0.9
+      },
+      {
+        "text": "cummins",
+        "weight": 0.9
+      },
+      {
+        "text": "generac",
+        "weight": 0.9
+      },
+      {
+        "text": "voltage",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "License Plate Reader",
+    "patterns": [
+      {
+        "text": "license plate",
+        "weight": 1.0
+      },
+      {
+        "text": "alpr",
+        "weight": 0.9
+      },
+      {
+        "text": "plate reader",
+        "weight": 0.9
+      },
+      {
+        "text": "camera",
+        "weight": 0.8
+      },
+      {
+        "text": "vigilant",
+        "weight": 0.9
+      },
+      {
+        "text": "openalpr",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Light Fixture",
+    "patterns": [
+      {
+        "text": "light fixture",
+        "weight": 1.0
+      },
+      {
+        "text": "lighting",
+        "weight": 0.9
+      },
+      {
+        "text": "led",
+        "weight": 0.8
+      },
+      {
+        "text": "philips",
+        "weight": 0.9
+      },
+      {
+        "text": "cree",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Light Keypad",
+    "patterns": [
+      {
+        "text": "light keypad",
+        "weight": 1.0
+      },
+      {
+        "text": "keypad",
+        "weight": 0.9
+      },
+      {
+        "text": "lighting control",
+        "weight": 0.9
+      },
+      {
+        "text": "lutron",
+        "weight": 0.9
+      },
+      {
+        "text": "leviton",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Light Switch",
+    "patterns": [
+      {
+        "text": "light switch",
+        "weight": 1.0
+      },
+      {
+        "text": "switch",
+        "weight": 0.9
+      },
+      {
+        "text": "dimmer",
+        "weight": 0.8
+      },
+      {
+        "text": "lutron",
+        "weight": 0.9
+      },
+      {
+        "text": "leviton",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Lighting Control Panel",
+    "patterns": [
+      {
+        "text": "lighting control",
+        "weight": 1.0
+      },
+      {
+        "text": "control panel",
+        "weight": 0.9
+      },
+      {
+        "text": "lighting panel",
+        "weight": 0.9
+      },
+      {
+        "text": "lutron",
+        "weight": 0.9
+      },
+      {
+        "text": "crestron",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Lighting Processor",
+    "patterns": [
+      {
+        "text": "lighting processor",
+        "weight": 1.0
+      },
+      {
+        "text": "processor",
+        "weight": 0.9
+      },
+      {
+        "text": "lighting control",
+        "weight": 0.9
+      },
+      {
+        "text": "crestron",
+        "weight": 0.9
+      },
+      {
+        "text": "lutron",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Long Range Reader",
+    "patterns": [
+      {
+        "text": "long range reader",
+        "weight": 1.0
+      },
+      {
+        "text": "rfid",
+        "weight": 0.9
+      },
+      {
+        "text": "reader",
+        "weight": 0.9
+      },
+      {
+        "text": "hid",
+        "weight": 0.9
+      },
+      {
+        "text": "nedap",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Node",
+    "patterns": [
+      {
+        "text": "node",
+        "weight": 1.0
+      },
+      {
+        "text": "network node",
+        "weight": 0.9
+      },
+      {
+        "text": "controller",
+        "weight": 0.8
+      },
+      {
+        "text": "module",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Occupancy Sensor",
+    "patterns": [
+      {
+        "text": "occupancy sensor",
+        "weight": 1.0
+      },
+      {
+        "text": "motion sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "pir",
+        "weight": 0.8
+      },
+      {
+        "text": "leviton",
+        "weight": 0.9
+      },
+      {
+        "text": "lutron",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Overhead Door",
+    "patterns": [
+      {
+        "text": "overhead door",
+        "weight": 1.0
+      },
+      {
+        "text": "garage door",
+        "weight": 0.9
+      },
+      {
+        "text": "roll-up",
+        "weight": 0.8
+      },
+      {
+        "text": "overhead",
+        "weight": 0.8
+      },
+      {
+        "text": "clopay",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Power Outlet",
+    "patterns": [
+      {
+        "text": "power outlet",
+        "weight": 1.0
+      },
+      {
+        "text": "outlet",
+        "weight": 0.9
+      },
+      {
+        "text": "receptacle",
+        "weight": 0.9
+      },
+      {
+        "text": "120v",
+        "weight": 0.8
+      },
+      {
+        "text": "leviton",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Printer",
+    "patterns": [
+      {
+        "text": "printer",
+        "weight": 1.0
+      },
+      {
+        "text": "laser printer",
+        "weight": 0.9
+      },
+      {
+        "text": "inkjet",
+        "weight": 0.8
+      },
+      {
+        "text": "hp",
+        "weight": 0.9
+      },
+      {
+        "text": "epson",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Speaker",
+    "patterns": [
+      {
+        "text": "speaker",
+        "weight": 1.0
+      },
+      {
+        "text": "audio",
+        "weight": 0.9
+      },
+      {
+        "text": "ceiling speaker",
+        "weight": 0.9
+      },
+      {
+        "text": "bose",
+        "weight": 0.9
+      },
+      {
+        "text": "jbl",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Temp-Humidity Sensor",
+    "patterns": [
+      {
+        "text": "temp-humidity",
+        "weight": 1.0
+      },
+      {
+        "text": "humidity sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "temperature sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "sensor",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Thermostat",
+    "patterns": [
+      {
+        "text": "thermostat",
+        "weight": 1.0
+      },
+      {
+        "text": "temperature control",
+        "weight": 0.9
+      },
+      {
+        "text": "hvac",
+        "weight": 0.8
+      },
+      {
+        "text": "nest",
+        "weight": 0.9
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      },
+      {
+        "text": "ecobee",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "User Interface Panel",
+    "patterns": [
+      {
+        "text": "user interface",
+        "weight": 1.0
+      },
+      {
+        "text": "control panel",
+        "weight": 0.9
+      },
+      {
+        "text": "touch panel",
+        "weight": 0.9
+      },
+      {
+        "text": "crestron",
+        "weight": 0.9
+      },
+      {
+        "text": "amx",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Utility Meter",
+    "patterns": [
+      {
+        "text": "utility meter",
+        "weight": 1.0
+      },
+      {
+        "text": "meter",
+        "weight": 0.9
+      },
+      {
+        "text": "electric meter",
+        "weight": 0.9
+      },
+      {
+        "text": "water meter",
+        "weight": 0.9
+      },
+      {
+        "text": "sensus",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Vape Sensor",
+    "patterns": [
+      {
+        "text": "vape sensor",
+        "weight": 1.0
+      },
+      {
+        "text": "vaping",
+        "weight": 0.9
+      },
+      {
+        "text": "air quality",
+        "weight": 0.8
+      },
+      {
+        "text": "halo",
+        "weight": 0.9
+      },
+      {
+        "text": "verkada",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Video Doorbell",
+    "patterns": [
+      {
+        "text": "video doorbell",
+        "weight": 1.0
+      },
+      {
+        "text": "doorbell",
+        "weight": 0.9
+      },
+      {
+        "text": "camera",
+        "weight": 0.8
+      },
+      {
+        "text": "ring",
+        "weight": 0.9
+      },
+      {
+        "text": "blink",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Water Sensor",
+    "patterns": [
+      {
+        "text": "water sensor",
+        "weight": 1.0
+      },
+      {
+        "text": "leak detector",
+        "weight": 0.9
+      },
+      {
+        "text": "flood sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Water Shut-Off Valve",
+    "patterns": [
+      {
+        "text": "shut-off valve",
+        "weight": 1.0
+      },
+      {
+        "text": "water valve",
+        "weight": 0.9
+      },
+      {
+        "text": "valve",
+        "weight": 0.8
+      },
+      {
+        "text": "moen",
+        "weight": 0.9
+      },
+      {
+        "text": "flologic",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Window Contact",
+    "patterns": [
+      {
+        "text": "window contact",
+        "weight": 1.0
+      },
+      {
+        "text": "magnetic contact",
+        "weight": 0.9
+      },
+      {
+        "text": "sensor",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      },
+      {
+        "text": "dsc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Window Covering - Motorized",
+    "patterns": [
+      {
+        "text": "motorized window",
+        "weight": 1.0
+      },
+      {
+        "text": "window covering",
+        "weight": 0.9
+      },
+      {
+        "text": "blinds",
+        "weight": 0.8
+      },
+      {
+        "text": "shades",
+        "weight": 0.8
+      },
+      {
+        "text": "lutron",
+        "weight": 0.9
+      },
+      {
+        "text": "somfy",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Wireless Access Point",
+    "patterns": [
+      {
+        "text": "wireless access point",
+        "weight": 1.0
+      },
+      {
+        "text": "access point",
+        "weight": 0.9
+      },
+      {
+        "text": "wifi",
+        "weight": 0.8
+      },
+      {
+        "text": "cisco",
+        "weight": 0.9
+      },
+      {
+        "text": "ubiquiti",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Building Management",
+    "assetType": "Wireless Receiver Hub",
+    "patterns": [
+      {
+        "text": "wireless receiver",
+        "weight": 1.0
+      },
+      {
+        "text": "receiver hub",
+        "weight": 0.9
+      },
+      {
+        "text": "wireless",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      },
+      {
+        "text": "dsc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "AC Keypad",
+    "patterns": [
+      {
+        "text": "keypad",
+        "weight": 1.0
+      },
+      {
+        "text": "access control",
+        "weight": 0.9
+      },
+      {
+        "text": "pin pad",
+        "weight": 0.9
+      },
+      {
+        "text": "hid",
+        "weight": 0.9
+      },
+      {
+        "text": "paxton",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "ACS Controller",
+    "patterns": [
+      {
+        "text": "acs controller",
+        "weight": 1.0
+      },
+      {
+        "text": "access controller",
+        "weight": 0.9
+      },
+      {
+        "text": "controller",
+        "weight": 0.8
+      },
+      {
+        "text": "lenel",
+        "weight": 0.9
+      },
+      {
+        "text": "hid",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "ACS Expansion Module",
+    "patterns": [
+      {
+        "text": "expansion module",
+        "weight": 1.0
+      },
+      {
+        "text": "acs module",
+        "weight": 0.9
+      },
+      {
+        "text": "access control",
+        "weight": 0.8
+      },
+      {
+        "text": "lenel",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "ACS Power Supply",
+    "patterns": [
+      {
+        "text": "power supply",
+        "weight": 1.0
+      },
+      {
+        "text": "acs power",
+        "weight": 0.9
+      },
+      {
+        "text": "access control",
+        "weight": 0.8
+      },
+      {
+        "text": "altronix",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "ACS Software",
+    "patterns": [
+      {
+        "text": "acs software",
+        "weight": 1.0
+      },
+      {
+        "text": "access control software",
+        "weight": 0.9
+      },
+      {
+        "text": "software",
+        "weight": 0.8
+      },
+      {
+        "text": "lenel",
+        "weight": 0.9
+      },
+      {
+        "text": "amag",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Alarm Sounder",
+    "patterns": [
+      {
+        "text": "alarm sounder",
+        "weight": 1.0
+      },
+      {
+        "text": "siren",
+        "weight": 0.9
+      },
+      {
+        "text": "alarm",
+        "weight": 0.8
+      },
+      {
+        "text": "system sensor",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Automatic Door Operator",
+    "patterns": [
+      {
+        "text": "automatic door",
+        "weight": 1.0
+      },
+      {
+        "text": "door operator",
+        "weight": 0.9
+      },
+      {
+        "text": "access",
+        "weight": 0.8
+      },
+      {
+        "text": "stanley",
+        "weight": 0.9
+      },
+      {
+        "text": "dorma",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Badging Printer",
+    "patterns": [
+      {
+        "text": "badging printer",
+        "weight": 1.0
+      },
+      {
+        "text": "id printer",
+        "weight": 0.9
+      },
+      {
+        "text": "printer",
+        "weight": 0.8
+      },
+      {
+        "text": "zebra",
+        "weight": 0.9
+      },
+      {
+        "text": "fargo",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Battery",
+    "patterns": [
+      {
+        "text": "battery",
+        "weight": 1.0
+      },
+      {
+        "text": "backup battery",
+        "weight": 0.9
+      },
+      {
+        "text": "power",
+        "weight": 0.8
+      },
+      {
+        "text": "apc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Biometric Reader",
+    "patterns": [
+      {
+        "text": "biometric",
+        "weight": 1.0
+      },
+      {
+        "text": "fingerprint",
+        "weight": 0.9
+      },
+      {
+        "text": "reader",
+        "weight": 0.8
+      },
+      {
+        "text": "suprema",
+        "weight": 0.9
+      },
+      {
+        "text": "zkteco",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Card Reader",
+    "patterns": [
+      {
+        "text": "card reader",
+        "weight": 1.0
+      },
+      {
+        "text": "rfid",
+        "weight": 0.9
+      },
+      {
+        "text": "proximity",
+        "weight": 0.9
+      },
+      {
+        "text": "hid",
+        "weight": 0.9
+      },
+      {
+        "text": "proxcard",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Computer",
+    "patterns": [
+      {
+        "text": "computer",
+        "weight": 1.0
+      },
+      {
+        "text": "pc",
+        "weight": 0.9
+      },
+      {
+        "text": "workstation",
+        "weight": 0.8
+      },
+      {
+        "text": "dell",
+        "weight": 0.9
+      },
+      {
+        "text": "hp",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Door Holdback",
+    "patterns": [
+      {
+        "text": "door holdback",
+        "weight": 1.0
+      },
+      {
+        "text": "hold open",
+        "weight": 0.9
+      },
+      {
+        "text": "door",
+        "weight": 0.8
+      },
+      {
+        "text": "lcnb",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Door Prop Alarm",
+    "patterns": [
+      {
+        "text": "door prop alarm",
+        "weight": 1.0
+      },
+      {
+        "text": "prop alarm",
+        "weight": 0.9
+      },
+      {
+        "text": "door",
+        "weight": 0.8
+      },
+      {
+        "text": "detex",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Double Door",
+    "patterns": [
+      {
+        "text": "double door",
+        "weight": 1.0
+      },
+      {
+        "text": "dual door",
+        "weight": 0.9
+      },
+      {
+        "text": "door",
+        "weight": 0.8
+      },
+      {
+        "text": "access",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Mechanical",
+    "assetType": "Pumps: Centrifugal Pumps",
+    "patterns": [
+      {
+        "text": "pump",
+        "weight": 0.8
+      },
+      {
+        "text": "centrifugal",
+        "weight": 0.9
+      },
+      {
+        "text": "gpm",
+        "weight": 0.7
+      },
+      {
+        "text": "armstrong",
+        "weight": 0.9
+      },
+      {
+        "text": "4030",
+        "weight": 1.0
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Elec Exit Device",
+    "patterns": [
+      {
+        "text": "exit device",
+        "weight": 1.0
+      },
+      {
+        "text": "electric exit",
+        "weight": 0.9
+      },
+      {
+        "text": "panic bar",
+        "weight": 0.9
+      },
+      {
+        "text": "von duprin",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Elec Lockset",
+    "patterns": [
+      {
+        "text": "electric lockset",
+        "weight": 1.0
+      },
+      {
+        "text": "lockset",
+        "weight": 0.9
+      },
+      {
+        "text": "electronic lock",
+        "weight": 0.9
+      },
+      {
+        "text": "schlage",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Electric Strike",
+    "patterns": [
+      {
+        "text": "electric strike",
+        "weight": 1.0
+      },
+      {
+        "text": "strike",
+        "weight": 0.9
+      },
+      {
+        "text": "door lock",
+        "weight": 0.8
+      },
+      {
+        "text": "hes",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Emergency Door Release",
+    "patterns": [
+      {
+        "text": "emergency release",
+        "weight": 1.0
+      },
+      {
+        "text": "door release",
+        "weight": 0.9
+      },
+      {
+        "text": "emergency",
+        "weight": 0.8
+      },
+      {
+        "text": "securitron",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Enclosure",
+    "patterns": [
+      {
+        "text": "enclosure",
+        "weight": 1.0
+      },
+      {
+        "text": "cabinet",
+        "weight": 0.9
+      },
+      {
+        "text": "box",
+        "weight": 0.8
+      },
+      {
+        "text": "hoffman",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Garage Door Operator",
+    "patterns": [
+      {
+        "text": "garage door operator",
+        "weight": 1.0
+      },
+      {
+        "text": "garage door",
+        "weight": 0.9
+      },
+      {
+        "text": "opener",
+        "weight": 0.8
+      },
+      {
+        "text": "liftmaster",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Handicap Push Button",
+    "patterns": [
+      {
+        "text": "handicap button",
+        "weight": 1.0
+      },
+      {
+        "text": "push button",
+        "weight": 0.9
+      },
+      {
+        "text": "accessibility",
+        "weight": 0.8
+      },
+      {
+        "text": "lcn",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Health Scan Kiosk",
+    "patterns": [
+      {
+        "text": "health scan",
+        "weight": 1.0
+      },
+      {
+        "text": "kiosk",
+        "weight": 0.9
+      },
+      {
+        "text": "health",
+        "weight": 0.8
+      },
+      {
+        "text": "temperature",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "ID Scanner",
+    "patterns": [
+      {
+        "text": "id scanner",
+        "weight": 1.0
+      },
+      {
+        "text": "scanner",
+        "weight": 0.9
+      },
+      {
+        "text": "identification",
+        "weight": 0.8
+      },
+      {
+        "text": "hid",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Intercom End Point",
+    "patterns": [
+      {
+        "text": "intercom",
+        "weight": 1.0
+      },
+      {
+        "text": "end point",
+        "weight": 0.9
+      },
+      {
+        "text": "communication",
+        "weight": 0.8
+      },
+      {
+        "text": "aiphone",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Intercom Master Station",
+    "patterns": [
+      {
+        "text": "intercom",
+        "weight": 1.0
+      },
+      {
+        "text": "master station",
+        "weight": 0.9
+      },
+      {
+        "text": "communication",
+        "weight": 0.8
+      },
+      {
+        "text": "aiphone",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Long Range Reader",
+    "patterns": [
+      {
+        "text": "long range reader",
+        "weight": 1.0
+      },
+      {
+        "text": "rfid",
+        "weight": 0.9
+      },
+      {
+        "text": "reader",
+        "weight": 0.8
+      },
+      {
+        "text": "hid",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Magnetic Lock",
+    "patterns": [
+      {
+        "text": "magnetic lock",
+        "weight": 1.0
+      },
+      {
+        "text": "maglock",
+        "weight": 0.9
+      },
+      {
+        "text": "electromagnetic",
+        "weight": 0.9
+      },
+      {
+        "text": "securitron",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Motion Detector",
+    "patterns": [
+      {
+        "text": "motion detector",
+        "weight": 1.0
+      },
+      {
+        "text": "pir",
+        "weight": 0.9
+      },
+      {
+        "text": "motion sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "bosch",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Network Patch Panel",
+    "patterns": [
+      {
+        "text": "patch panel",
+        "weight": 1.0
+      },
+      {
+        "text": "network",
+        "weight": 0.9
+      },
+      {
+        "text": "cat6",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Network Switch",
+    "patterns": [
+      {
+        "text": "network switch",
+        "weight": 1.0
+      },
+      {
+        "text": "switch",
+        "weight": 0.9
+      },
+      {
+        "text": "ethernet",
+        "weight": 0.8
+      },
+      {
+        "text": "cisco",
+        "weight": 0.9
+      },
+      {
+        "text": "netgear",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Node",
+    "patterns": [
+      {
+        "text": "node",
+        "weight": 1.0
+      },
+      {
+        "text": "network node",
+        "weight": 0.9
+      },
+      {
+        "text": "controller",
+        "weight": 0.8
+      },
+      {
+        "text": "module",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Overhead Door",
+    "patterns": [
+      {
+        "text": "overhead door",
+        "weight": 1.0
+      },
+      {
+        "text": "garage door",
+        "weight": 0.9
+      },
+      {
+        "text": "roll-up",
+        "weight": 0.8
+      },
+      {
+        "text": "clopay",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Panic Button",
+    "patterns": [
+      {
+        "text": "panic button",
+        "weight": 1.0
+      },
+      {
+        "text": "emergency button",
+        "weight": 0.9
+      },
+      {
+        "text": "alarm",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Pedestrian Entry",
+    "patterns": [
+      {
+        "text": "pedestrian entry",
+        "weight": 1.0
+      },
+      {
+        "text": "entry gate",
+        "weight": 0.9
+      },
+      {
+        "text": "access",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Pedestrian Metal Detector",
+    "patterns": [
+      {
+        "text": "metal detector",
+        "weight": 1.0
+      },
+      {
+        "text": "pedestrian",
+        "weight": 0.9
+      },
+      {
+        "text": "security",
+        "weight": 0.8
+      },
+      {
+        "text": "garrett",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Power Transfer Device",
+    "patterns": [
+      {
+        "text": "power transfer",
+        "weight": 1.0
+      },
+      {
+        "text": "transfer device",
+        "weight": 0.9
+      },
+      {
+        "text": "door",
+        "weight": 0.8
+      },
+      {
+        "text": "securitron",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Printer",
+    "patterns": [
+      {
+        "text": "printer",
+        "weight": 1.0
+      },
+      {
+        "text": "laser printer",
+        "weight": 0.9
+      },
+      {
+        "text": "inkjet",
+        "weight": 0.8
+      },
+      {
+        "text": "hp",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Relay",
+    "patterns": [
+      {
+        "text": "relay",
+        "weight": 1.0
+      },
+      {
+        "text": "control relay",
+        "weight": 0.9
+      },
+      {
+        "text": "switch",
+        "weight": 0.8
+      },
+      {
+        "text": "altronix",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Request to Exit",
+    "patterns": [
+      {
+        "text": "request to exit",
+        "weight": 1.0
+      },
+      {
+        "text": "rex",
+        "weight": 0.9
+      },
+      {
+        "text": "exit button",
+        "weight": 0.9
+      },
+      {
+        "text": "bosch",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Server",
+    "patterns": [
+      {
+        "text": "server",
+        "weight": 1.0
+      },
+      {
+        "text": "rack server",
+        "weight": 0.9
+      },
+      {
+        "text": "network",
+        "weight": 0.8
+      },
+      {
+        "text": "dell",
+        "weight": 0.9
+      },
+      {
+        "text": "hp",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Single Door",
+    "patterns": [
+      {
+        "text": "single door",
+        "weight": 1.0
+      },
+      {
+        "text": "door",
+        "weight": 0.9
+      },
+      {
+        "text": "access",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Tamper Switch",
+    "patterns": [
+      {
+        "text": "tamper switch",
+        "weight": 1.0
+      },
+      {
+        "text": "tamper",
+        "weight": 0.9
+      },
+      {
+        "text": "security",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Turnstile",
+    "patterns": [
+      {
+        "text": "turnstile",
+        "weight": 1.0
+      },
+      {
+        "text": "gate",
+        "weight": 0.9
+      },
+      {
+        "text": "access",
+        "weight": 0.8
+      },
+      {
+        "text": "alvarado",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "UPS Power Unit",
+    "patterns": [
+      {
+        "text": "ups",
+        "weight": 1.0
+      },
+      {
+        "text": "power unit",
+        "weight": 0.9
+      },
+      {
+        "text": "backup power",
+        "weight": 0.8
+      },
+      {
+        "text": "apc",
+        "weight": 0.9
+      },
+      {
+        "text": "eaton",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "User Workstation",
+    "patterns": [
+      {
+        "text": "workstation",
+        "weight": 1.0
+      },
+      {
+        "text": "user workstation",
+        "weight": 0.9
+      },
+      {
+        "text": "computer",
+        "weight": 0.8
+      },
+      {
+        "text": "dell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Vehicle Entry Control Point",
+    "patterns": [
+      {
+        "text": "vehicle entry",
+        "weight": 1.0
+      },
+      {
+        "text": "gate",
+        "weight": 0.9
+      },
+      {
+        "text": "access",
+        "weight": 0.8
+      },
+      {
+        "text": "bft",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Vehicle Gate Operator",
+    "patterns": [
+      {
+        "text": "gate operator",
+        "weight": 1.0
+      },
+      {
+        "text": "vehicle gate",
+        "weight": 0.9
+      },
+      {
+        "text": "opener",
+        "weight": 0.8
+      },
+      {
+        "text": "liftmaster",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Video Doorbell",
+    "patterns": [
+      {
+        "text": "video doorbell",
+        "weight": 1.0
+      },
+      {
+        "text": "doorbell",
+        "weight": 0.9
+      },
+      {
+        "text": "camera",
+        "weight": 0.8
+      },
+      {
+        "text": "ring",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Visitor Kiosk",
+    "patterns": [
+      {
+        "text": "visitor kiosk",
+        "weight": 1.0
+      },
+      {
+        "text": "kiosk",
+        "weight": 0.9
+      },
+      {
+        "text": "visitor",
+        "weight": 0.8
+      },
+      {
+        "text": "envoy",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Wireless Receiver Hub",
+    "patterns": [
+      {
+        "text": "wireless receiver",
+        "weight": 1.0
+      },
+      {
+        "text": "receiver hub",
+        "weight": 0.9
+      },
+      {
+        "text": "wireless",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Audio Amplifier",
+    "patterns": [
+      {
+        "text": "audio amplifier",
+        "weight": 1.0
+      },
+      {
+        "text": "amplifier",
+        "weight": 0.9
+      },
+      {
+        "text": "audio",
+        "weight": 0.8
+      },
+      {
+        "text": "bose",
+        "weight": 0.9
+      },
+      {
+        "text": "qsc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Battery",
+    "patterns": [
+      {
+        "text": "battery",
+        "weight": 1.0
+      },
+      {
+        "text": "backup battery",
+        "weight": 0.9
+      },
+      {
+        "text": "power",
+        "weight": 0.8
+      },
+      {
+        "text": "apc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Cellular Communicator",
+    "patterns": [
+      {
+        "text": "cellular",
+        "weight": 1.0
+      },
+      {
+        "text": "communicator",
+        "weight": 0.9
+      },
+      {
+        "text": "4g",
+        "weight": 0.8
+      },
+      {
+        "text": "telguard",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Computer",
+    "patterns": [
+      {
+        "text": "computer",
+        "weight": 1.0
+      },
+      {
+        "text": "pc",
+        "weight": 0.9
+      },
+      {
+        "text": "workstation",
+        "weight": 0.8
+      },
+      {
+        "text": "dell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Emergency Call Station",
+    "patterns": [
+      {
+        "text": "emergency call",
+        "weight": 1.0
+      },
+      {
+        "text": "call station",
+        "weight": 0.9
+      },
+      {
+        "text": "emergency",
+        "weight": 0.8
+      },
+      {
+        "text": "code blue",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Equipment Rack",
+    "patterns": [
+      {
+        "text": "equipment rack",
+        "weight": 1.0
+      },
+      {
+        "text": "rack",
+        "weight": 0.9
+      },
+      {
+        "text": "server rack",
+        "weight": 0.8
+      },
+      {
+        "text": "middle atlantic",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "General Assembly",
+    "patterns": [
+      {
+        "text": "assembly",
+        "weight": 1.0
+      },
+      {
+        "text": "general assembly",
+        "weight": 0.9
+      },
+      {
+        "text": "component",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "General Component",
+    "patterns": [
+      {
+        "text": "component",
+        "weight": 1.0
+      },
+      {
+        "text": "general component",
+        "weight": 0.9
+      },
+      {
+        "text": "module",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "General Software",
+    "patterns": [
+      {
+        "text": "software",
+        "weight": 1.0
+      },
+      {
+        "text": "application",
+        "weight": 0.9
+      },
+      {
+        "text": "firmware",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Intercom End Point",
+    "patterns": [
+      {
+        "text": "intercom",
+        "weight": 1.0
+      },
+      {
+        "text": "end point",
+        "weight": 0.9
+      },
+      {
+        "text": "communication",
+        "weight": 0.8
+      },
+      {
+        "text": "aiphone",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Intercom Master Station",
+    "patterns": [
+      {
+        "text": "intercom",
+        "weight": 1.0
+      },
+      {
+        "text": "master station",
+        "weight": 0.9
+      },
+      {
+        "text": "communication",
+        "weight": 0.8
+      },
+      {
+        "text": "aiphone",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Intercom Power Supply",
+    "patterns": [
+      {
+        "text": "intercom power",
+        "weight": 1.0
+      },
+      {
+        "text": "power supply",
+        "weight": 0.9
+      },
+      {
+        "text": "intercom",
+        "weight": 0.8
+      },
+      {
+        "text": "aiphone",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Microphone",
+    "patterns": [
+      {
+        "text": "microphone",
+        "weight": 1.0
+      },
+      {
+        "text": "mic",
+        "weight": 0.9
+      },
+      {
+        "text": "audio",
+        "weight": 0.8
+      },
+      {
+        "text": "shure",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Network Jack",
+    "patterns": [
+      {
+        "text": "network jack",
+        "weight": 1.0
+      },
+      {
+        "text": "rj45",
+        "weight": 0.9
+      },
+      {
+        "text": "ethernet",
+        "weight": 0.8
+      },
+      {
+        "text": "leviton",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Network Switch",
+    "patterns": [
+      {
+        "text": "network switch",
+        "weight": 1.0
+      },
+      {
+        "text": "switch",
+        "weight": 0.9
+      },
+      {
+        "text": "ethernet",
+        "weight": 0.8
+      },
+      {
+        "text": "cisco",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Node",
+    "patterns": [
+      {
+        "text": "node",
+        "weight": 1.0
+      },
+      {
+        "text": "network node",
+        "weight": 0.9
+      },
+      {
+        "text": "controller",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Panic Button",
+    "patterns": [
+      {
+        "text": "panic button",
+        "weight": 1.0
+      },
+      {
+        "text": "emergency button",
+        "weight": 0.9
+      },
+      {
+        "text": "alarm",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Public Address Amp",
+    "patterns": [
+      {
+        "text": "public address",
+        "weight": 1.0
+      },
+      {
+        "text": "amplifier",
+        "weight": 0.9
+      },
+      {
+        "text": "pa system",
+        "weight": 0.9
+      },
+      {
+        "text": "bogen",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Public Address Speaker",
+    "patterns": [
+      {
+        "text": "public address speaker",
+        "weight": 1.0
+      },
+      {
+        "text": "pa speaker",
+        "weight": 0.9
+      },
+      {
+        "text": "speaker",
+        "weight": 0.8
+      },
+      {
+        "text": "bogen",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Server",
+    "patterns": [
+      {
+        "text": "server",
+        "weight": 1.0
+      },
+      {
+        "text": "rack server",
+        "weight": 0.9
+      },
+      {
+        "text": "network",
+        "weight": 0.8
+      },
+      {
+        "text": "dell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Signage",
+    "patterns": [
+      {
+        "text": "signage",
+        "weight": 1.0
+      },
+      {
+        "text": "digital sign",
+        "weight": 0.9
+      },
+      {
+        "text": "display",
+        "weight": 0.8
+      },
+      {
+        "text": "samsung",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Telecom System Controller",
+    "patterns": [
+      {
+        "text": "telecom controller",
+        "weight": 1.0
+      },
+      {
+        "text": "controller",
+        "weight": 0.9
+      },
+      {
+        "text": "telecom",
+        "weight": 0.8
+      },
+      {
+        "text": "avaya",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Telecom System Software",
+    "patterns": [
+      {
+        "text": "telecom software",
+        "weight": 1.0
+      },
+      {
+        "text": "software",
+        "weight": 0.9
+      },
+      {
+        "text": "telecom",
+        "weight": 0.8
+      },
+      {
+        "text": "avaya",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Telephone Set",
+    "patterns": [
+      {
+        "text": "telephone",
+        "weight": 1.0
+      },
+      {
+        "text": "phone",
+        "weight": 0.9
+      },
+      {
+        "text": "voip",
+        "weight": 0.8
+      },
+      {
+        "text": "cisco",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "UPS Power Unit",
+    "patterns": [
+      {
+        "text": "ups",
+        "weight": 1.0
+      },
+      {
+        "text": "power unit",
+        "weight": 0.9
+      },
+      {
+        "text": "backup power",
+        "weight": 0.8
+      },
+      {
+        "text": "apc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "User Workstation",
+    "patterns": [
+      {
+        "text": "workstation",
+        "weight": 1.0
+      },
+      {
+        "text": "user workstation",
+        "weight": 0.9
+      },
+      {
+        "text": "computer",
+        "weight": 0.8
+      },
+      {
+        "text": "dell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Video Conference System",
+    "patterns": [
+      {
+        "text": "video conference",
+        "weight": 1.0
+      },
+      {
+        "text": "conference system",
+        "weight": 0.9
+      },
+      {
+        "text": "video",
+        "weight": 0.8
+      },
+      {
+        "text": "polycom",
+        "weight": 0.9
+      },
+      {
+        "text": "zoom",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Video Doorbell",
+    "patterns": [
+      {
+        "text": "video doorbell",
+        "weight": 1.0
+      },
+      {
+        "text": "doorbell",
+        "weight": 0.9
+      },
+      {
+        "text": "camera",
+        "weight": 0.8
+      },
+      {
+        "text": "ring",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Video Monitor",
+    "patterns": [
+      {
+        "text": "video monitor",
+        "weight": 1.0
+      },
+      {
+        "text": "monitor",
+        "weight": 0.9
+      },
+      {
+        "text": "display",
+        "weight": 0.8
+      },
+      {
+        "text": "samsung",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Volume Control",
+    "patterns": [
+      {
+        "text": "volume control",
+        "weight": 1.0
+      },
+      {
+        "text": "audio control",
+        "weight": 0.9
+      },
+      {
+        "text": "volume",
+        "weight": 0.8
+      },
+      {
+        "text": "bose",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Wireless Access Point",
+    "patterns": [
+      {
+        "text": "wireless access point",
+        "weight": 1.0
+      },
+      {
+        "text": "access point",
+        "weight": 0.9
+      },
+      {
+        "text": "wifi",
+        "weight": 0.8
+      },
+      {
+        "text": "cisco",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Infrastructure",
+    "assetType": "Battery",
+    "patterns": [
+      {
+        "text": "battery",
+        "weight": 1.0
+      },
+      {
+        "text": "backup battery",
+        "weight": 0.9
+      },
+      {
+        "text": "power",
+        "weight": 0.8
+      },
+      {
+        "text": "apc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Infrastructure",
+    "assetType": "Cable Balun",
+    "patterns": [
+      {
+        "text": "cable balun",
+        "weight": 1.0
+      },
+      {
+        "text": "balun",
+        "weight": 0.9
+      },
+      {
+        "text": "video",
+        "weight": 0.8
+      },
+      {
+        "text": "muxlab",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Infrastructure",
+    "assetType": "Cable Path",
+    "patterns": [
+      {
+        "text": "cable path",
+        "weight": 1.0
+      },
+      {
+        "text": "cable tray",
+        "weight": 0.9
+      },
+      {
+        "text": "conduit",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Infrastructure",
+    "assetType": "Enclosure",
+    "patterns": [
+      {
+        "text": "enclosure",
+        "weight": 1.0
+      },
+      {
+        "text": "cabinet",
+        "weight": 0.9
+      },
+      {
+        "text": "box",
+        "weight": 0.8
+      },
+      {
+        "text": "hoffman",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Infrastructure",
+    "assetType": "Equipment Rack",
+    "patterns": [
+      {
+        "text": "equipment rack",
+        "weight": 1.0
+      },
+      {
+        "text": "rack",
+        "weight": 0.9
+      },
+      {
+        "text": "server rack",
+        "weight": 0.8
+      },
+      {
+        "text": "middle atlantic",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Infrastructure",
+    "assetType": "General Assembly",
+    "patterns": [
+      {
+        "text": "assembly",
+        "weight": 1.0
+      },
+      {
+        "text": "general assembly",
+        "weight": 0.9
+      },
+      {
+        "text": "component",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Infrastructure",
+    "assetType": "General Component",
+    "patterns": [
+      {
+        "text": "component",
+        "weight": 1.0
+      },
+      {
+        "text": "general component",
+        "weight": 0.9
+      },
+      {
+        "text": "module",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Infrastructure",
+    "assetType": "Generator",
+    "patterns": [
+      {
+        "text": "generator",
+        "weight": 1.0
+      },
+      {
+        "text": "kw",
+        "weight": 0.9
+      },
+      {
+        "text": "kva",
+        "weight": 0.9
+      },
+      {
+        "text": "diesel",
+        "weight": 0.8
+      },
+      {
+        "text": "kohler",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Infrastructure",
+    "assetType": "Junction Box",
+    "patterns": [
+      {
+        "text": "junction box",
+        "weight": 1.0
+      },
+      {
+        "text": "j-box",
+        "weight": 0.9
+      },
+      {
+        "text": "electrical box",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Infrastructure",
+    "assetType": "Multimedia Outlet",
+    "patterns": [
+      {
+        "text": "multimedia outlet",
+        "weight": 1.0
+      },
+      {
+        "text": "outlet",
+        "weight": 0.9
+      },
+      {
+        "text": "av",
+        "weight": 0.8
+      },
+      {
+        "text": "leviton",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Infrastructure",
+    "assetType": "Network Jack",
+    "patterns": [
+      {
+        "text": "network jack",
+        "weight": 1.0
+      },
+      {
+        "text": "rj45",
+        "weight": 0.9
+      },
+      {
+        "text": "ethernet",
+        "weight": 0.8
+      },
+      {
+        "text": "leviton",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Infrastructure",
+    "assetType": "Network Patch Panel",
+    "patterns": [
+      {
+        "text": "patch panel",
+        "weight": 1.0
+      },
+      {
+        "text": "network",
+        "weight": 0.9
+      },
+      {
+        "text": "cat6",
+        "weight": 0.8
+      },
+      {
+        "text": "panduit",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Infrastructure",
+    "assetType": "Network Surge Protector",
+    "patterns": [
+      {
+        "text": "surge protector",
+        "weight": 1.0
+      },
+      {
+        "text": "network surge",
+        "weight": 0.9
+      },
+      {
+        "text": "surge",
+        "weight": 0.8
+      },
+      {
+        "text": "apc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Infrastructure",
+    "assetType": "Node",
+    "patterns": [
+      {
+        "text": "node",
+        "weight": 1.0
+      },
+      {
+        "text": "network node",
+        "weight": 0.9
+      },
+      {
+        "text": "controller",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Infrastructure",
+    "assetType": "PoE Injector",
+    "patterns": [
+      {
+        "text": "poe injector",
+        "weight": 1.0
+      },
+      {
+        "text": "power over ethernet",
+        "weight": 0.9
+      },
+      {
+        "text": "poe",
+        "weight": 0.8
+      },
+      {
+        "text": "ubiquiti",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Infrastructure",
+    "assetType": "Structured Media Cabinet",
+    "patterns": [
+      {
+        "text": "media cabinet",
+        "weight": 1.0
+      },
+      {
+        "text": "structured media",
+        "weight": 0.9
+      },
+      {
+        "text": "cabinet",
+        "weight": 0.8
+      },
+      {
+        "text": "leviton",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Infrastructure",
+    "assetType": "UPS Power Unit",
+    "patterns": [
+      {
+        "text": "ups",
+        "weight": 1.0
+      },
+      {
+        "text": "power unit",
+        "weight": 0.9
+      },
+      {
+        "text": "backup power",
+        "weight": 0.8
+      },
+      {
+        "text": "apc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Infrastructure",
+    "assetType": "Wireless Receiver Hub",
+    "patterns": [
+      {
+        "text": "wireless receiver",
+        "weight": 1.0
+      },
+      {
+        "text": "receiver hub",
+        "weight": 0.9
+      },
+      {
+        "text": "wireless",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Analog Video Encoder",
+    "patterns": [
+      {
+        "text": "video encoder",
+        "weight": 1.0
+      },
+      {
+        "text": "analog encoder",
+        "weight": 0.9
+      },
+      {
+        "text": "surveillance",
+        "weight": 0.8
+      },
+      {
+        "text": "axis",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Battery",
+    "patterns": [
+      {
+        "text": "battery",
+        "weight": 1.0
+      },
+      {
+        "text": "backup battery",
+        "weight": 0.9
+      },
+      {
+        "text": "power",
+        "weight": 0.8
+      },
+      {
+        "text": "apc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Cable Balun",
+    "patterns": [
+      {
+        "text": "cable balun",
+        "weight": 1.0
+      },
+      {
+        "text": "balun",
+        "weight": 0.9
+      },
+      {
+        "text": "video",
+        "weight": 0.8
+      },
+      {
+        "text": "muxlab",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Computer",
+    "patterns": [
+      {
+        "text": "computer",
+        "weight": 1.0
+      },
+      {
+        "text": "pc",
+        "weight": 0.9
+      },
+      {
+        "text": "workstation",
+        "weight": 0.8
+      },
+      {
+        "text": "dell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Data Storage Array",
+    "patterns": [
+      {
+        "text": "storage array",
+        "weight": 1.0
+      },
+      {
+        "text": "data storage",
+        "weight": 0.9
+      },
+      {
+        "text": "nas",
+        "weight": 0.8
+      },
+      {
+        "text": "synology",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Equipment Rack",
+    "patterns": [
+      {
+        "text": "equipment rack",
+        "weight": 1.0
+      },
+      {
+        "text": "rack",
+        "weight": 0.9
+      },
+      {
+        "text": "server rack",
+        "weight": 0.8
+      },
+      {
+        "text": "middle atlantic",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Fixed Camera",
+    "patterns": [
+      {
+        "text": "fixed camera",
+        "weight": 1.0
+      },
+      {
+        "text": "camera",
+        "weight": 0.9
+      },
+      {
+        "text": "surveillance",
+        "weight": 0.8
+      },
+      {
+        "text": "hikvision",
+        "weight": 0.9
+      },
+      {
+        "text": "dahua",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "General Assembly",
+    "patterns": [
+      {
+        "text": "assembly",
+        "weight": 1.0
+      },
+      {
+        "text": "general assembly",
+        "weight": 0.9
+      },
+      {
+        "text": "component",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "General Component",
+    "patterns": [
+      {
+        "text": "component",
+        "weight": 1.0
+      },
+      {
+        "text": "general component",
+        "weight": 0.9
+      },
+      {
+        "text": "module",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "General Multi-Sensor Device",
+    "patterns": [
+      {
+        "text": "multi-sensor",
+        "weight": 1.0
+      },
+      {
+        "text": "sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "surveillance",
+        "weight": 0.8
+      },
+      {
+        "text": "axis",
+        "weight": 0.9
+      },
+      {
+        "text": "hikvision",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "General Software",
+    "patterns": [
+      {
+        "text": "software",
+        "weight": 1.0
+      },
+      {
+        "text": "surveillance software",
+        "weight": 0.9
+      },
+      {
+        "text": "vms",
+        "weight": 0.8
+      },
+      {
+        "text": "milestone",
+        "weight": 0.9
+      },
+      {
+        "text": "genetec",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "IR Illuminator",
+    "patterns": [
+      {
+        "text": "ir illuminator",
+        "weight": 1.0
+      },
+      {
+        "text": "infrared",
+        "weight": 0.9
+      },
+      {
+        "text": "night vision",
+        "weight": 0.8
+      },
+      {
+        "text": "raytec",
+        "weight": 0.9
+      },
+      {
+        "text": "bosch",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "License Plate Reader",
+    "patterns": [
+      {
+        "text": "license plate",
+        "weight": 1.0
+      },
+      {
+        "text": "alpr",
+        "weight": 0.9
+      },
+      {
+        "text": "plate reader",
+        "weight": 0.9
+      },
+      {
+        "text": "vigilant",
+        "weight": 0.9
+      },
+      {
+        "text": "openalpr",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Microphone",
+    "patterns": [
+      {
+        "text": "microphone",
+        "weight": 1.0
+      },
+      {
+        "text": "mic",
+        "weight": 0.9
+      },
+      {
+        "text": "audio",
+        "weight": 0.8
+      },
+      {
+        "text": "louis",
+        "weight": 0.9
+      },
+      {
+        "text": "axis",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Multi-Lens Camera",
+    "patterns": [
+      {
+        "text": "multi-lens",
+        "weight": 1.0
+      },
+      {
+        "text": "panoramic camera",
+        "weight": 0.9
+      },
+      {
+        "text": "camera",
+        "weight": 0.8
+      },
+      {
+        "text": "avigilon",
+        "weight": 0.9
+      },
+      {
+        "text": "pelco",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "NVR-DVR",
+    "patterns": [
+      {
+        "text": "nvr",
+        "weight": 1.0
+      },
+      {
+        "text": "dvr",
+        "weight": 1.0
+      },
+      {
+        "text": "video recorder",
+        "weight": 0.9
+      },
+      {
+        "text": "hikvision",
+        "weight": 0.9
+      },
+      {
+        "text": "dahua",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Network Jack",
+    "patterns": [
+      {
+        "text": "network jack",
+        "weight": 1.0
+      },
+      {
+        "text": "rj45",
+        "weight": 0.9
+      },
+      {
+        "text": "ethernet",
+        "weight": 0.8
+      },
+      {
+        "text": "leviton",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Network Patch Panel",
+    "patterns": [
+      {
+        "text": "patch panel",
+        "weight": 1.0
+      },
+      {
+        "text": "network",
+        "weight": 0.9
+      },
+      {
+        "text": "cat6",
+        "weight": 0.8
+      },
+      {
+        "text": "panduit",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Network Surge Protector",
+    "patterns": [
+      {
+        "text": "surge protector",
+        "weight": 1.0
+      },
+      {
+        "text": "network surge",
+        "weight": 0.9
+      },
+      {
+        "text": "surge",
+        "weight": 0.8
+      },
+      {
+        "text": "apc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Network Switch",
+    "patterns": [
+      {
+        "text": "network switch",
+        "weight": 1.0
+      },
+      {
+        "text": "switch",
+        "weight": 0.9
+      },
+      {
+        "text": "ethernet",
+        "weight": 0.8
+      },
+      {
+        "text": "cisco",
+        "weight": 0.9
+      },
+      {
+        "text": "netgear",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Node",
+    "patterns": [
+      {
+        "text": "node",
+        "weight": 1.0
+      },
+      {
+        "text": "network node",
+        "weight": 0.9
+      },
+      {
+        "text": "controller",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "PTZ Camera",
+    "patterns": [
+      {
+        "text": "ptz camera",
+        "weight": 1.0
+      },
+      {
+        "text": "pan tilt zoom",
+        "weight": 0.9
+      },
+      {
+        "text": "camera",
+        "weight": 0.8
+      },
+      {
+        "text": "hikvision",
+        "weight": 0.9
+      },
+      {
+        "text": "axis",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "PoE Injector",
+    "patterns": [
+      {
+        "text": "poe injector",
+        "weight": 1.0
+      },
+      {
+        "text": "power over ethernet",
+        "weight": 0.9
+      },
+      {
+        "text": "poe",
+        "weight": 0.8
+      },
+      {
+        "text": "ubiquiti",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Server",
+    "patterns": [
+      {
+        "text": "server",
+        "weight": 1.0
+      },
+      {
+        "text": "rack server",
+        "weight": 0.9
+      },
+      {
+        "text": "network",
+        "weight": 0.8
+      },
+      {
+        "text": "dell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Signage",
+    "patterns": [
+      {
+        "text": "signage",
+        "weight": 1.0
+      },
+      {
+        "text": "digital sign",
+        "weight": 0.9
+      },
+      {
+        "text": "display",
+        "weight": 0.8
+      },
+      {
+        "text": "samsung",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Speaker",
+    "patterns": [
+      {
+        "text": "speaker",
+        "weight": 1.0
+      },
+      {
+        "text": "audio",
+        "weight": 0.9
+      },
+      {
+        "text": "ceiling speaker",
+        "weight": 0.9
+      },
+      {
+        "text": "bose",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "UPS Power Unit",
+    "patterns": [
+      {
+        "text": "ups",
+        "weight": 1.0
+      },
+      {
+        "text": "power unit",
+        "weight": 0.9
+      },
+      {
+        "text": "backup power",
+        "weight": 0.8
+      },
+      {
+        "text": "apc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "User Workstation",
+    "patterns": [
+      {
+        "text": "workstation",
+        "weight": 1.0
+      },
+      {
+        "text": "user workstation",
+        "weight": 0.9
+      },
+      {
+        "text": "computer",
+        "weight": 0.8
+      },
+      {
+        "text": "dell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "VMS Software",
+    "patterns": [
+      {
+        "text": "vms software",
+        "weight": 1.0
+      },
+      {
+        "text": "video management",
+        "weight": 0.9
+      },
+      {
+        "text": "software",
+        "weight": 0.8
+      },
+      {
+        "text": "milestone",
+        "weight": 0.9
+      },
+      {
+        "text": "genetec",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "VSS Power Supply",
+    "patterns": [
+      {
+        "text": "vss power",
+        "weight": 1.0
+      },
+      {
+        "text": "power supply",
+        "weight": 0.9
+      },
+      {
+        "text": "surveillance",
+        "weight": 0.8
+      },
+      {
+        "text": "altronix",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Video Doorbell",
+    "patterns": [
+      {
+        "text": "video doorbell",
+        "weight": 1.0
+      },
+      {
+        "text": "doorbell",
+        "weight": 0.9
+      },
+      {
+        "text": "camera",
+        "weight": 0.8
+      },
+      {
+        "text": "ring",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Video Monitor",
+    "patterns": [
+      {
+        "text": "video monitor",
+        "weight": 1.0
+      },
+      {
+        "text": "monitor",
+        "weight": 0.9
+      },
+      {
+        "text": "display",
+        "weight": 0.8
+      },
+      {
+        "text": "samsung",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Video Wall",
+    "patterns": [
+      {
+        "text": "video wall",
+        "weight": 1.0
+      },
+      {
+        "text": "display wall",
+        "weight": 0.9
+      },
+      {
+        "text": "monitor",
+        "weight": 0.8
+      },
+      {
+        "text": "samsung",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Wireless Access Point",
+    "patterns": [
+      {
+        "text": "wireless access point",
+        "weight": 1.0
+      },
+      {
+        "text": "access point",
+        "weight": 0.9
+      },
+      {
+        "text": "wifi",
+        "weight": 0.8
+      },
+      {
+        "text": "cisco",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Badging Printer",
+    "patterns": [
+      {
+        "text": "badging printer",
+        "weight": 1.0
+      },
+      {
+        "text": "id printer",
+        "weight": 0.9
+      },
+      {
+        "text": "printer",
+        "weight": 0.8
+      },
+      {
+        "text": "zebra",
+        "weight": 0.9
+      },
+      {
+        "text": "fargo",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Battery",
+    "patterns": [
+      {
+        "text": "battery",
+        "weight": 1.0
+      },
+      {
+        "text": "backup battery",
+        "weight": 0.9
+      },
+      {
+        "text": "power",
+        "weight": 0.8
+      },
+      {
+        "text": "apc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Biometric Reader",
+    "patterns": [
+      {
+        "text": "biometric",
+        "weight": 1.0
+      },
+      {
+        "text": "fingerprint",
+        "weight": 0.9
+      },
+      {
+        "text": "reader",
+        "weight": 0.8
+      },
+      {
+        "text": "suprema",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Cellular Communicator",
+    "patterns": [
+      {
+        "text": "cellular",
+        "weight": 1.0
+      },
+      {
+        "text": "communicator",
+        "weight": 0.9
+      },
+      {
+        "text": "4g",
+        "weight": 0.8
+      },
+      {
+        "text": "telguard",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Computer",
+    "patterns": [
+      {
+        "text": "computer",
+        "weight": 1.0
+      },
+      {
+        "text": "pc",
+        "weight": 0.9
+      },
+      {
+        "text": "workstation",
+        "weight": 0.8
+      },
+      {
+        "text": "dell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Data Storage Array",
+    "patterns": [
+      {
+        "text": "storage array",
+        "weight": 1.0
+      },
+      {
+        "text": "data storage",
+        "weight": 0.9
+      },
+      {
+        "text": "nas",
+        "weight": 0.8
+      },
+      {
+        "text": "synology",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Equipment Rack",
+    "patterns": [
+      {
+        "text": "equipment rack",
+        "weight": 1.0
+      },
+      {
+        "text": "rack",
+        "weight": 0.9
+      },
+      {
+        "text": "server rack",
+        "weight": 0.8
+      },
+      {
+        "text": "middle atlantic",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "General Assembly",
+    "patterns": [
+      {
+        "text": "assembly",
+        "weight": 1.0
+      },
+      {
+        "text": "general assembly",
+        "weight": 0.9
+      },
+      {
+        "text": "component",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "General Component",
+    "patterns": [
+      {
+        "text": "component",
+        "weight": 1.0
+      },
+      {
+        "text": "general component",
+        "weight": 0.9
+      },
+      {
+        "text": "module",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "General Software",
+    "patterns": [
+      {
+        "text": "software",
+        "weight": 1.0
+      },
+      {
+        "text": "application",
+        "weight": 0.9
+      },
+      {
+        "text": "firmware",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Generator",
+    "patterns": [
+      {
+        "text": "generator",
+        "weight": 1.0
+      },
+      {
+        "text": "kw",
+        "weight": 0.9
+      },
+      {
+        "text": "kva",
+        "weight": 0.9
+      },
+      {
+        "text": "diesel",
+        "weight": 0.8
+      },
+      {
+        "text": "kohler",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Health Scan Kiosk",
+    "patterns": [
+      {
+        "text": "health scan",
+        "weight": 1.0
+      },
+      {
+        "text": "kiosk",
+        "weight": 0.9
+      },
+      {
+        "text": "health",
+        "weight": 0.8
+      },
+      {
+        "text": "temperature",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "ID Scanner",
+    "patterns": [
+      {
+        "text": "id scanner",
+        "weight": 1.0
+      },
+      {
+        "text": "scanner",
+        "weight": 0.9
+      },
+      {
+        "text": "identification",
+        "weight": 0.8
+      },
+      {
+        "text": "hid",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Network Firewall",
+    "patterns": [
+      {
+        "text": "firewall",
+        "weight": 1.0
+      },
+      {
+        "text": "network firewall",
+        "weight": 0.9
+      },
+      {
+        "text": "security",
+        "weight": 0.8
+      },
+      {
+        "text": "cisco",
+        "weight": 0.9
+      },
+      {
+        "text": "palo alto",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Network Jack",
+    "patterns": [
+      {
+        "text": "network jack",
+        "weight": 1.0
+      },
+      {
+        "text": "rj45",
+        "weight": 0.9
+      },
+      {
+        "text": "ethernet",
+        "weight": 0.8
+      },
+      {
+        "text": "leviton",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Network Patch Panel",
+    "patterns": [
+      {
+        "text": "patch panel",
+        "weight": 1.0
+      },
+      {
+        "text": "network",
+        "weight": 0.9
+      },
+      {
+        "text": "cat6",
+        "weight": 0.8
+      },
+      {
+        "text": "panduit",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Network Router",
+    "patterns": [
+      {
+        "text": "router",
+        "weight": 1.0
+      },
+      {
+        "text": "network router",
+        "weight": 0.9
+      },
+      {
+        "text": "network",
+        "weight": 0.8
+      },
+      {
+        "text": "cisco",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Network Surge Protector",
+    "patterns": [
+      {
+        "text": "surge protector",
+        "weight": 1.0
+      },
+      {
+        "text": "network surge",
+        "weight": 0.9
+      },
+      {
+        "text": "surge",
+        "weight": 0.8
+      },
+      {
+        "text": "apc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Network Switch",
+    "patterns": [
+      {
+        "text": "network switch",
+        "weight": 1.0
+      },
+      {
+        "text": "switch",
+        "weight": 0.9
+      },
+      {
+        "text": "ethernet",
+        "weight": 0.8
+      },
+      {
+        "text": "cisco",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Node",
+    "patterns": [
+      {
+        "text": "node",
+        "weight": 1.0
+      },
+      {
+        "text": "network node",
+        "weight": 0.9
+      },
+      {
+        "text": "controller",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "PoE Injector",
+    "patterns": [
+      {
+        "text": "poe injector",
+        "weight": 1.0
+      },
+      {
+        "text": "power over ethernet",
+        "weight": 0.9
+      },
+      {
+        "text": "poe",
+        "weight": 0.8
+      },
+      {
+        "text": "ubiquiti",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Printer",
+    "patterns": [
+      {
+        "text": "printer",
+        "weight": 1.0
+      },
+      {
+        "text": "laser printer",
+        "weight": 0.9
+      },
+      {
+        "text": "inkjet",
+        "weight": 0.8
+      },
+      {
+        "text": "hp",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Server",
+    "patterns": [
+      {
+        "text": "server",
+        "weight": 1.0
+      },
+      {
+        "text": "rack server",
+        "weight": 0.9
+      },
+      {
+        "text": "network",
+        "weight": 0.8
+      },
+      {
+        "text": "dell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "UPS Power Unit",
+    "patterns": [
+      {
+        "text": "ups",
+        "weight": 1.0
+      },
+      {
+        "text": "power unit",
+        "weight": 0.9
+      },
+      {
+        "text": "backup power",
+        "weight": 0.8
+      },
+      {
+        "text": "apc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Universal Transmitter",
+    "patterns": [
+      {
+        "text": "universal transmitter",
+        "weight": 1.0
+      },
+      {
+        "text": "transmitter",
+        "weight": 0.9
+      },
+      {
+        "text": "wireless",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "User Workstation",
+    "patterns": [
+      {
+        "text": "workstation",
+        "weight": 1.0
+      },
+      {
+        "text": "user workstation",
+        "weight": 0.9
+      },
+      {
+        "text": "computer",
+        "weight": 0.8
+      },
+      {
+        "text": "dell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Video Monitor",
+    "patterns": [
+      {
+        "text": "video monitor",
+        "weight": 1.0
+      },
+      {
+        "text": "monitor",
+        "weight": 0.9
+      },
+      {
+        "text": "display",
+        "weight": 0.8
+      },
+      {
+        "text": "samsung",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Visitor Kiosk",
+    "patterns": [
+      {
+        "text": "visitor kiosk",
+        "weight": 1.0
+      },
+      {
+        "text": "kiosk",
+        "weight": 0.9
+      },
+      {
+        "text": "visitor",
+        "weight": 0.8
+      },
+      {
+        "text": "envoy",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Information Technology",
+    "assetType": "Wireless Access Point",
+    "patterns": [
+      {
+        "text": "wireless access point",
+        "weight": 1.0
+      },
+      {
+        "text": "access point",
+        "weight": 0.9
+      },
+      {
+        "text": "wifi",
+        "weight": 0.8
+      },
+      {
+        "text": "cisco",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "AV Pre-Amp Processor",
+    "patterns": [
+      {
+        "text": "pre-amp",
+        "weight": 1.0
+      },
+      {
+        "text": "av processor",
+        "weight": 0.9
+      },
+      {
+        "text": "audio",
+        "weight": 0.8
+      },
+      {
+        "text": "denon",
+        "weight": 0.9
+      },
+      {
+        "text": "marantz",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "AV Receiver Processor",
+    "patterns": [
+      {
+        "text": "av receiver",
+        "weight": 1.0
+      },
+      {
+        "text": "receiver",
+        "weight": 0.9
+      },
+      {
+        "text": "audio",
+        "weight": 0.8
+      },
+      {
+        "text": "yamaha",
+        "weight": 0.9
+      },
+      {
+        "text": "denon",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Audio Amplifier",
+    "patterns": [
+      {
+        "text": "audio amplifier",
+        "weight": 1.0
+      },
+      {
+        "text": "amplifier",
+        "weight": 0.9
+      },
+      {
+        "text": "audio",
+        "weight": 0.8
+      },
+      {
+        "text": "bose",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Audio Source",
+    "patterns": [
+      {
+        "text": "audio source",
+        "weight": 1.0
+      },
+      {
+        "text": "source",
+        "weight": 0.9
+      },
+      {
+        "text": "audio",
+        "weight": 0.8
+      },
+      {
+        "text": "sonos",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Computer",
+    "patterns": [
+      {
+        "text": "computer",
+        "weight": 1.0
+      },
+      {
+        "text": "pc",
+        "weight": 0.9
+      },
+      {
+        "text": "workstation",
+        "weight": 0.8
+      },
+      {
+        "text": "dell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Enclosure",
+    "patterns": [
+      {
+        "text": "enclosure",
+        "weight": 1.0
+      },
+      {
+        "text": "cabinet",
+        "weight": 0.9
+      },
+      {
+        "text": "box",
+        "weight": 0.8
+      },
+      {
+        "text": "hoffman",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Equipment Rack",
+    "patterns": [
+      {
+        "text": "equipment rack",
+        "weight": 1.0
+      },
+      {
+        "text": "rack",
+        "weight": 0.9
+      },
+      {
+        "text": "server rack",
+        "weight": 0.8
+      },
+      {
+        "text": "middle atlantic",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "General Assembly",
+    "patterns": [
+      {
+        "text": "assembly",
+        "weight": 1.0
+      },
+      {
+        "text": "general assembly",
+        "weight": 0.9
+      },
+      {
+        "text": "component",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "General Component",
+    "patterns": [
+      {
+        "text": "component",
+        "weight": 1.0
+      },
+      {
+        "text": "general component",
+        "weight": 0.9
+      },
+      {
+        "text": "module",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "General Software",
+    "patterns": [
+      {
+        "text": "software",
+        "weight": 1.0
+      },
+      {
+        "text": "application",
+        "weight": 0.9
+      },
+      {
+        "text": "firmware",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Lighting Control Panel",
+    "patterns": [
+      {
+        "text": "lighting control",
+        "weight": 1.0
+      },
+      {
+        "text": "control panel",
+        "weight": 0.9
+      },
+      {
+        "text": "lighting",
+        "weight": 0.8
+      },
+      {
+        "text": "lutron",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Lighting Processor",
+    "patterns": [
+      {
+        "text": "lighting processor",
+        "weight": 1.0
+      },
+      {
+        "text": "processor",
+        "weight": 0.9
+      },
+      {
+        "text": "lighting",
+        "weight": 0.8
+      },
+      {
+        "text": "crestron",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Microphone",
+    "patterns": [
+      {
+        "text": "microphone",
+        "weight": 1.0
+      },
+      {
+        "text": "mic",
+        "weight": 0.9
+      },
+      {
+        "text": "audio",
+        "weight": 0.8
+      },
+      {
+        "text": "shure",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Microphone Outlet",
+    "patterns": [
+      {
+        "text": "microphone outlet",
+        "weight": 1.0
+      },
+      {
+        "text": "mic outlet",
+        "weight": 0.9
+      },
+      {
+        "text": "audio",
+        "weight": 0.8
+      },
+      {
+        "text": "leviton",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Multimedia Outlet",
+    "patterns": [
+      {
+        "text": "multimedia outlet",
+        "weight": 1.0
+      },
+      {
+        "text": "outlet",
+        "weight": 0.9
+      },
+      {
+        "text": "av",
+        "weight": 0.8
+      },
+      {
+        "text": "leviton",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Network Jack",
+    "patterns": [
+      {
+        "text": "network jack",
+        "weight": 1.0
+      },
+      {
+        "text": "rj45",
+        "weight": 0.9
+      },
+      {
+        "text": "ethernet",
+        "weight": 0.8
+      },
+      {
+        "text": "leviton",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Network Switch",
+    "patterns": [
+      {
+        "text": "network switch",
+        "weight": 1.0
+      },
+      {
+        "text": "switch",
+        "weight": 0.9
+      },
+      {
+        "text": "ethernet",
+        "weight": 0.8
+      },
+      {
+        "text": "cisco",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Node",
+    "patterns": [
+      {
+        "text": "node",
+        "weight": 1.0
+      },
+      {
+        "text": "network node",
+        "weight": 0.9
+      },
+      {
+        "text": "controller",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Projection Screen",
+    "patterns": [
+      {
+        "text": "projection screen",
+        "weight": 1.0
+      },
+      {
+        "text": "screen",
+        "weight": 0.9
+      },
+      {
+        "text": "projector",
+        "weight": 0.8
+      },
+      {
+        "text": "da-lite",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Projector",
+    "patterns": [
+      {
+        "text": "projector",
+        "weight": 1.0
+      },
+      {
+        "text": "projection",
+        "weight": 0.9
+      },
+      {
+        "text": "lumens",
+        "weight": 0.8
+      },
+      {
+        "text": "epson",
+        "weight": 0.9
+      },
+      {
+        "text": "benq",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Room Scheduler",
+    "patterns": [
+      {
+        "text": "room scheduler",
+        "weight": 1.0
+      },
+      {
+        "text": "scheduler",
+        "weight": 0.9
+      },
+      {
+        "text": "room",
+        "weight": 0.8
+      },
+      {
+        "text": "crestron",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Server",
+    "patterns": [
+      {
+        "text": "server",
+        "weight": 1.0
+      },
+      {
+        "text": "rack server",
+        "weight": 0.9
+      },
+      {
+        "text": "network",
+        "weight": 0.8
+      },
+      {
+        "text": "dell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Soundbar",
+    "patterns": [
+      {
+        "text": "soundbar",
+        "weight": 1.0
+      },
+      {
+        "text": "audio",
+        "weight": 0.9
+      },
+      {
+        "text": "speaker",
+        "weight": 0.8
+      },
+      {
+        "text": "bose",
+        "weight": 0.9
+      },
+      {
+        "text": "sonos",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Speaker",
+    "patterns": [
+      {
+        "text": "speaker",
+        "weight": 1.0
+      },
+      {
+        "text": "audio",
+        "weight": 0.9
+      },
+      {
+        "text": "ceiling speaker",
+        "weight": 0.9
+      },
+      {
+        "text": "bose",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Stage Lighting",
+    "patterns": [
+      {
+        "text": "stage lighting",
+        "weight": 1.0
+      },
+      {
+        "text": "lighting",
+        "weight": 0.9
+      },
+      {
+        "text": "stage",
+        "weight": 0.8
+      },
+      {
+        "text": "etc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Structured Media Cabinet",
+    "patterns": [
+      {
+        "text": "media cabinet",
+        "weight": 1.0
+      },
+      {
+        "text": "structured media",
+        "weight": 0.9
+      },
+      {
+        "text": "cabinet",
+        "weight": 0.8
+      },
+      {
+        "text": "leviton",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Subwoofer",
+    "patterns": [
+      {
+        "text": "subwoofer",
+        "weight": 1.0
+      },
+      {
+        "text": "audio",
+        "weight": 0.9
+      },
+      {
+        "text": "bass",
+        "weight": 0.8
+      },
+      {
+        "text": "bose",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "TV Monitor Lift",
+    "patterns": [
+      {
+        "text": "tv lift",
+        "weight": 1.0
+      },
+      {
+        "text": "monitor lift",
+        "weight": 0.9
+      },
+      {
+        "text": "lift",
+        "weight": 0.8
+      },
+      {
+        "text": "nexus",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Television",
+    "patterns": [
+      {
+        "text": "television",
+        "weight": 1.0
+      },
+      {
+        "text": "tv",
+        "weight": 0.9
+      },
+      {
+        "text": "display",
+        "weight": 0.8
+      },
+      {
+        "text": "samsung",
+        "weight": 0.9
+      },
+      {
+        "text": "lg",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "User Workstation",
+    "patterns": [
+      {
+        "text": "workstation",
+        "weight": 1.0
+      },
+      {
+        "text": "user workstation",
+        "weight": 0.9
+      },
+      {
+        "text": "computer",
+        "weight": 0.8
+      },
+      {
+        "text": "dell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Video Conference System",
+    "patterns": [
+      {
+        "text": "video conference",
+        "weight": 1.0
+      },
+      {
+        "text": "conference system",
+        "weight": 0.9
+      },
+      {
+        "text": "video",
+        "weight": 0.8
+      },
+      {
+        "text": "polycom",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Video Distribution Unit",
+    "patterns": [
+      {
+        "text": "video distribution",
+        "weight": 1.0
+      },
+      {
+        "text": "distribution unit",
+        "weight": 0.9
+      },
+      {
+        "text": "video",
+        "weight": 0.8
+      },
+      {
+        "text": "crestron",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Video Monitor",
+    "patterns": [
+      {
+        "text": "video monitor",
+        "weight": 1.0
+      },
+      {
+        "text": "monitor",
+        "weight": 0.9
+      },
+      {
+        "text": "display",
+        "weight": 0.8
+      },
+      {
+        "text": "samsung",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Video Source",
+    "patterns": [
+      {
+        "text": "video source",
+        "weight": 1.0
+      },
+      {
+        "text": "source",
+        "weight": 0.9
+      },
+      {
+        "text": "video",
+        "weight": 0.8
+      },
+      {
+        "text": "crestron",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Video Wall",
+    "patterns": [
+      {
+        "text": "video wall",
+        "weight": 1.0
+      },
+      {
+        "text": "display wall",
+        "weight": 0.9
+      },
+      {
+        "text": "monitor",
+        "weight": 0.8
+      },
+      {
+        "text": "samsung",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Audio Visual",
+    "assetType": "Volume Control",
+    "patterns": [
+      {
+        "text": "volume control",
+        "weight": 1.0
+      },
+      {
+        "text": "audio control",
+        "weight": 0.9
+      },
+      {
+        "text": "volume",
+        "weight": 0.8
+      },
+      {
+        "text": "bose",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Alarm Sounder",
+    "patterns": [
+      {
+        "text": "alarm sounder",
+        "weight": 1.0
+      },
+      {
+        "text": "siren",
+        "weight": 0.9
+      },
+      {
+        "text": "alarm",
+        "weight": 0.8
+      },
+      {
+        "text": "system sensor",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Alarm Strobe",
+    "patterns": [
+      {
+        "text": "alarm strobe",
+        "weight": 1.0
+      },
+      {
+        "text": "strobe",
+        "weight": 0.9
+      },
+      {
+        "text": "alarm",
+        "weight": 0.8
+      },
+      {
+        "text": "system sensor",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Audio Sensor",
+    "patterns": [
+      {
+        "text": "audio sensor",
+        "weight": 1.0
+      },
+      {
+        "text": "sound sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "intrusion",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Battery",
+    "patterns": [
+      {
+        "text": "battery",
+        "weight": 1.0
+      },
+      {
+        "text": "backup battery",
+        "weight": 0.9
+      },
+      {
+        "text": "power",
+        "weight": 0.8
+      },
+      {
+        "text": "apc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Beam Sensor",
+    "patterns": [
+      {
+        "text": "beam sensor",
+        "weight": 1.0
+      },
+      {
+        "text": "infrared beam",
+        "weight": 0.9
+      },
+      {
+        "text": "intrusion",
+        "weight": 0.8
+      },
+      {
+        "text": "optex",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Bill Trap Sensor",
+    "patterns": [
+      {
+        "text": "bill trap",
+        "weight": 1.0
+      },
+      {
+        "text": "cash sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "intrusion",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Carbon Monoxide Detector",
+    "patterns": [
+      {
+        "text": "carbon monoxide",
+        "weight": 1.0
+      },
+      {
+        "text": "co detector",
+        "weight": 0.9
+      },
+      {
+        "text": "detector",
+        "weight": 0.8
+      },
+      {
+        "text": "kidde",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Cellular Communicator",
+    "patterns": [
+      {
+        "text": "cellular",
+        "weight": 1.0
+      },
+      {
+        "text": "communicator",
+        "weight": 0.9
+      },
+      {
+        "text": "4g",
+        "weight": 0.8
+      },
+      {
+        "text": "telguard",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Door Contact",
+    "patterns": [
+      {
+        "text": "door contact",
+        "weight": 1.0
+      },
+      {
+        "text": "magnetic contact",
+        "weight": 0.9
+      },
+      {
+        "text": "sensor",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Door Position Switch",
+    "patterns": [
+      {
+        "text": "door position",
+        "weight": 1.0
+      },
+      {
+        "text": "switch",
+        "weight": 0.9
+      },
+      {
+        "text": "door sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Double Door",
+    "patterns": [
+      {
+        "text": "double door",
+        "weight": 1.0
+      },
+      {
+        "text": "dual door",
+        "weight": 0.9
+      },
+      {
+        "text": "door",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Emergency Door Release",
+    "patterns": [
+      {
+        "text": "emergency release",
+        "weight": 1.0
+      },
+      {
+        "text": "door release",
+        "weight": 0.9
+      },
+      {
+        "text": "emergency",
+        "weight": 0.8
+      },
+      {
+        "text": "securitron",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Emergency Glass Break",
+    "patterns": [
+      {
+        "text": "glass break",
+        "weight": 1.0
+      },
+      {
+        "text": "emergency",
+        "weight": 0.9
+      },
+      {
+        "text": "detector",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Enclosure",
+    "patterns": [
+      {
+        "text": "enclosure",
+        "weight": 1.0
+      },
+      {
+        "text": "cabinet",
+        "weight": 0.9
+      },
+      {
+        "text": "box",
+        "weight": 0.8
+      },
+      {
+        "text": "hoffman",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "FA Speaker Strobe",
+    "patterns": [
+      {
+        "text": "speaker strobe",
+        "weight": 1.0
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.9
+      },
+      {
+        "text": "strobe",
+        "weight": 0.8
+      },
+      {
+        "text": "system sensor",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Gas Detector",
+    "patterns": [
+      {
+        "text": "gas detector",
+        "weight": 1.0
+      },
+      {
+        "text": "gas sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "detector",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "General Assembly",
+    "patterns": [
+      {
+        "text": "assembly",
+        "weight": 1.0
+      },
+      {
+        "text": "general assembly",
+        "weight": 0.9
+      },
+      {
+        "text": "component",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "General Component",
+    "patterns": [
+      {
+        "text": "component",
+        "weight": 1.0
+      },
+      {
+        "text": "general component",
+        "weight": 0.9
+      },
+      {
+        "text": "module",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "General Multi-Sensor Device",
+    "patterns": [
+      {
+        "text": "multi-sensor",
+        "weight": 1.0
+      },
+      {
+        "text": "sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "intrusion",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "General Software",
+    "patterns": [
+      {
+        "text": "software",
+        "weight": 1.0
+      },
+      {
+        "text": "intrusion software",
+        "weight": 0.9
+      },
+      {
+        "text": "firmware",
+        "weight": 0.8
+      },
+      {
+        "text": "dsc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Glass Break Detector",
+    "patterns": [
+      {
+        "text": "glass break",
+        "weight": 1.0
+      },
+      {
+        "text": "detector",
+        "weight": 0.9
+      },
+      {
+        "text": "intrusion",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Gunshot Detection Sensor",
+    "patterns": [
+      {
+        "text": "gunshot detection",
+        "weight": 1.0
+      },
+      {
+        "text": "gunshot sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "intrusion",
+        "weight": 0.8
+      },
+      {
+        "text": "shotspotter",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "IDS Expansion Module",
+    "patterns": [
+      {
+        "text": "ids expansion",
+        "weight": 1.0
+      },
+      {
+        "text": "expansion module",
+        "weight": 0.9
+      },
+      {
+        "text": "intrusion",
+        "weight": 0.8
+      },
+      {
+        "text": "dsc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "IDS Keypad",
+    "patterns": [
+      {
+        "text": "ids keypad",
+        "weight": 1.0
+      },
+      {
+        "text": "keypad",
+        "weight": 0.9
+      },
+      {
+        "text": "intrusion",
+        "weight": 0.8
+      },
+      {
+        "text": "dsc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "IDS Panel",
+    "patterns": [
+      {
+        "text": "ids panel",
+        "weight": 1.0
+      },
+      {
+        "text": "control panel",
+        "weight": 0.9
+      },
+      {
+        "text": "intrusion",
+        "weight": 0.8
+      },
+      {
+        "text": "dsc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Motion Detector",
+    "patterns": [
+      {
+        "text": "motion detector",
+        "weight": 1.0
+      },
+      {
+        "text": "pir",
+        "weight": 0.9
+      },
+      {
+        "text": "motion sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "bosch",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Node",
+    "patterns": [
+      {
+        "text": "node",
+        "weight": 1.0
+      },
+      {
+        "text": "network node",
+        "weight": 0.9
+      },
+      {
+        "text": "controller",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Overhead Door",
+    "patterns": [
+      {
+        "text": "overhead door",
+        "weight": 1.0
+      },
+      {
+        "text": "garage door",
+        "weight": 0.9
+      },
+      {
+        "text": "roll-up",
+        "weight": 0.8
+      },
+      {
+        "text": "clopay",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Panic Button",
+    "patterns": [
+      {
+        "text": "panic button",
+        "weight": 1.0
+      },
+      {
+        "text": "emergency button",
+        "weight": 0.9
+      },
+      {
+        "text": "alarm",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Pedestrian Entry",
+    "patterns": [
+      {
+        "text": "pedestrian entry",
+        "weight": 1.0
+      },
+      {
+        "text": "entry gate",
+        "weight": 0.9
+      },
+      {
+        "text": "access",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Printer",
+    "patterns": [
+      {
+        "text": "printer",
+        "weight": 1.0
+      },
+      {
+        "text": "laser printer",
+        "weight": 0.9
+      },
+      {
+        "text": "inkjet",
+        "weight": 0.8
+      },
+      {
+        "text": "hp",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Public Address Speaker",
+    "patterns": [
+      {
+        "text": "public address speaker",
+        "weight": 1.0
+      },
+      {
+        "text": "pa speaker",
+        "weight": 0.9
+      },
+      {
+        "text": "speaker",
+        "weight": 0.8
+      },
+      {
+        "text": "bogen",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Pump Monitor",
+    "patterns": [
+      {
+        "text": "pump monitor",
+        "weight": 1.0
+      },
+      {
+        "text": "monitor",
+        "weight": 0.9
+      },
+      {
+        "text": "pump",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Relay",
+    "patterns": [
+      {
+        "text": "relay",
+        "weight": 1.0
+      },
+      {
+        "text": "control relay",
+        "weight": 0.9
+      },
+      {
+        "text": "switch",
+        "weight": 0.8
+      },
+      {
+        "text": "altronix",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Seismic Sensor",
+    "patterns": [
+      {
+        "text": "seismic sensor",
+        "weight": 1.0
+      },
+      {
+        "text": "vibration sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "intrusion",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Single Door",
+    "patterns": [
+      {
+        "text": "single door",
+        "weight": 1.0
+      },
+      {
+        "text": "door",
+        "weight": 0.9
+      },
+      {
+        "text": "access",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Siren",
+    "patterns": [
+      {
+        "text": "siren",
+        "weight": 1.0
+      },
+      {
+        "text": "alarm",
+        "weight": 0.9
+      },
+      {
+        "text": "intrusion",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Smoke Detector",
+    "patterns": [
+      {
+        "text": "smoke detector",
+        "weight": 1.0
+      },
+      {
+        "text": "smoke sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "detector",
+        "weight": 0.8
+      },
+      {
+        "text": "kidde",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Tamper Switch",
+    "patterns": [
+      {
+        "text": "tamper switch",
+        "weight": 1.0
+      },
+      {
+        "text": "tamper",
+        "weight": 0.9
+      },
+      {
+        "text": "security",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Temp-Humidity Sensor",
+    "patterns": [
+      {
+        "text": "temp-humidity",
+        "weight": 1.0
+      },
+      {
+        "text": "humidity sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "temperature sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Temperature Sensor",
+    "patterns": [
+      {
+        "text": "temperature sensor",
+        "weight": 1.0
+      },
+      {
+        "text": "temp sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "sensor",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "UPS Power Unit",
+    "patterns": [
+      {
+        "text": "ups",
+        "weight": 1.0
+      },
+      {
+        "text": "power unit",
+        "weight": 0.9
+      },
+      {
+        "text": "backup power",
+        "weight": 0.8
+      },
+      {
+        "text": "apc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Vape Sensor",
+    "patterns": [
+      {
+        "text": "vape sensor",
+        "weight": 1.0
+      },
+      {
+        "text": "vaping",
+        "weight": 0.9
+      },
+      {
+        "text": "air quality",
+        "weight": 0.8
+      },
+      {
+        "text": "halo",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Vehicle Entry Control Point",
+    "patterns": [
+      {
+        "text": "vehicle entry",
+        "weight": 1.0
+      },
+      {
+        "text": "gate",
+        "weight": 0.9
+      },
+      {
+        "text": "access",
+        "weight": 0.8
+      },
+      {
+        "text": "bft",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Vibration Sensor",
+    "patterns": [
+      {
+        "text": "vibration sensor",
+        "weight": 1.0
+      },
+      {
+        "text": "seismic sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "intrusion",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Water Sensor",
+    "patterns": [
+      {
+        "text": "water sensor",
+        "weight": 1.0
+      },
+      {
+        "text": "leak detector",
+        "weight": 0.9
+      },
+      {
+        "text": "flood sensor",
+        "weight": 0.9
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Window Contact",
+    "patterns": [
+      {
+        "text": "window contact",
+        "weight": 1.0
+      },
+      {
+        "text": "magnetic contact",
+        "weight": 0.9
+      },
+      {
+        "text": "sensor",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Intrusion Detection",
+    "assetType": "Wireless Receiver Hub",
+    "patterns": [
+      {
+        "text": "wireless receiver",
+        "weight": 1.0
+      },
+      {
+        "text": "receiver hub",
+        "weight": 0.9
+      },
+      {
+        "text": "wireless",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "Beam Smoke Detector",
+    "patterns": [
+      {
+        "text": "beam smoke",
+        "weight": 1.0
+      },
+      {
+        "text": "smoke detector",
+        "weight": 0.9
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.8
+      },
+      {
+        "text": "system sensor",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "Carbon Monoxide Detector",
+    "patterns": [
+      {
+        "text": "carbon monoxide",
+        "weight": 1.0
+      },
+      {
+        "text": "co detector",
+        "weight": 0.9
+      },
+      {
+        "text": "detector",
+        "weight": 0.8
+      },
+      {
+        "text": "kidde",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "Door Holdback",
+    "patterns": [
+      {
+        "text": "door holdback",
+        "weight": 1.0
+      },
+      {
+        "text": "hold open",
+        "weight": 0.9
+      },
+      {
+        "text": "door",
+        "weight": 0.8
+      },
+      {
+        "text": "lcnb",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "Duct Smoke Detector",
+    "patterns": [
+      {
+        "text": "duct smoke",
+        "weight": 1.0
+      },
+      {
+        "text": "smoke detector",
+        "weight": 0.9
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.8
+      },
+      {
+        "text": "system sensor",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "Emergency Glass Break",
+    "patterns": [
+      {
+        "text": "glass break",
+        "weight": 1.0
+      },
+      {
+        "text": "emergency",
+        "weight": 0.9
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "Enclosure",
+    "patterns": [
+      {
+        "text": "enclosure",
+        "weight": 1.0
+      },
+      {
+        "text": "cabinet",
+        "weight": 0.9
+      },
+      {
+        "text": "box",
+        "weight": 0.8
+      },
+      {
+        "text": "hoffman",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "End of Line",
+    "patterns": [
+      {
+        "text": "end of line",
+        "weight": 1.0
+      },
+      {
+        "text": "eol",
+        "weight": 0.9
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.8
+      },
+      {
+        "text": "system sensor",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "FA Annunciator Panel",
+    "patterns": [
+      {
+        "text": "annunciator panel",
+        "weight": 1.0
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.9
+      },
+      {
+        "text": "panel",
+        "weight": 0.8
+      },
+      {
+        "text": "notifier",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "FA Communicator",
+    "patterns": [
+      {
+        "text": "fa communicator",
+        "weight": 1.0
+      },
+      {
+        "text": "communicator",
+        "weight": 0.9
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "FA Control Panel",
+    "patterns": [
+      {
+        "text": "control panel",
+        "weight": 1.0
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.9
+      },
+      {
+        "text": "panel",
+        "weight": 0.8
+      },
+      {
+        "text": "notifier",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "FA Expander Panel",
+    "patterns": [
+      {
+        "text": "expander panel",
+        "weight": 1.0
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.9
+      },
+      {
+        "text": "panel",
+        "weight": 0.8
+      },
+      {
+        "text": "notifier",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "FA Horn Strobe",
+    "patterns": [
+      {
+        "text": "horn strobe",
+        "weight": 1.0
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.9
+      },
+      {
+        "text": "strobe",
+        "weight": 0.8
+      },
+      {
+        "text": "system sensor",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "FA NAC Extender Power Supply",
+    "patterns": [
+      {
+        "text": "nac extender",
+        "weight": 1.0
+      },
+      {
+        "text": "power supply",
+        "weight": 0.9
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.8
+      },
+      {
+        "text": "notifier",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "FA Power Supply",
+    "patterns": [
+      {
+        "text": "power supply",
+        "weight": 1.0
+      },
+      {
+        "text": "fa power",
+        "weight": 0.9
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.8
+      },
+      {
+        "text": "altronix",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "FA Pull Station",
+    "patterns": [
+      {
+        "text": "pull station",
+        "weight": 1.0
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.9
+      },
+      {
+        "text": "manual pull",
+        "weight": 0.8
+      },
+      {
+        "text": "notifier",
+        "weight": 0.9
+      },
+      {
+        "text": "simplex",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "FA Relay Module",
+    "patterns": [
+      {
+        "text": "relay module",
+        "weight": 1.0
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.9
+      },
+      {
+        "text": "relay",
+        "weight": 0.8
+      },
+      {
+        "text": "notifier",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "FA Smoke Control",
+    "patterns": [
+      {
+        "text": "smoke control",
+        "weight": 1.0
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.9
+      },
+      {
+        "text": "smoke",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "FA Speaker",
+    "patterns": [
+      {
+        "text": "fa speaker",
+        "weight": 1.0
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.9
+      },
+      {
+        "text": "speaker",
+        "weight": 0.8
+      },
+      {
+        "text": "system sensor",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "FA Speaker Strobe",
+    "patterns": [
+      {
+        "text": "speaker strobe",
+        "weight": 1.0
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.9
+      },
+      {
+        "text": "strobe",
+        "weight": 0.8
+      },
+      {
+        "text": "system sensor",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "FA Strobe",
+    "patterns": [
+      {
+        "text": "fa strobe",
+        "weight": 1.0
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.9
+      },
+      {
+        "text": "strobe",
+        "weight": 0.8
+      },
+      {
+        "text": "system sensor",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "General Assembly",
+    "patterns": [
+      {
+        "text": "assembly",
+        "weight": 1.0
+      },
+      {
+        "text": "general assembly",
+        "weight": 0.9
+      },
+      {
+        "text": "component",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "General Component",
+    "patterns": [
+      {
+        "text": "component",
+        "weight": 1.0
+      },
+      {
+        "text": "general component",
+        "weight": 0.9
+      },
+      {
+        "text": "module",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "Heat Detector",
+    "patterns": [
+      {
+        "text": "heat detector",
+        "weight": 1.0
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.9
+      },
+      {
+        "text": "detector",
+        "weight": 0.8
+      },
+      {
+        "text": "notifier",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "Node",
+    "patterns": [
+      {
+        "text": "node",
+        "weight": 1.0
+      },
+      {
+        "text": "network node",
+        "weight": 0.9
+      },
+      {
+        "text": "controller",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "Smoke Detector",
+    "patterns": [
+      {
+        "text": "smoke detector",
+        "weight": 1.0
+      },
+      {
+        "text": "fire alarm",
+        "weight": 0.9
+      },
+      {
+        "text": "detector",
+        "weight": 0.8
+      },
+      {
+        "text": "notifier",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Alarm",
+    "assetType": "UPS Power Unit",
+    "patterns": [
+      {
+        "text": "ups",
+        "weight": 1.0
+      },
+      {
+        "text": "power unit",
+        "weight": 0.9
+      },
+      {
+        "text": "backup power",
+        "weight": 0.8
+      },
+      {
+        "text": "apc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Access Control Panel",
+    "patterns": [
+      {
+        "text": "access control panel",
+        "weight": 1.0
+      },
+      {
+        "text": "control panel",
+        "weight": 0.9
+      },
+      {
+        "text": "access",
+        "weight": 0.8
+      },
+      {
+        "text": "lenel",
+        "weight": 0.9
+      },
+      {
+        "text": "hid",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Access Credential",
+    "patterns": [
+      {
+        "text": "access credential",
+        "weight": 1.0
+      },
+      {
+        "text": "badge",
+        "weight": 0.9
+      },
+      {
+        "text": "card",
+        "weight": 0.8
+      },
+      {
+        "text": "hid",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Access Keypad",
+    "patterns": [
+      {
+        "text": "access keypad",
+        "weight": 1.0
+      },
+      {
+        "text": "keypad",
+        "weight": 0.9
+      },
+      {
+        "text": "access",
+        "weight": 0.8
+      },
+      {
+        "text": "hid",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Access Software",
+    "patterns": [
+      {
+        "text": "access software",
+        "weight": 1.0
+      },
+      {
+        "text": "software",
+        "weight": 0.9
+      },
+      {
+        "text": "access control",
+        "weight": 0.8
+      },
+      {
+        "text": "lenel",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Battery",
+    "patterns": [
+      {
+        "text": "battery",
+        "weight": 1.0
+      },
+      {
+        "text": "backup battery",
+        "weight": 0.9
+      },
+      {
+        "text": "power",
+        "weight": 0.8
+      },
+      {
+        "text": "apc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Biometric Reader",
+    "patterns": [
+      {
+        "text": "biometric reader",
+        "weight": 1.0
+      },
+      {
+        "text": "fingerprint",
+        "weight": 0.9
+      },
+      {
+        "text": "reader",
+        "weight": 0.8
+      },
+      {
+        "text": "suprema",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Card Reader",
+    "patterns": [
+      {
+        "text": "card reader",
+        "weight": 1.0
+      },
+      {
+        "text": "access reader",
+        "weight": 0.9
+      },
+      {
+        "text": "reader",
+        "weight": 0.8
+      },
+      {
+        "text": "hid",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Cellular Communicator",
+    "patterns": [
+      {
+        "text": "cellular communicator",
+        "weight": 1.0
+      },
+      {
+        "text": "cellular",
+        "weight": 0.9
+      },
+      {
+        "text": "4g",
+        "weight": 0.8
+      },
+      {
+        "text": "telguard",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Computer",
+    "patterns": [
+      {
+        "text": "computer",
+        "weight": 1.0
+      },
+      {
+        "text": "pc",
+        "weight": 0.9
+      },
+      {
+        "text": "workstation",
+        "weight": 0.8
+      },
+      {
+        "text": "dell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Door Contact",
+    "patterns": [
+      {
+        "text": "door contact",
+        "weight": 1.0
+      },
+      {
+        "text": "magnetic contact",
+        "weight": 0.9
+      },
+      {
+        "text": "sensor",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Door Holdback",
+    "patterns": [
+      {
+        "text": "door holdback",
+        "weight": 1.0
+      },
+      {
+        "text": "hold open",
+        "weight": 0.9
+      },
+      {
+        "text": "door",
+        "weight": 0.8
+      },
+      {
+        "text": "lcnb",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Door Position Switch",
+    "patterns": [
+      {
+        "text": "door position switch",
+        "weight": 1.0
+      },
+      {
+        "text": "door position",
+        "weight": 0.9
+      },
+      {
+        "text": "switch",
+        "weight": 0.8
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Double Door",
+    "patterns": [
+      {
+        "text": "double door",
+        "weight": 1.0
+      },
+      {
+        "text": "dual door",
+        "weight": 0.9
+      },
+      {
+        "text": "door",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Electric Strike",
+    "patterns": [
+      {
+        "text": "electric strike",
+        "weight": 1.0
+      },
+      {
+        "text": "strike",
+        "weight": 0.9
+      },
+      {
+        "text": "door",
+        "weight": 0.8
+      },
+      {
+        "text": "hes",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Electromagnetic Lock",
+    "patterns": [
+      {
+        "text": "electromagnetic lock",
+        "weight": 1.0
+      },
+      {
+        "text": "maglock",
+        "weight": 0.9
+      },
+      {
+        "text": "lock",
+        "weight": 0.8
+      },
+      {
+        "text": "securitron",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Emergency Door Release",
+    "patterns": [
+      {
+        "text": "emergency door release",
+        "weight": 1.0
+      },
+      {
+        "text": "door release",
+        "weight": 0.9
+      },
+      {
+        "text": "emergency",
+        "weight": 0.8
+      },
+      {
+        "text": "securitron",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Enclosure",
+    "patterns": [
+      {
+        "text": "enclosure",
+        "weight": 1.0
+      },
+      {
+        "text": "cabinet",
+        "weight": 0.9
+      },
+      {
+        "text": "box",
+        "weight": 0.8
+      },
+      {
+        "text": "hoffman",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Equipment Rack",
+    "patterns": [
+      {
+        "text": "equipment rack",
+        "weight": 1.0
+      },
+      {
+        "text": "rack",
+        "weight": 0.9
+      },
+      {
+        "text": "server rack",
+        "weight": 0.8
+      },
+      {
+        "text": "middle atlantic",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "General Assembly",
+    "patterns": [
+      {
+        "text": "assembly",
+        "weight": 1.0
+      },
+      {
+        "text": "general assembly",
+        "weight": 0.9
+      },
+      {
+        "text": "component",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "General Component",
+    "patterns": [
+      {
+        "text": "component",
+        "weight": 1.0
+      },
+      {
+        "text": "general component",
+        "weight": 0.9
+      },
+      {
+        "text": "module",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "General Software",
+    "patterns": [
+      {
+        "text": "software",
+        "weight": 1.0
+      },
+      {
+        "text": "access software",
+        "weight": 0.9
+      },
+      {
+        "text": "firmware",
+        "weight": 0.8
+      },
+      {
+        "text": "lenel",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Intercom",
+    "patterns": [
+      {
+        "text": "intercom",
+        "weight": 1.0
+      },
+      {
+        "text": "door intercom",
+        "weight": 0.9
+      },
+      {
+        "text": "access",
+        "weight": 0.8
+      },
+      {
+        "text": "aiphone",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Lock Power Supply",
+    "patterns": [
+      {
+        "text": "lock power supply",
+        "weight": 1.0
+      },
+      {
+        "text": "power supply",
+        "weight": 0.9
+      },
+      {
+        "text": "lock",
+        "weight": 0.8
+      },
+      {
+        "text": "altronix",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Network Jack",
+    "patterns": [
+      {
+        "text": "network jack",
+        "weight": 1.0
+      },
+      {
+        "text": "rj45",
+        "weight": 0.9
+      },
+      {
+        "text": "ethernet",
+        "weight": 0.8
+      },
+      {
+        "text": "leviton",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Network Switch",
+    "patterns": [
+      {
+        "text": "network switch",
+        "weight": 1.0
+      },
+      {
+        "text": "switch",
+        "weight": 0.9
+      },
+      {
+        "text": "ethernet",
+        "weight": 0.8
+      },
+      {
+        "text": "cisco",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Node",
+    "patterns": [
+      {
+        "text": "node",
+        "weight": 1.0
+      },
+      {
+        "text": "network node",
+        "weight": 0.9
+      },
+      {
+        "text": "controller",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Overhead Door",
+    "patterns": [
+      {
+        "text": "overhead door",
+        "weight": 1.0
+      },
+      {
+        "text": "garage door",
+        "weight": 0.9
+      },
+      {
+        "text": "roll-up",
+        "weight": 0.8
+      },
+      {
+        "text": "clopay",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Pedestrian Entry",
+    "patterns": [
+      {
+        "text": "pedestrian entry",
+        "weight": 1.0
+      },
+      {
+        "text": "entry gate",
+        "weight": 0.9
+      },
+      {
+        "text": "access",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Power Supply",
+    "patterns": [
+      {
+        "text": "power supply",
+        "weight": 1.0
+      },
+      {
+        "text": "access power",
+        "weight": 0.9
+      },
+      {
+        "text": "power",
+        "weight": 0.8
+      },
+      {
+        "text": "altronix",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Request to Exit",
+    "patterns": [
+      {
+        "text": "request to exit",
+        "weight": 1.0
+      },
+      {
+        "text": "rex",
+        "weight": 0.9
+      },
+      {
+        "text": "exit",
+        "weight": 0.8
+      },
+      {
+        "text": "bosch",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Server",
+    "patterns": [
+      {
+        "text": "server",
+        "weight": 1.0
+      },
+      {
+        "text": "rack server",
+        "weight": 0.9
+      },
+      {
+        "text": "network",
+        "weight": 0.8
+      },
+      {
+        "text": "dell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Single Door",
+    "patterns": [
+      {
+        "text": "single door",
+        "weight": 1.0
+      },
+      {
+        "text": "door",
+        "weight": 0.9
+      },
+      {
+        "text": "access",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Turnstile",
+    "patterns": [
+      {
+        "text": "turnstile",
+        "weight": 1.0
+      },
+      {
+        "text": "gate",
+        "weight": 0.9
+      },
+      {
+        "text": "access",
+        "weight": 0.8
+      },
+      {
+        "text": "alvarado",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "UPS Power Unit",
+    "patterns": [
+      {
+        "text": "ups",
+        "weight": 1.0
+      },
+      {
+        "text": "power unit",
+        "weight": 0.9
+      },
+      {
+        "text": "backup power",
+        "weight": 0.8
+      },
+      {
+        "text": "apc",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "User Workstation",
+    "patterns": [
+      {
+        "text": "workstation",
+        "weight": 1.0
+      },
+      {
+        "text": "user workstation",
+        "weight": 0.9
+      },
+      {
+        "text": "computer",
+        "weight": 0.8
+      },
+      {
+        "text": "dell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Vehicle Entry Control Point",
+    "patterns": [
+      {
+        "text": "vehicle entry",
+        "weight": 1.0
+      },
+      {
+        "text": "gate",
+        "weight": 0.9
+      },
+      {
+        "text": "access",
+        "weight": 0.8
+      },
+      {
+        "text": "bft",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+ {
+  "systemType": "Mechanical",
+  "assetType": "HVAC Systems: Air-Cooled Chillers",
+  "patterns": [
+    { "text": "carrier", "weight": 0.9 },
+    { "text": "chiller", "weight": 0.9 },
+    { "text": "air-cooled", "weight": 1.0 },
+    { "text": "hvac", "weight": 0.8 },
+    { "text": "refrigerant", "weight": 0.7 },
+    { "text": "trane", "weight": 0.9 },
+    { "text": "york", "weight": 0.9 },
+    { "text": "compressor", "weight": 0.8 },
+    { "text": "fan motor", "weight": 0.8 },
+    { "text": "power supply", "weight": 0.7 },
+    { "text": "mca", "weight": 0.7 },
+    { "text": "mocp", "weight": 0.7 },
+    { "text": "outdoor", "weight": 0.8 },
+    { "text": "psi", "weight": 0.7 },
+    { "text": "r134a", "weight": 0.7 },
+    { "text": "ckt", "weight": 0.7 },
+    { "text": "lra", "weight": 0.7 },
+    { "text": "rla", "weight": 0.7 },
+    { "text": "design pressures", "weight": 0.8 },
+    { "text": "oil chg", "weight": 0.7 },
+    { "text": "volt-ac", "weight": 0.7 }
+  ],
+  "requireMatchCount": 2
+},
+  {
+    "systemType": "Mechanical",
+    "assetType": "HVAC Systems: Air Handling Units (AHUs)",
+    "patterns": [
+      { "text": "air handling unit", "weight": 1.0 },
+    { "text": "ahu", "weight": 0.9 },
+    { "text": "hvac", "weight": 0.8 },
+    { "text": "york", "weight": 0.9 },
+    { "text": "daikin", "weight": 0.9 },
+    { "text": "trane", "weight": 0.9 },
+    { "text": "hfc-410a", "weight": 0.7 },
+    { "text": "compressor", "weight": 0.7 },
+    { "text": "amps", "weight": 0.7 },
+    { "text": "spine fin", "weight": 0.8 }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Mechanical",
+    "assetType": "Pumps: Fire Pumps",
+    "patterns": [
+      {
+        "text": "fire pump",
+        "weight": 1.0
+      },
+      {
+        "text": "pump",
+        "weight": 0.9
+      },
+      {
+        "text": "fire protection",
+        "weight": 0.8
+      },
+      {
+        "text": "grundfos",
+        "weight": 0.9
+      },
+      {
+        "text": "patterson",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Mechanical",
+    "assetType": "Air Distribution: Motorized Dampers",
+    "patterns": [
+      {
+        "text": "motorized damper",
+        "weight": 1.0
+      },
+      {
+        "text": "damper",
+        "weight": 0.9
+      },
+      {
+        "text": "hvac",
+        "weight": 0.8
+      },
+      {
+        "text": "belimo",
+        "weight": 0.9
+      },
+      {
+        "text": "honeywell",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Electrical",
+    "assetType": "Power Distribution: Transformers",
+    "patterns": [
+      {
+        "text": "transformer",
+        "weight": 1.0
+      },
+      {
+        "text": "power distribution",
+        "weight": 0.9
+      },
+      {
+        "text": "electrical",
+        "weight": 0.8
+      },
+      {
+        "text": "schneider",
+        "weight": 0.9
+      },
+      {
+        "text": "eaton",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Electrical",
+    "assetType": "Lighting Systems: Emergency Lighting",
+    "patterns": [
+      {
+        "text": "emergency lighting",
+        "weight": 1.0
+      },
+      {
+        "text": "lighting",
+        "weight": 0.9
+      },
+      {
+        "text": "electrical",
+        "weight": 0.8
+      },
+      {
+        "text": "lithonia",
+        "weight": 0.9
+      },
+      {
+        "text": "acuity",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Electrical",
+    "assetType": "Renewable Energy: Solar Panels",
+    "patterns": [
+      {
+        "text": "solar panel",
+        "weight": 1.0
+      },
+      {
+        "text": "solar",
+        "weight": 0.9
+      },
+      {
+        "text": "renewable",
+        "weight": 0.8
+      },
+      {
+        "text": "sunpower",
+        "weight": 0.9
+      },
+      {
+        "text": "tesla",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Electrical",
+    "assetType": "Electrical Meters: Smart Meters",
+    "patterns": [
+      {
+        "text": "smart meter",
+        "weight": 1.0
+      },
+      {
+        "text": "meter",
+        "weight": 0.9
+      },
+      {
+        "text": "electrical",
+        "weight": 0.8
+      },
+      {
+        "text": "itron",
+        "weight": 0.9
+      },
+      {
+        "text": "landis",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Plumbing",
+    "assetType": "Piping: Domestic Water Piping",
+    "patterns": [
+      {
+        "text": "domestic water piping",
+        "weight": 1.0
+      },
+      {
+        "text": "water piping",
+        "weight": 0.9
+      },
+      {
+        "text": "plumbing",
+        "weight": 0.8
+      },
+      {
+        "text": "copper",
+        "weight": 0.8
+      },
+      {
+        "text": "pex",
+        "weight": 0.8
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Plumbing",
+    "assetType": "Fixtures: Water Closets",
+    "patterns": [
+      {
+        "text": "water closet",
+        "weight": 1.0
+      },
+      {
+        "text": "toilet",
+        "weight": 0.9
+      },
+      {
+        "text": "plumbing",
+        "weight": 0.8
+      },
+      {
+        "text": "kohler",
+        "weight": 0.9
+      },
+      {
+        "text": "american standard",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Plumbing",
+    "assetType": "Water Heaters: Tankless Water Heaters",
+    "patterns": [
+      {
+        "text": "tankless water heater",
+        "weight": 1.0
+      },
+      {
+        "text": "water heater",
+        "weight": 0.9
+      },
+      {
+        "text": "plumbing",
+        "weight": 0.8
+      },
+      {
+        "text": "rinnai",
+        "weight": 0.9
+      },
+      {
+        "text": "navien",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Protection",
+    "assetType": "Sprinkler Systems: Wet Sprinkler Systems",
+    "patterns": [
+      {
+        "text": "wet sprinkler",
+        "weight": 1.0
+      },
+      {
+        "text": "sprinkler system",
+        "weight": 0.9
+      },
+      {
+        "text": "fire protection",
+        "weight": 0.8
+      },
+      {
+        "text": "viking",
+        "weight": 0.9
+      },
+      {
+        "text": "tyco",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Fire Protection",
+    "assetType": "Fire Suppression Systems: Clean Agent Systems",
+    "patterns": [
+      {
+        "text": "clean agent system",
+        "weight": 1.0
+      },
+      {
+        "text": "fire suppression",
+        "weight": 0.9
+      },
+      {
+        "text": "fire protection",
+        "weight": 0.8
+      },
+      {
+        "text": "fm-200",
+        "weight": 0.9
+      },
+      {
+        "text": "kidde",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Access Control",
+    "assetType": "Door Lockset",
+    "patterns": [
+      {
+        "text": "door lockset",
+        "weight": 1.0
+      },
+      {
+        "text": "lockset",
+        "weight": 0.9
+      },
+      {
+        "text": "access",
+        "weight": 0.8
+      },
+      {
+        "text": "schlage",
+        "weight": 0.9
+      },
+      {
+        "text": "yale",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Communications",
+    "assetType": "Telecom System Controller",
+    "patterns": [
+      {
+        "text": "telecom controller",
+        "weight": 1.0
+      },
+      {
+        "text": "controller",
+        "weight": 0.9
+      },
+      {
+        "text": "telecom",
+        "weight": 0.8
+      },
+      {
+        "text": "avaya",
+        "weight": 0.9
+      },
+      {
+        "text": "cisco",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Video Surveillance",
+    "assetType": "Camera",
+    "patterns": [
+      {
+        "text": "camera",
+        "weight": 1.0
+      },
+      {
+        "text": "surveillance camera",
+        "weight": 0.9
+      },
+      {
+        "text": "video",
+        "weight": 0.8
+      },
+      {
+        "text": "hikvision",
+        "weight": 0.9
+      },
+      {
+        "text": "axis",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Healthcare",
+    "assetType": "Nurse Call System",
+    "patterns": [
+      {
+        "text": "nurse call system",
+        "weight": 1.0
+      },
+      {
+        "text": "nurse call",
+        "weight": 0.9
+      },
+      {
+        "text": "healthcare",
+        "weight": 0.8
+      },
+      {
+        "text": "rauland",
+        "weight": 0.9
+      },
+      {
+        "text": "hill-rom",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  },
+  {
+    "systemType": "Facility Equipment",
+    "assetType": "Fire Extinguisher",
+    "patterns": [
+      {
+        "text": "fire extinguisher",
+        "weight": 1.0
+      },
+      {
+        "text": "extinguisher",
+        "weight": 0.9
+      },
+      {
+        "text": "fire safety",
+        "weight": 0.8
+      },
+      {
+        "text": "amerex",
+        "weight": 0.9
+      },
+      {
+        "text": "kidde",
+        "weight": 0.9
+      }
+    ],
+    "requireMatchCount": 2
+  }
+]
